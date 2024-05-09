@@ -1,205 +1,244 @@
 import pyperclip
 
 x = """
-Chapter 4  - Problem with a Territory (2)
-Within the Lord's office of the Kalingrad Mansion, Josee sat with six men standing in front of her.
-"... Yes. I'll pay you each 10 silver after you've done this", Josee then dropped fifty silvers each for the carpenters and blacksmiths in front of her.
-""Woah!""
-"Milady, you're really serious?"
-"... Yes. I will personally oversee this project. It's a new method of cultivating crops without soil."
-After discussing much with the carpenters and blacksmiths, Josee ordered her steward, Alex, to open the storage house and give them the resources they needed. Though not a lot, it was sufficient.
-'... By today, I'll have a few units where I can conduct experiments on which crop and nutrient combination is suitable.'
-After the men left, Josee called for Nadia.
-"... Nadia", Josee softly asked, "I need you to order some men to get me these list of ingredients. Give them some bags of grain as a reward."
-"Milady", Nadia fixed her old glasses and read the words written on the paper.
-"Animal manure, urine, compost, wood ash, bones, seashells, sand... mi-milady, what are these things for?"
-"... Just an experiment."
-"Oh... ", Nadia then remembered, "Is this for your academy, milady?"
-"... ", Josee paused for a moment.
-'... Oh. Right. I was on vacation during the 3rd year of my academy. I completely forgot', Josee thought.
-"... No. It's for our people. I will show you once the ingredients are here."
-"Ah, very well, milady."
-Finally dealing with the preparation, Josee rested her back on the chair.
-"... Now then. I suppose I should stop just wildly flinging my sword."
+
+
+After talking with the carpenters and blacksmiths, Josee had another headache.
+'... They're using hand measurements. Oh my god,' she sat at her office table, pinching her glabella.
+'... The length of a hand, a foot, or fingers. This simply will not do. For my future projects, I cannot allow that to happen.,' Josee stood up from her table with a deep frown on her face.
+'... If I don't fix this now, it'll be a fucking mess later. But I can't recreate the metric system. Not with my clunky memory. I will need a potion.'
+She looked at the room where only Schulga was left behind.
+'... First, I will have to directly inspect the territory.'
+"... Prepare the carriage," Josee commanded.
+"Yes!" Schulga replied, "Where might we be heading, milady?"
+"... Village."
 ◇ ◇ ◇ ◇ ◇
-Within the backyards of the Kalingrad mansion stood a man and a young woman.
-"What?", Schulga stared in shock.
-As usual, Schulga did his morning sword exercises. Wearing his tunic pants while topless, his well-toned muscles breathed in and out.
-His exercises were always commenced at the barracks courtyard just next to the Lord's mansion.
-And standing before him was a woman with long brown hair, crimson eyes, a white long-sleeved shirt, and leather pants.
-"... Teach me swordsmanship. Are you deaf?", Josee rolled her eyes.
-"That...", Schulga frowned.
-"... I want to learn swordsmanship. What else?", Josee then brandished her wooden sword.
-And the two stared at each other for a minute.
-Schulga sighed before raising his sword.
-"... Very well, I shall teach you."
-And so began their training process. Schulga started by teaching Josee the footwork, to which he was surprised at how quickly she immediately learned them. Josee tripped and fell many times. Bruises started filling her body. But even then, she never gave up, rising every time she fell.
-They continued training from morning to night. And yet, it was Schulga who became exhausted, while Josee was still brimming with energy.
-A trait that Schulga thought must have been due to the unwavering determination Josee displayed.
+A humble carriage walked through the middle of the humble village of Aquel, drawn by a malnourished horse.
+As the dust from the dirt road was kicked into the air by the carriage, the villagers standing around stared at the carriage. Though it was humble and crestless, an old and almost shabby carriage, everyone in the village knew to whom it belonged.
+The Baron's Daughter.
+The carriage stopped in the village center. Opening the door, a maid came out and held the door for Josee, who carried her own umbrella.
+She wore a long red skirt, a long-sleeved white shirt, a leather corset, and a white capelet on her shoulder. Putting her arms to the back, she caressed her buttocks.
+'... I endured it last time, but goddamn, that's a fucking uncomfortable piece of shit carriage. I'll have to commission the blacksmith to build me a suspension system.'
+Her crimson eyes scanned the surroundings. The village houses were small timber-framed structures carrying thatched roofs. The whitewash covering the walls was filled with many random woods, hammered to hide the holes in it. Many houses had missing roofs, covered by large leaves; most were just shanty houses built from scavenged scrap woods.
+Josee observed the busy village. Many of the men were busy hammering at the walls and roofs. On the sides of the houses, Josee noted the fences in each house, sometimes in the front yard, others in the backyard. The women were inside those fences, carrying baskets of food scraps or foraged green stuff to feed the chickens or pigs in their backyards. But the number of their livestock was only two or three.
+"Wah, it's the baron's daughter!" a group of children approached Josee. They were wearing humble tunics made of linen.
+'... Blue, Red, Yellow, beige. Their clothing has a surprising variety,' Josee noted as the kids surrounded her.
+"Hey! Hey, what are you doing here?"
+"Do you have snacks?"
+"Milady, come play with us!"
+Josee half-closed her eyes. Seeing the playful energy of these five children, Josee felt tired all of a sudden.
+Behind her, Schulga came down from the carriage driver's seat, and Misha, the young maid, quietly stood behind.
+"... Misha," Josee commanded, "Give the children some snacks."
+"Ah, yes!" the brown-haired young maid bowed before going to the carriage and opening a compartment underneath the seats.
+"... I have no time to play," Josee softly replied to the children.
+"... That maid will give you snacks," she pointed to Misha inside the carriage.
+"Snacks? Yay!"
+"Thank you, milady!"
+"You're so nice!"
+Josee stepped aside as the children left to surround the young Misha.
+Walking through the village, Josee noticed how near the port was. Many villagers turned to look at her, and a lot of them waved their hands to say hello.
+"Oh, milady," a hunched old lady, wearing a humble brown tunic, waved her hands.
+Josee turned to her and nodded.
+Walking beside her, Schulga simply observed Josee's actions. His right hand was placed on the sword at his hip.
+Finally arriving near the port, Josee stopped and ruminated. It was a port made of stones cut into pieces and glued together using mortar. On the dock, where many boats were being repaired or built at the moment, Josee saw a lot of men walking around, bringing wood, nails, and hammering.
+'... Single mast, two sails. If I remember correctly, those are called Shallop boats.'
+Suddenly, a guard stopped before Josee and lightly bowed.
+"Milady," the middle-aged guard spoke.
+Josee looked at him and nodded.
+"... Is there anything I should know? How's the security?"
+"We've been patrolling the village, and so far, there haven't been any pirate sightings," the guard reported.
+'... Pirates,' Josee frowned.
+'... Fuck. Josee from the noble life only cared about simping over handsome princes at the academy. And you're telling me there were actually pirates in her territory? Fuck.'
+'... Then again, this place is riddled with monsters.'
+Suddenly, a commotion emerged. Josee turned toward the port and saw the men had stopped what they were doing. They stared at the horizon and saw a boat approaching them. From that distance, they saw that one of the boat's sails had a huge hole in it.
+Josee's crimson eyes suddenly grew brighter as a spark of ember flowed through them like water. Her eyes zoomed in on the men in that boat, and she saw that they were injured.
+Schulga watched from the side, his eyes bulging wide at the change in Josee's eyes.
+"... Tsk," Josee deeply frowned.
+She turned to the guardsman and, with urgency in her voice, ordered:
+"... Get the wise women and the church priest. Those men are injured."
+"Huh?" the guard raised his eyebrows, turning around and looking at the distance.
+"You can see from that far, milady?"
+"... I gave you an order," Josee coldly replied.
+"Ah! Yes!" surprised, the guard immediately ran through the village to get the people Josee needed.
+After five minutes, the Shallop boat arrived, carrying five men who were bruised and injured. The men at the port panicked and hurriedly carried the men to the docks, laying them on the ground.
+As soon as the men were placed on the dock, the guard from earlier came back. He brought six women and the local priest, who saw the situation and hurriedly aided the injured men.
+"Bring us alcohol!" one of the wise women, an old grandma, shouted at the men standing on the side, who immediately ran toward their houses.
+Josee watched as the six women opened the boxes they carried. She observed how they assessed the men's injuries and immediately took linen clothes to start cleaning the wounds.
+"Gah! Damn bloody pirates!" one of the injured men groaned.
+"Rogar, I told you we should have given our fish," another injured man spoke.
+"And what? Starve our families? We can't burn through the lord's grains; we'd starve!" argued the man named Rogar.
+Moments later, Josee turned to one of the men watching on the side and asked:
+"... You, how often does this happen?" Josee asked.
+"Ah, Milady. Hmm? Your eyes are red?" the villager wondered.
+"... Answer my question," Josee frowned.
+"Ah, yes, well," the man scratched his head, "Not really often. Though it sometimes happens every year. It's when we venture too far into pirate territory east. There's plenty of fish there, undisturbed by Cetarax, but filled with pirates."
+"... I see," Josee nodded.
+'... These men must have been desperate. They dared to venture into dangerous waters due to the lack of fish in the area.'
+Josee then turned and looked at the local priest. He was a middle-aged man with a goatee, wearing a dark robe and beads. He was casting some healing spell. His forehead was sweating as a small magic circle of yellow light appeared in his hands.
+"... Schulga," Josee spoke.
+"Yes, milady?"
+"... Remind me what that spell is."
+"The Rejuvenating spell," Schulga replied. But his eyes flinched at Josee's question.
+"It boosts the patient's health, makes them heal faster."
+"... But it does not actually heal them?"
+"No. Father Pedran only knows a few low-level spells," Schulga clarified.
+"... I see."
+'... This Cetarax is causing too much headache,' Josee's eyes sharpened.
+Josee felt the caress of the strong wind from the sea. Standing on top of the stone seaport, she watched as strange birds flew through the sky.
+'... I will have to personally butcher that lobster myself,' Josee coldly remarked.
+A jar of alcohol finally arrived. The wise women each applied it to the slash wounds and bruises of the injured men, cleaning them in the process.
+'... It's the sole reason why this territory is poor. A strategic location given its proximity to the kingdom to the south, and yet unusable.'
+Josee deeply sighed.
+'... Once the path is opened, the Kalingrad Barony will be the new trading hub between the two kingdoms. After all, it's much more economical than directing your ship 40 more kilometers north.'
+A memory suddenly flashed through Josee's mind. The realization caused her eyes to open wide.
+"... Ah, that's right..."
+'... The fucking crown prince goes to war with the Southern Kingdom over the heroine, a mere woman. Then, after slaughtering the royal family, he crippled their economy...'
+Josee began having a headache. She started biting her thumbnail. Seeing this, Schulga frowned.
+'... He made the common populace suffer over the sin of a single man. Jesus fucking Christ, that insane lunatic! AHHHHHHH! If the southern kingdom gets crippled, where am I gonna get business?!'
+It was at this moment when Josee finally decided to mark the prince as one of her future "targets."
+'... I will fucking kill him.'
+Afterwards, Josee interviewed a few more men before leaving the area. As she rode through the carriage, Schulga quietly observed her.
 ◇ ◇ ◇ ◇ ◇
-The Kingdom of Brytoria.
-A powerful kingdom situated at the southern tip of the Continent of Eurasia.
-Within the high walls of its capital city, a banquet was currently being held at the King's palace. Nobles of high pedigree, wealthy merchants, high-ranking members of the clergy, members of the mages' tower, and those of the Knights' orders all mingled and interacted.
-The grand banquet hall stood as a testament to opulence and power. Its walls were adorned with majestic tapestries, depicting mythic tales of valor. Above, a painted ceiling transformed the space into an open sky filled with celestial wonders. Gilded woodwork gleamed in the ambient light, and chandeliers of gold and crystal cast a soft radiance upon the tables.
-A symphony of curtains framed the towering windows, and marble sculptures graced the alcoves, their cold eyes bearing witness to the festivities. The table, resplendent with silver and exquisite tableware, beckoned guests to partake in a feast fit for kings.
-Nobles were resplendent in their medieval finery, donned in rich velvet tunics, embroidered cloaks, and glistening jewels, while knights and clergy wore suits of armor and holy vestments, their attire a tapestry of status and tradition.
-In a corner of this banquet, a man dressed in a humble blue noble tunic mingled among other nobles. He held a cup of wine and laughed together with them.
-"So. With the war almost over, it presents us with a new opportunity."
-"Indeed. The Montelar Kingdom was foolish to ever oppose us. With their kingdom occupied, there will be a great opportunity to establish new trade routes."
-"Aye. Lord Edward, I believe the Montelar's great mines will be a better opportunity."
-As the humble nobleman listened to his fellow nobles, he couldn't help but frown.
-"Baron Kalingrad", spoke the deep voice of another nobleman.
-Baron Kalingrad turned around and smiled when he saw a middle-aged man with blonde hair in front of him.
-"Ah, Viscount Montfort", Baron Kalingrad replied in delight, shaking the hands of the man in front of him.
-"It's good to see you", the Viscount lightly smiled, "You should have sent me a letter on where you're staying, I would have dropped by!"
-"Ah, I can't trouble you with that", the Viscount wryly laughed.
-The two friends began talking and recollecting the old past. As they remembered, they laughed at the many adventures they once had. Finally, Viscount Montfort paused, as if remembering something.
-"Ah. Right. How is your daughter, Josephine?"
-"... My daughter is doing well", Baron Kalingrad replied, "She's at home, on vacation from the academy."
-"Hmm. Good. My daughter too. Did you know, reading fiction has been all the rage with youngsters these days", Viscount Montfort complained with a frown on his face.
-"... They can't get anything done. Not even simple chores. It's corrupting them!"
-"Oh. Fortunately, my daughter is not too addicted to those."
-Their conversation continued. And as it did, Viscount Montfort suddenly spoke in a whisper.
-"Baron Kalingrad, my friend, I know you've been looking for someone to invest in your territory", the Viscount dropped his shoulders.
-"I am", the Baron sighed, "It's been a hard year. I've been diligent in my prayers, but it seems the gods do not look at me with favor."
-Hearing the lament of his friend, the Viscount sighed. He placed his arm around Baron Kalingrad and pointed his hands toward a man on another side of the room.
-"Do you see that plump, wealthy man?", the Viscount signaled with his chin.
-"I believe that's the wealthy merchant, Serisous", the Baron Kalingrad caressed his goatee.
-"What are you trying to propose, Viscount?"
-"It's like this", the Viscount sighed, "Serisous wants to become a noble. But he's only wealthy; there's no other significant accomplishment. Therefore... he's been looking for someone noble to..."
-"Marry", Baron Kalingrad cut him off with an almost hateful voice.
-Hearing this, the Viscount sighed.
-Baron Kalingrad immediately drank down all the wine in his cup.
-"Haa... now what?", the Baron stared at the ground, "Am I to sell my daughter off now? Is that it?"
-"Forgive me, Baron, I did not mean offense", the Viscount explained, "It's simply an option. You know yourself, no noble would invest in Aquel."
-"Tsk", the Baron scoffed, "Do you even know the relevance of my territory? It was my ancestors who protected this Kingdom from the onslaught of monsters from the Cursed Forest. And now, now what? We're discarded when we no longer have any use!"
-Here is the continuation with corrections:
-"I know, I know, Baron", the Viscount turned his eyes around and hurriedly guided his friend away.
-"You mustn't speak like that!", the Viscount felt the sweat fall off his forehead, "If others heard you, you might get tried for treason!"
-"Bah! To hell with that!", the Baron angrily protested.
-Seeing that his friend's face was fully flushed, the Viscount sighed and simply brought him outside.
+By the south of the village of Aquel was a humble patch of land. In this place, a different industry existed.
+Salt Farmers.
+Josee stepped down into the field, seeing a flat land filled with dozens of salt farmers. They carried buckets of saltwater before pouring them into square flats of land where someone would rake the water to create an even elevation.
+The salt farms were situated a few hundred meters from the village and the beach.
+"Milady," Schulga spoke, "It's dirty and hot in here. A noble lady like you sh-"
+"... I do not care," Josee cut him off, causing Schulga to keep quiet.
+As Josee observed them from the edge of the salt farm with an umbrella in her right hand, someone suddenly approached her.
+It was a farmer in his mid-40s. His skin had become dark from the constant sunlight. Wearing faded dark blue trousers, the man bowed before Josee.
+"It's a pleasure to meet the baron's young lady," the sweating farmer smiled.
+"May I inquire as to your visit?" the farmer lightly smiled. Seeing his sweat, Josee frowned.
+"... Tsk. Misha, give this man a cup of water."
+"Ahh? Y-Yes!" Hurriedly, Misha ran inside the carriage, where she took a cup of water from the barrel inside. Running back, she gave it to the farmer, who smiled and gladly drank it.
+"Ah, thank you for the water, my lady!" the man brightly smiled.
+As Josee looked over the field, the hard labor of poor peasants, a sudden idea popped into her head.
+"... How's the salt production?" Josee asked.
+"Hmm? Do you mean the amount, milady?"
+"... Yes," Josee softly replied.
+"Well, it is sufficient to supply this village—two dozen bags of salt. We sell the excess to the traveling caravan each month." Josee then nodded.
+"... What's it like farming salt?"
+"Making salt is laborious work," the salt farmer swiped the sweat off his face. "You have to keep watch over the fields and make sure no animal comes to disturb it. And when it rains, it washes the salt away. So we can only farm during certain seasons and pray that Aerasyl grants us good wind."
+"... And the hardest part of the work?" Josee asked.
+"We, ugh, we have to always carry buckets of seawater to the fields whenever the water evaporates, so that we can get as much salt per flat," the farmer raised his eyebrows. He didn't understand why a noble lady wanted to hear about the work of a peasant.
+"... I see... and... Your allegiance... it is sworn to my father?" she coldly asked.
+"Yes," the man shakily nodded.
+"... and my father... owns these lands, hence he owns these farms, yes?"
+"Y-Yes?", the man stuttered, this time, he felt something was wrong. He tried to read her mood, but Josee remained emotionless.
+"... I see," she then began walking around the salt farm's perimeter. For ten minutes, Josee just walked around the whole farm. The salt farmers looked at her with weird eyes. What was a well-dressed woman doing in their muddy farm?
+As Josee finished surveying the lands, she returned to her carriage and immediately left.
+The salt farmer was left there, standing with widened eyes. He felt like he was about to lose his job.
 ◇ ◇ ◇ ◇ ◇
-The Flames of Cinder arose once more.
-Josee stood atop the body of a giant boar, almost the size of four men stacked on top of each other. The boar was filled with many cuts and slashes, its body drowning in its own blood.
-"... Now then", Josee jumped off the giant boar. Right now, she wore no armor, but leather pants with a long-sleeved shirt. Her clothes were doused in blood and scratched and ripped in different places.
-"I have to pull this thing, but...", Josee stared at the size of that monster and deeply sighed.
-"... Strength training, I suppose."
-Suddenly, a wind passed her by, and Josee's sight of the world began shaking, her sight fell to the ground.
-'... What', her eyes widened at the sight of her body falling before her.
-'... Something beheaded me.'
-But the flames would not be stoked.
-After she blacked out for a moment, Josee stood up once more, the Flames of Cinder resurrecting her. With her sharpened eyes, she immediately saw a shadow walking over the tree branches.
-A cat.
-Josee touched her neck before glaring at the shadow cat within the trees.
-"... What a terrible beast."
-The cat glared at her, before a shadow energy grew from within its body, engulfing it.
-Josee's eyes widened.
-"... So, it's a being capable of magic."
-Josee held her iron sword with both hands. As the cat hissed at her, it positioned itself and like lightning, leaped towards Josee with its terrible fangs.
-But her irises glowed a shade of red. The cat flew closer and closer. Three meters. Two meters. One meter. And just as it was near Josee's face, a flame suddenly enveloped her, catching the shadow cat off-guard.
-"KRAH!", the shadow cat growled.
-Unable to react, Josee immediately grabbed its body and shoved a blade through its head, immediately killing the cat. The shadows within the beast immediately faded, turning it into a dark gray cat.
-"... Hmm. Well, that was anticlimactic", Josee threw the dead shadow cat on top of the freshly killed giant boar.
-With ropes tied to the boar, Josee began her journey, pulling the beast back to Aquel.
+The carriage drove through the village. As the sun began setting, the villagers began gathering and retreating back to their homes. The fishermen anchored their boats, the women returned their livestock to their pens, and the guards changed shifts, diligently patrolling the village.
+In her carriage, Josee sat with crossed legs.
+In front of her, a knight in steel armor sat with crossed arms and a serious look on his face.
+Josee merely closed her eyes, lost in her own thoughts.
+As Schulga stared at her, the white-haired man finally opened his mouth.
+"Milady," an incomparable seriousness filled his face, "Why have you drastically changed from your 1-week coma?"
+As those words entered her ears, Josee slowly opened her crimson eyes. The warm orange light entering through the windows gave an almost ethereal shade.
+Thinking for a moment, she stared back at Schulga without an ounce of hesitation.
+"... A god revealed unto me... knowledge."
+"What?", Schulga frowned.
+He then opened his mouth and asked, "Which god?" Schulga questioned.
+"..."
+"..."
+"... Why would I tell you?" Josee asked with cold eyes looking down on Schulga.
+Hearing her response, Schulga deeply frowned.
+And after a few moments, he finally spoke.
+"You... you're not Josephine Kalingrad... are you," he growled in a deep voice. Schulga subconsciously held the handle of his sword.
+As Josee saw this, her half-closed, cold eyes lazily glared at Schulga.
+"... What makes you say that?" Josee asked.
+"You asked questions. A lot of them. Things the real Josee Kalingrad should have known," Schulga spoke deeply.
+"And you've been acting weird. The real Josee is not this domineering. She's a cheerful and innocent noble lady. You're too smart and ruthless," Schulga tightly gripped the hilt of his sword.
+"I don't know who you are, but if you've done something to the real Jose-"
+"... And what are you going to do? Hmm?" Josee cut him off.
+"... Kill me?" she merely glared at him.
+Schulga flinched. He deeply frowned and gnashed his teeth.
+"If I must."
+"... ", Josee paused for a few seconds before a smirk appeared on her face.
+"... No. I'm the real Josee."
+"And how can you prove that?"
+Josee opened her eyes once more. Slowly, a cold light came off her eyes.
+"... You told me you were a bastard son of the Redonis Household, remember?"
+Schulga's eyes then slowly widened.
+"... Back when I was 10 years old," Josee softly smiled, "... I remember."
+"... Still, I know it's shocking to see a huge transformation in such a short time," Josee flipped her brown hair with her right hand.
+"... But falling from a horse is not sufficient for one to go into a coma. And it's not even a running horse," Josee tilted her head, resting it in her right hand.
+"Then," Schulga gulped, "What exactly happened?"
+"..." Josee glanced at the setting sun. The quiet moment made her remember the memories of her past life.
+"... I had experienced an entirely different life," Josee spoke. And slowly, her humble dress became engulfed in embers.
+The Flames of Cinder blazed gently around Josee. It burned quietly, and yet, it did not harm the wood nor Schulga.
+As Schulga saw those flames, his eyes widened.
+"That fire," Schulga gulped, "That's not... magic, is it?"
+"... No," Josee responded, "It is not."
+"... The life I experienced on the other side, I would not wish to speak of it. But..."
+Josee's eyes became filled with melancholy.
+"It... changed me, in many ways. Taught me things. I saw things. Well... it's all in the past now."
+And as Schulga watched the empty look within Josee's eyes, a sense of dread filled his heart.
+'... That stare, that's the stare of someone who had seen... horrors. I've seen old knights with a stare like that.'
+"Lady Josephine," Schulga removed his hands from his sword handle.
+"This... thing you experienced. Will there be more to it? What happened?"
+"... Worry not," Josee glanced back at Schulga.
+"... The dream is over. And I had been granted knowledge no man should have. I know your loyalty, Schulga. I can trust you. But I cannot tell anyone what I had seen.... or there will be consequences."
+"Consequences?" Schulga frowned. His legs tapped the floor of the moving carriage.
+"... Yes," Josee stared right into his eyes.
+"... Consequences," Josee bit her lips. Her crimson eyes downcast.
+As he heard the grave voice of his lady, a voice that almost sounded desperate, Schulga gnashed his teeth.
+"Milady!" Schulga announced.
+"I am here. I will fight for you and protect you from anything that comes! No matter what it is, my life is yours!" Schulga spoke with a passionate, brave voice.
+"... I know," Josee softly replied.
+"... I still remember when I strayed off to the Cursed Forest. You protected me from a giant Serpent," Josee lightly smiled.
+"Milady."
+"... It's good I haven't forgotten that."
+"Well," Schulga lightly smiled, "You were quite the rebellious daughter back then."
+"... Hmph," Josee giggled.
+"Milady," Schulga then bowed his head.
+"I apologize for my transgression earlier. I promise it will not happen again."
+"... Think nothing of it. Your worries were warranted," Josee nodded, retracting her fire inside.
+A moment of silence passed them by. And as the carriage neared the small family mansion, Schulga opened his mouth again.
+"But milady, for what purpose were your... knowledge given?"
+"... An enemy will come," Josee spoke with a deep frown on her face.
+Seeing the changes, Schulga also frowned.
+"What enemy, milady?"
+"... A powerful one. Unimaginably so. That's why we need power. And to recruit allies. I will make this town prosper; it will be the base of our operations."
+"... We must be ready for the coming battle," and Josee turned towards Schulga.
+"... We might all die."
 ◇ ◇ ◇ ◇ ◇
-The dawn slowly rose into the sky, blessing the humble village of Aquel with a new day. But as the simple villagers left their houses in the early morning, they saw a fresh carcass of a giant boar in the village square. It was a boar as high as four adult men.
-The villagers gathered together, their jaws wide open, in awe of the sheer size of the fallen beast, but more so at the woman who sat on top of it. Her leather pants and white long-sleeve shirt were doused in dried blood, torn to many pieces.
-Holding her sword, stabbed into the boar, she stared into the rising sun with such a peaceful gaze.
-Moments later, a group of men arrived. A man in a priestly robe and a group of guards stood in front of the boar.
-"Your ladyship!", the priest shouted. His brows were deeply furrowed, as a strange sight that shouldn't happen had occurred before him.
-Hearing his voice, Josee lightly looked down.
-"... What?", she softly, yet coldly replied.
-"Um", the 50-year-old priest, Father Pedran, scratched his head, "Did you kill this boar?"
-Hearing him, the villagers gasped. How could a fragile-looking woman kill such a giant boar? It could easily tear apart twenty men with ease, the villagers thought.
-"... I did", Josee replied without interest, returning her gaze back to the horizon.
-Father Pedran widened his eyes. He turned to look at the surrounding guards, and they all shook their heads and shrugged their shoulders.
-Suddenly, a man came running with a horse. He was still wearing his sleeping wear, as his muscles glistened from the sweat of the morning light.
-"My lady!", Schulga shouted and went down the horse.
-"W-What happened her- By the Divines!?", Schulga stared in shock, seeing his noble lady's clothes in tatters once more. Schulga almost felt his heart pop out of his chest.
-"M-My lady?! Are you alright?! My lady?!"
-Schulga's shouting caused Josee to lose her momentary peace.
-"My lady!!", he hysterically shouted.
-A vein popped on her forehead, and not bearing to hear Schulga's shouting anymore, she furrowed her eyebrows and glared at him.
-"... I'm alright! What are you, my mom?", Josee shouted in annoyance.
-"Oh, I'm glad to hear", Schulga heaved a sigh of relief.
-"Wait", the shock suddenly returned to Schulga's eyes, "Did you kill this thing?!"
-"... Yes", Josee coldly replied, "Prepare it. We will have a feast."
-◇ ◇ ◇ ◇ ◇
-After rinsing and changing into a humble beige dress, Josee went to a warehouse situated left of the mansion. It was a wooden warehouse with a stone base containing a wide and almost empty interior.
-In the center of the warehouse, a group of carpenters were busy cutting wooden planks. Others were using their tools and chisels to cut holes. As Josee walked inside, the four carpenters stopped their job and bowed.
-"... Return to your work. At noon, go to the village center; there's free food."
-Hearing the word "free food", the carpenters, no older than 25 or 40, delightfully smiled and continued working.
-Josee approached a table and saw bags upon bags of sacks. Standing beside the table was Alex, the new Kalingrad steward. He was wearing a humble tunic and vest while holding a parchment paper in his hand.
-Seeing the table, Josee quickly opened each sack and saw the ingredients she needed.
-"... seashells, ash, comfrey plant, seaweed, pig manure, soil... hmm."
-Alex looked at the bunch of items on the table and couldn't help but cringe at the smell. However, seeing his lady showed no reaction, Alex kept his composure.
-"... Alex, get me a bucket of water, also bring me five bowls, a mortar and pestle, a spoon, and as many buckets as you can get. Also..."
-Josee looked at the other sacks of bags and saw a bunch of crop produce.
-"... Spinach, lettuce, onions, beans, cucumbers, mints, and herbs... hmm, there's not much variety. Alex, are there no potatoes?", Josee casually asked as she sorted through the crops taken from the Kalingrad storage bins.
-"Err, potatoes?", Alex wryly smiled, "M-My lady, those things are new crops from the west; they're currently only grown in the richer territories."
-"... I see. Well, they were tasty back in the academy. We'll grow them here", Josee coldly replied, coming up with an instant reason to cover up her lack of memory.
-"H-How are we going to get them?", Alex asked.
-"... We'll buy them", Josee then turned to him.
-"... So, what are you waiting for?"
-"Hm? Ah! Ah, yes!", realizing his mistake, Alex immediately ran away with lightning speed as if his life depended on it.
-Josee returned her eyes back to the crops on the table.
-'_... Let's say I did succeed in scaling a hydroponics farm to support a village of 600 people. That still means in the foreseeable future, it would be unneeded once I obtain more arable land or once I obtain access to the inner part of the Cursed Forest and begin mining_'
-After thinking for a moment, Josee shook her head.
-"... No", her eyes determined.
-'... If the memories of the chaos titans were to be believed, the first thing they did was pollute the sky and make it uninhabitable, forcing people underground.'
-Moments later, Alex arrived, bringing all the buckets, bowls, spoon, and mortar and pestle that Josee needed.
-"... Good", Josee remarked.
-'... If we are to be forced underground, I need to create a nuclear reactor or an alternative energy source. Then with UV light technology, we can grow crops underground with hydroponics.'
-And so, Josee began her experiment. She first took the seashells and began crushing them with the mortar and pestle. Josee realized that her physical strength itself had increased, allowing her to crush a kilogram of seashells in just a few moments.
-After storing the seashells in a sack, Josee reached for a barrel in the warehouse and began slicing the seaweeds, grass, and other organic matter into tiny pieces before dumping them into a barrel. She then added the animal manure and soil before mixing them with a stick.
-"M-My lady, is it really necessary for you to do that dirty work?", Alex wryly asked from the side.
-"... If you have nothing important, be silent", Josee reprimanded, causing Alex to immediately shut up.
-After mixing them, Josee paused.
-'... It'll take at least one month for this to decompose. Fortunately, a curse spell called decay exists. I just need to find that later.'
-"... Alex", Josee called over.
-"Y-Yes, milady!", Alex wryly smiled and stood behind her.
-"... Gather some men and get as much manure, dead animals, eggshells, seaweeds, or any rotting organic material you can get and dump it in barrels. Make sure they slice it into tiny pieces first."
-"Understood!"
-Josee turned towards the table before stopping.
-'... I have the basic ingredients here. But I've forgotten the ratios. I'll just have to experiment.'
-Josee began mixing the crushed seashells, burned ash, and water. In 10 different buckets, Josee created 10 different mixtures of different ratios.
-After finishing the mixtures, Josee covered them all with wooden plates before leaving the warehouse.
-'... Now that that's prepared, all I need is to get the decay spell to decompose the compost. It's considered an illegal spell, but getting it from the black rats shouldn't prove difficult.'
-"... Now then, as for the cement", Josee walked outside the warehouse. Just east from there, a group of men were busy making bricks for a kiln that Josee would need to get built.
-'... I'm certain I can burn enough temperature to create a primitive cement from combining limestone and clay. But for that to happen, I'll have to scout for an accessible cave rich in limestone. There should be a lot in this territory.'
-◇ ◇ ◇ ◇ ◇
-The afternoon sun began gracing the world with its orange light. The entire village of Aquel was in good spirits, as the village square became filled with delight. The men, women, children, and elderly were busy dancing and cheering.
-In the center of the village, large metal woks were prepared, all of which were contributed from each household, carrying stews of the giant boar that Josee had slain.
-"Oh! Meat at last!"
-"Cheers!"
-"Bless our lady!"
-Josee watched from the top of the Kalingrad mansion. Wearing her plain white long dress, she quietly observed before turning back to her table.
-On it was a single magic book. An old and dusty book that had signs of mites eating it. After days of searching, her maids were finally able to find the old book in a forgotten chest in the cellar.
-'... No wonder this family is on the decline.'
-Flipping through it, Josee found herself able to read and understand the complex magical instructions written.
-'... This is single-handedly the most expensive thing in this household.'
-"... Basic Magic Spells. Basic Mana Control. Levitation Charm, Light Spell, Aqua Orbis, Featherfall, Mend, Basic Elemental Manipulation (Fire, Water, Earth, Air), Charmed Wardrobe, Whispering Wind, Growth Spurt, Animal Friendship, Glimmerglow, Shield of Reflection, and Refreshen."
-Josee observed the spells written within the spellbook. Her eyes widened at the possibilities, realizing that these things would no doubt revolutionize her methodical approach.
-"... Well, it's a society ruled by the Holy Church, which states that God gave us the blessing of magic. And so, noble families base their value on their capacity to create mages."
-More importantly, Josee found one special spell.
-"... Growth Spurt."
-'... From my understanding, this spell only increases the rate of a plant's photosynthesis. The book says that a plant that takes six months to grow will only take three months.'
-Josee stood up and walked across the room, towards the balcony. After picking up a pot of flowers, she returned to her table and placed it there.
-With her right hand forward, Josee closed her eyes. She breathed in and out, feeling the flow of mana within her heart. And as she did, she felt a circle flowing through her heart.
-But it wasn't the circle described in the Basic Magic Spell book.
-It was a burning fire circle.
-Josee lightly opened her eyes, and a flaming magic circle appeared in her right hand. She rearranged the magic circle into exactly as the spellbook needed. Suddenly, a bright light emerged, enveloping the plant as if it was burning.
-And as the light faded, the plant grew taller, and its flower grew larger.
-"... Hmm...", Josee felt her mana decrease. But as she carefully inspected the plant, she noticed that the dark soil grew lighter.
-"... Oh, I see", Josee remarked before casting the Growth Spurt again.
-After casting Growth Spurt three more times, the plant suddenly withered and died.
-Josee saw that the soil had become dried and completely cracked.
-"... I see. It forces the nutrients from the soil to the plant, leaving the soil less healthy. I can see why even Josephine hadn't heard of this being used on a large scale. It'll kill your land."
-'... But this is a surprise. If I were to use this on a large scale with hydroponics, it wouldn't kill the earth. The nutrient solution would be readily replaceable.'
-"... Fascinating. A good coincidence indeed", Josee lightly smiled.
-Within her mind, ideas clashed one after another, promulgating the birth of a new technology only possible within this world. Josee took a piece of parchment and wrote her ideas down with such rapid pace that the writing became indecipherable to anyone but her.
-Standing up, Josee immediately rushed to the warehouse.
-"... I need to test this."
+The three moons of this world hung high in the night sky. Josee quietly sat at the table in her room, with a humble candle lamp lighting the parchment. A few notes and designs were scribbled on it.
+She wore her white nightgown, a dress Josee preferred because it was chilly and comfortable.
+'... It's good Josephine was all bubbles and retardation in the head, leaving me a diary to pick up her memories,' Josee recalled her conversation with Schulga.
+'... No matter. If it worked or not, a knight is replaceable. Anyway, the first matter of things I have to settle is the food.'
+Josee tapped the quill in her hand.
+'... Unless I fix the warding stone issue, we can't expand usable land nor get wood. Half the houses are still broken. The area between here and the salt farms was rocky and mountainous, not suitable for farming.'
+Josee then glanced outside the window.
+'... Not only that, this place really isn't suitable for farming. It regularly receives powerful storms.'
+'... Which means we can only farm vertically in a sheltered place.'
+Josee continued tapping her hands.
+"... Fortunately, I studied hydroponics. I can make a primitive version, but it'll require some testing of multiple batches of crops."
+'... Which means we're still back to the issue at hand. Food in the short-term. It's unlikely I'll grow these in one month's time,' Josee laid back at her table.
+As she thought of many possibilities, an idea suddenly came to her mind.
+"... Oh... right," Josee calmly thought.
+'... I can just recruit a slave to use magic on the crops. That should do it. And... can't we just eat the meat from the Cursed Forest?'
+Josee considered for a moment, then she wrote that down.
+"... I'll ask Schulga later."
+She bit the end of her quill as she processed the information in her head.
+"... But while I'm building my hydroponics farm, I need to create cement. The houses are made of wood, but with the limited supply, it's inefficient. I believe I saw a rocky quarry in the Cursed Forest."
+'... Which only leaves me one more issue... the warding stone.'
+Josee fiddled with the quill with her fingers.
+"... Hmm. Then I'll need to enter a certain cove of an ancient alchemist, which... coincidentally is located in..."
+Josee picked up a map of the world rolled over at the side of her table. Uncurling it, she saw the Kingdom of Brytoria, where her territory was positioned.
+Seated at the southernmost part of the Kingdom, facing the sea, Josee traced her hands to the east filled with many islands.
+"... The pirate's heaven," Josee half-closed her eyes.
+'... The warding stone was just a side treasure. The heroine was kidnapped here, again, by the Pirate King and was rescued by the male leads.'
+'... Why the fuck does every fucker in the world want to have sex with her? Christ...'
+"... I'll first need to get a large ship. Luckily, I can just steal it. What's important is a crew. Then after attacking the pirate's cove, I'll turn over their heads to each nearby country for a price and quickly leave, doubling my loot."
+Josee deeply inhaled and exhaled...
+"... I must accomplish this within one month. That's decided. Now then, let's design that hydroponics.... Fuck, I need to get a ruler first."
+And on that night, Josee ordered the servants to bring her wooden planks and carving tools. She first began making a dependable metric ruler, with the conversion methods written on a paper.
+It was rough and inaccurate compared to the true metric system, but it was sufficient for its intended purpose. After creating two copies, Josee was satisfied.
+And as a true engineer who had to suffer through college, Josee completely disregarded the English measurement system.
+
+
 
 """
 
@@ -210,4 +249,4 @@ for i in x.strip().split("\n"):
   res += i + "\n\n"
   
 print(res)
-pyperclip.copy(res)
+pyperclip.copy(res.strip())

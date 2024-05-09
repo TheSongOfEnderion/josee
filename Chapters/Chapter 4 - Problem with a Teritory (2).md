@@ -142,8 +142,6 @@ Baron Kalingrad immediately drank down all the wine in his cup.
 
 "Tsk", the Baron scoffed, "Do you even know the relevance of my territory? It was my ancestors who protected this Kingdom from the onslaught of monsters from the Cursed Forest. And now, now what? We're discarded when we no longer have any use!"
 
-Here is the continuation with corrections:
-
 "I know, I know, Baron", the Viscount turned his eyes around and hurriedly guided his friend away.
 
 "You mustn't speak like that!", the Viscount felt the sweat fall off his forehead, "If others heard you, you might get tried for treason!"
@@ -226,7 +224,7 @@ Suddenly, a man came running with a horse. He was still wearing his sleeping wea
 
 "My lady!", Schulga shouted and went down the horse.
 
-"W-What happened her- By the Divines!?", Schulga stared in shock, seeing his noble lady's clothes in tatters once more. Schulga almost felt his heart pop out of his chest.
+"W-What happened her- By the Divines!?", Schulga stared in shock, seeing his noble lady's clothes in tatters once more. He almost felt his heart pop out of his chest.
 
 "M-My lady?! Are you alright?! My lady?!"
 
