@@ -1,0 +1,84 @@
+{
+  "[markdown]": {
+    "editor.cursorSurroundingLines": 0,
+    "editor.tabSize": 4,
+    "editor.wrappingIndent": "same",
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 120,
+    "editor.quickSuggestions": {
+      "comments": "on",
+      "strings": "on",
+      "other": "on"
+    },
+      "editor.lineHeight": 25,
+    "editor.fontFamily": "Calibri Light",
+    "editor.fontSize": 16,
+  },
+  // "editor.lineHeight": 25,
+  // "editor.fontFamily": "Calibri Light",
+  // "editor.fontSize": 16,
+  "editor.rulers": [],
+  // "editor.wordWrap": "wordWrapColumn",
+  // "editor.wordWrapColumn": 40,
+  "editor.renderLineHighlight": "line",
+  "workbench.colorCustomizations": {},
+  "highlight.regexes": {
+    "((\"|\"\")(.+?)(\"\"|\"))": {
+      "filterLanguageRegex": "markdown",
+      "regexFlags": "gm",
+      "decorations": [
+        { "color": "#7ac1ff" }
+      ]
+    },
+    "(?<!.)('.+')(?!(t|s))": {
+      "filterLanguageRegex": "markdown",
+      "regexFlags": "gm",
+      "decorations": [
+        { "color": "#ff4040" },
+        { "fontWeight": "bold" },
+        {"fontStyle": "italic" },
+      ],
+
+    },
+    "(◇ ◇ ◇ ◇ ◇)": {
+      "filterLanguageRegex": "markdown",
+      "decorations": [
+        { "color": "#61ff6e" },
+        { "text align": "center" }
+      ],
+
+    },
+    "^(?!\\s*$).+$": {
+      "filterLanguageRegex": "markdown",
+      "regexFlags": "gm",
+      "decorations": [
+        { "backgroundColor": "#61ff6e" },
+      ],
+
+    }
+  },
+  "todohighlight.keywords": [
+    "DEBUG:",
+    "REVIEW:",
+    {
+        "text": "NOTE:",
+        "color": "#ff0000",
+        "backgroundColor": "yellow",
+        "overviewRulerColor": "grey"
+    },
+    {
+        "text": "HACK:",
+        "color": "#000",
+        "isWholeLine": false,
+    },
+    {
+        "text": "TODO:",
+        "color": "red",
+        "border": "1px solid red",
+        "borderRadius": "2px", //NOTE: using borderRadius along with `border` or you will see nothing change
+        "backgroundColor": "rgba(0,0,0,.2)",
+        //other styling properties goes here ... 
+    }
+  ],
+  "materialkv.pythonFile": "main.py"
+}

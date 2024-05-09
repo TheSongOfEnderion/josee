@@ -1,0 +1,186 @@
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q\"Eu-Eu-Euphemia!!\", the Head Maid slammed the table.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QEUPHEMIA WOKE UP FROM her dream.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QF-Fariah?\"\\E$"}
+{"rule":"SIGH_SIGN","sentence":"^\\Q\"Fair enough\", Lukius sighed in disappoinment.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QA-ANyone?\", that Euphemia froze.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QWel…\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\Q\"Many nobles are dissatisfied with the King's peaceful stance.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QOn the ground, a circle was carved, etched with flowing gold, as If it was water.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QHis grayish-white hair was tied in a low ponytail.\\E$"}
+{"rule":"EN_UNPAIRED_BRACKETS","sentence":"^\\Q\"…\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QIT WAS SUPPOSED TO be the same morning for Euphemia.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QTheir loyalty is assured.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QOnce the work was done, it was now time for the servants to eat.\\E$"}
+{"rule":"SENT_START_CONJUNCTIVE_LINKING_ADVERB_COMMA","sentence":"^\\QFinally done\", Euphemia heard the groans of Farriah.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QHer graying blond hair was tied in a bun, and a rectangular eyeglass fitted her weakening eyes.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\Q\"It took so much time for their illusion spell to finish\", the Head Maid complained, \"In the end, nothing of value was found.\\E$"}
+{"rule":"HEAVY_WEIGHT","sentence":"^\\QFeeling a heavy weight land on her shoulder, Farriah gulped.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QEverything was set.\\E$"}
+{"rule":"CAPITALIZATION_NNP_DERIVED","sentence":"^\\QBut as she continued to work, the usual stoic Euphemia started feeling her eyes becoming a blur.\\E$"}
+{"rule":"SENTENCE_FRAGMENT","sentence":"^\\QBecause it was the one thing that she inherited from her mother.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QA-ANyone?\", Euphemia froze.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QTheir tunic clothing were tarnished by blood and mud, and their widened fanatical eyes made Euphemia… shiver.\\E$"}
+{"rule":"SENTENCE_FRAGMENT","sentence":"^\\QBecause somehow… something was telling her.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QHer face was drenched like a river and her heart beat so fast she felt like it was going to break.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QHis belly was big, but looking closely his biceps and torso were quite ripped.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QEuphemia was distracted before, but now she realized who this person was.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QAnd for a few minutes, her eyes were locked with the emotionless Elven girl.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QAll men are not created equal.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QHe had the power to crystallize light in his arms, forming powerful crytal-light gloves.\\E$"}
+{"rule":"PROFANITY","sentence":"^\\QBut as everyone asked me to apologize, I only told them to fuck off.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q\"Wa…ke….\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qp\"\\E$"}
+{"rule":"EN_UNPAIRED_BRACKETS","sentence":"^\\Q\"\"Ah!\"\", the two smiled brightly.\\E$"}
+{"rule":"YOU_GOOD","sentence":"^\\Q\"You alright boss?\"\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QI'm sorrrry!\"\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QHence, time is given for them to prepare.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QPlease don't notice me.'\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QPlease don't notice me.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QHOLLLLYYYYY SHAAAAYYYYYYYTTTTTTTTTT!'\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QI didn't fail.'\\E$"}
+{"rule":"QUESTION_MARK","sentence":"^\\QHad he made the wrong move, had he been slightly lazier and didn't memorize all sort kinds of chemicals, he could have died.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q\\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q\"Eth…an… do it… d… it…\"\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QThe rise in recent terrorism within Japan is said to be linked to a powerful criminal Ganglord\"\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QThe rise in recent terrorism within Japan is said to be linked to a powerful criminal Gang lord\"\\E$"}
+{"rule":"YOU_GOOD","sentence":"^\\Q\"You okay kid?\", the blue armored man softly spoke.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QThe color of despair was painted on his wide circled, hollowed eyes.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QThe color of despair was painted on his wide, hollowed eyes.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QUnder his orange-red shirt, hard muscles were developed.\\E$"}
+{"rule":"PUNCTUATION_PARAGRAPH_END","sentence":"^\\QA-Class Heroes?', he lightly frowned, 'They must be in deep shit to have these guys to move'\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QSome were crying, others were confused, and many were injured by the sudden flood.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QThe sky and the surrounding buildings were painted with a shade of violet.\\E$"}
+{"rule":"YOU_GOOD","sentence":"^\\Q\"You okay, boy?\"\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QA single, silent flick was heard, followed by the Dark winged man's fall to the ground.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QTears were dried on his face.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QE-Ehan will s-save you all…\\E$"}
+{"rule":"SENTENCE_FRAGMENT","sentence":"^\\QBecause those five people… had gaping holes in their chests.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QI shouldn't have told you all of those stories!\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QWe had to avoid loan sharks, cartels, criminals from the ghetto!\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\Q\"…\", Ethan was suddenly taken aback by those words.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QA blackboard was nailed on the walls of his room, plastered with all kinds of mathematical and chemical equations, as well as hundreds of atomic structures.\\E$"}
+{"rule":"EN_UNPAIRED_BRACKETS","sentence":"^\\QWe're highschoolers, you think you can beat us?\"\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q\"We're sorry just st-agh!\"\\E$"}
+{"rule":"EN_UNPAIRED_BRACKETS","sentence":"^\\Q\"We're sorry just st-agh!\"\\E$"}
+{"rule":"EN_UNPAIRED_BRACKETS","sentence":"^\\Q\"Ugh!!\"\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q\"Say, you know that You Ehch A right?\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QBut make sur-\", but before she finished, Ethan already left like the wind.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QMother Morales was left speechless.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QI heard their tuition fee starts at 50,000 Realis!\", Ethan was taken aback,because his mother now entered her worry mode.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QI heard their tuition fee starts at 50,000 Realis!\", Ethan was taken aback, because his mother now entered her worry mode.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QIt was like a heavy rock was removed from her shoulders.\\E$"}
+{"rule":"THE_SENT_END","sentence":"^\\QWhat the?\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QI suggest starting from next town and selling a single bar onl-\" \"Wait a minute\"\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QWithin a dark and savage underground, where the walls were littered with sharp dreadful rocks, a man and a boy were fighting a giant centipede.\\E$"}
+{"rule":"SERIAL_COMMA_ON","sentence":"^\\QWithin a dark and savage underground, where the walls were littered with sharp dreadful rocks, a man and a boy were fighting a giant centipede.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QThe ground was illuminated by the buzzing of the electric lamps nailed upon the walls and ceilings.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QThe ground was illuminated by the buzzing of electric lamps nailed upon the walls and ceilings.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QThey were spouting words that no normal heroes are supposed to say.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q\"Ohhh, I see\", Vanessa nodded.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q\"Ohhh, I see, I see!\", Vanessa nodded.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QWe're going to become heroes… yehayy\", while Ethan unenthusiastically replied.\\E$"}
+{"rule":"SENTENCE_FRAGMENT","sentence":"^\\QAs expected of the Iron Senator\"\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q\"But according to the Charter written by the Elucid King, these activities are nece-\"\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QEvery year, hundreds of our youths are severely injured in these battles and there are at least a dozen deaths per year.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QAlthough the interiors were supposed to have the same sleek, white and clean design as in Artem, this station looked old, unmaintained, and even the ceilings had holes.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QAlthough the interiors were supposed to have the same sleek, white, and clean design as in Artem, this station looked old, unmaintained, and even the ceilings had holes.\\E$"}
+{"rule":"SOME_OF_THE","sentence":"^\\QSome of the floor tiles were cracks and the walls had paint that haphazardly covered the graffiti.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QSome of the floor tiles were cracked, and the walls had paint that haphazardly covered the graffiti.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QSome floor tiles were cracked, and the walls had paint that haphazardly covered the graffiti.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QOpening the door, he saw the inside of what seems like a normal inn, where beer and food is served to anyone that orders.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q\"So, the Lukron's apprentice returned…\", a business woman with blonde hair and sunglasses casually spoke.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\Q\"A single incident\", the woman explained, \"the CCTV camera were destroyed.\\E$"}
+{"rule":"HE_VERB_AGR","sentence":"^\\Q\"Yes, it's cheaper than you'd expect.\", she seep from her tea.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q\"Easy peasy.\\E$"}
+{"rule":"GONNA","sentence":"^\\QAnd we're gonna get killed if we barge in it\" \"Nah, nah.\\E$"}
+{"rule":"GONNA","sentence":"^\\QAnd we're gonna get killed if we barge in it\"\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QTwo hundred years has passed since otherworldly beings invaded the world and mana was erased.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QHer hair was tied in a side low-braid.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_RULE","sentence":"^\\Q\"… cough cough\", Unused to smoking, Ethan roughly coughed for a few moments.\\E$"}
+{"rule":"BEEN_PART_AGREEMENT","sentence":"^\\QI will rain down a hell that will be burn everything they care and love And I will parade their burnt corpse all over Arlika, THAT is my promise!\"\\E$"}
+{"rule":"BEEN_PART_AGREEMENT","sentence":"^\\QI will rain down a hell that will be burn everything they care and love,and I will parade their burnt corpse all over Arlika, THAT is my promise!\"\\E$"}
+{"rule":"BEEN_PART_AGREEMENT","sentence":"^\\QI will rain down a hell that will be burn everything they care and love, and I will parade their burnt corpse all over Arlika, THAT is my promise!\"\\E$"}
+{"rule":"THREE_NN","sentence":"^\\QA large scale monster invasion may occur within Southern Asian countries in the coming years\"\\E$"}
+{"rule":"OUTSIDE_OF","sentence":"^\\QThere was a voice inside of him, compelling him to do something.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QEach second!\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QHe rushed through the apartment, and when he glanced at one of the doors Ethan's eyes were horrified.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q\"Ughhwaah!\", the girl cried.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QHe heard the shouting of the people below, pointing at the window where the other kids were trapped.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QP-Pleasse S-saave him!\"\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QSome of her clothes were torn off.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QParts of her dress were torn.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_RULE","sentence":"^\\QCough Cough\"\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QWithin the battleground, Mike glared at the confidently smiling Ethan, whose arms were placed in his pockets.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q\"ETTHAAANNNN!!\", he immediately charged up fireballs in his arms and began a barrage of fires.\\E$"}
+{"rule":"GONNA","sentence":"^\\QCome on, out with it\", Ethan beckoned, \"We're gonna bore the audience.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QE-Class' attention were then brought back to the battleground.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q\"M-Mayumi..?\", Yasha stuttered.\\E$"}
+{"rule":"DOUBLE_PUNCTUATION","sentence":"^\\Q\"M-Mayumi..?\", Yasha stuttered.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q\"Ethann!?\", Eltia.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q\"ETTHAAANNNN!!\", he immediately charged up fireballs in his arms and began a barrage.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_RULE","sentence":"^\\Q\"Cough Cough Ha... hahaha\", the man sarcastically chuckled.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_RULE","sentence":"^\\Q\"Cough Cough Ha… hahaha\", the man sarcastically chuckled.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QCrysis, determined that the Contract be fulfilled, cursed his descendants to go on a massacre whenever they suffer a tragedy, so that the contract will be fulfilled.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QFor what it was worth, Madelyn was finally forced to confront the reality.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QFor what it was worth, Madelyn was finally forced to confront reality.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QSenator Jacinto\nI assure you, all men are punished, even the great ones.\\E$"}
+{"rule":"UNIT_SPACE","sentence":"^\\Q\"I created a 9mm anti-material rifle.\\E$"}
+{"rule":"UNIT_SPACE","sentence":"^\\QI created a 9mm anti-material rifle\", and then Ethan heavily continued, \"…\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q\"But with your friend ble-\"\\E$"}
+{"rule":"UNIT_SPACE","sentence":"^\\QI created a 9mm anti-material rifle\", Ethan heavily continued, \"…\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QThey desperately tried to stand up, but their paralyzed bodies were so wounded they could barely open their eyes.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QNot because they almost died, or that their enemy was killed.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QYou guys are silly~\"\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QThe head was blown off.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q\"Tan-chi is killing everyone~\"\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\Q\"Thou are not destined for anything glorious… yet, the unyielding Will of men disrespects nature's fashion…\\E$"}
+{"rule":"SENTENCE_FRAGMENT","sentence":"^\\QThough the iris of her eyes was as white as the moonlight.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q\"Wa…ke… p\"\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QThey prioritized saving the people from the rampaging, bull-headed tri-pedal monster carrying a writhing stone hammer.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QDo you have any phone, any holo?\"\\E$"}
+{"rule":"YOU_GOOD","sentence":"^\\Q\"You okay kid?\", The blue-armored man spoke softly.\\E$"}
+{"rule":"QUESTION_MARK","sentence":"^\\QHad he made the wrong move, had he been slightly slower, he could have died.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_RULE","sentence":"^\\Q\"… cough cough,\" Unaccustomed to smoking, Ethan coughed roughly for a few moments.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_RULE","sentence":"^\\Q\"… cough cough\", Unaccustomed to smoking, Ethan coughed roughly for a few moments.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q\"Lyna!\", the woman brightly smiled.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QFUCKK!-\"\\E$"}
+{"rule":"RED_READ","sentence":"^\\Q\"You little red bastard\", the man with the iron mask coldly spoke with his deep voice.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QDid dad discover my plan to advance to the Hero Course Class in 2nd Sem?'\\E$"}
+{"rule":"PRP_MD_NN","sentence":"^\\Q\"You know we can't do that\", Madelyn shook her head, \"If word got out that you exist without sufficient backing, it could danger us all\"\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QOkayy\", Eltia then took Ethan's bag from his table and handed it over.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QAnd so it was, that the unfated soon find themselves on the brink of eternal sleep.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QI- I don't understand why you're s-saying th-\"\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QI will make sure the baron hears of th-!\"\\E$"}
+{"rule":"BEEN_PART_AGREEMENT","sentence":"^\\Q\"I had been steward of this barony for 24 years!\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QW-Why-ArGHH!!!\", a blood coiling screech pierced the ears of every servant within the household.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QARGHh!\"\\E$"}
+{"rule":"SENTENCE_WHITESPACE","sentence":"^\\QHmm\", deeply I sighed.\\E$"}
+{"rule":"SENTENCE_WHITESPACE","sentence":"^\\QHmm\", deeply I contemplated.\\E$"}
+{"rule":"ORDER_OF_WORDS_WITH_NOT","sentence":"^\\QYou've been hurt haven't you.\\E$"}
+{"rule":"DOUBLE_PUNCTUATION","sentence":"^\\Q\"Ah..\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QY-You don't have to stress yoursel-\", but her words were cut off.\\E$"}
+{"rule":"GUARD_FROM_AGAINST","sentence":"^\\QAs soon as the men were placed on the dock, the guard from earlier came back.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q\"Rogar, I told you we should have given our fishes\", another injured man spoke.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QWe can't burn through the lord's grains, we'd starve!\", argued the man named rogar.\\E$"}
+{"rule":"PRP_MD_NN","sentence":"^\\QI will personally overseer this project.\\E$"}
+{"rule":"QUESTION_MARK","sentence":"^\\QDid you know, reading fiction has been on the rage with youngsters these days\", Count Montfort complained with a frown in his face.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q\"It's like this\", the Count sighed, \"Serisous is wants to be a noble.\\E$"}
+{"rule":"QUESTION_MARK","sentence":"^\\QDid you know, reading fiction has been on the rage with youngsters these days\", Viscount Montfort complained with a frown in his face.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q\"KRAHH!\", the shadow cat growled.\\E$"}
+{"rule":"A_RB_NN","sentence":"^\\QWe'll grow it here\", Josee coldly replied, coming up with an instantly reason to cover up her lack of memory.\\E$"}
+{"rule":"BRING_AT_TO","sentence":"^\\QAlex, get me a bucket of water, also bring me at least four empty buckets.\\E$"}
+{"rule":"BRING_AT_TO","sentence":"^\\QAlex, get me a bucket of water, also bring me at least four empty buckets, five bowls, a mortar and pestle, and a spoon.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QLevitation Charm Light Spell Aqua Orbis Featherfall Invisibility Glance Repairo Elemental Manipulation (Fire, Water, Earth, Air) Charmed Wardrobe Whispering Wind Growth Spurt Animal Friendship Glimmerglow Shield of Reflection Knowledge Infusion Mend the Page\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QLevitation Charm, Light Spell, Aqua Orbis, Featherfall, Mend, Basic Elemental Manipulation (Fire, Water, Earth, Air), Charmed Wardrobe, Whispering Wind, Growth Spurt, Animal Friendship Glimmerglow, Shield of Reflection, and Refreshen\"\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q\"W-Wha, who the hell are you?\", the stranger asked.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q\"Ugh, blrahgh\", the man blurted down, immediately opening his eyes.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q\"I am Fredriech.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QOnce it's broken, you destroy your plate, and you can never grow agai-\"\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QT-Those are p-primordial fla-\"\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QA glimpse only an attentive reader can tell amidst the distracting flowery shoujo story'\\E$"}
+{"rule":"PHRASE_REPETITION","sentence":"^\\QBesides her is her is the little maid Misha who is still learning alphabet from her wooden card and chalk.\\E$"}
+{"rule":"HE_VERB_AGR","sentence":"^\\QIt was cold, and completely lacking the gentleness that the lady he remember had\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QHe was more experienced than Josee at magic and such, Josee's five minute was improved into two minutes.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QHe was more experienced than Josee at magic and such, Josee's five minute growth was improved into two minutes.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QHe was more experienced than Josee at magic and such, Josee's five-minute growth was improved into two minutes.\\E$"}
+{"rule":"THUNDER_COMPOUNDS","sentence":"^\\QA thunder struck Fredriech's mind.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q\"KRASSHHH!\", the python hissed, and like a bullet, it swiftly turned around and coiled around many trees.\\E$"}
