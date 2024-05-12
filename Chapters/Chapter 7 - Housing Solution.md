@@ -175,31 +175,31 @@ Josee stepped towards the kiln before picking up a red hot stone. Seeing this, t
 
 Schulga however, knew she was immune to heat. Still, it made him uncomfortable seeing someone touch something searing hot.
 
-After.holding the stone in Josee's hand, it immediately crumbled to dust.
+After holding the stone in Josee's hand, it immediately crumbled to dust.
 
 '_... Might have overdone the heat a bit, but that looks just fine to me_'
 
 Josee repeated the same steps until she had approximately ten sacks of quicklime
 
-Taking the water from a bucket and a few cups of sand from a sack, Schulga began mixing the mixture with quicklime. 
+Taking the water from a bucket, a few cups of sand and gravel from a sack, Schulga began mixing the mixture with quicklime. 
 
 "... Remember to always wear a mask when dealing with quicklime and never to directly touch it. Theyre harmful to your health"
 
 Josee reminded them. The guards, hearing this, nodded their head profusely.
 
-After that's done, Josee asked Schulga to connect two bricks together using the primitive cement mixture.
+After that's done, Josee asked Schulga to connect two bricks together using the primitive concrete mixture. Then using two box made of wood, Josee ordered him to pour concrete on those two.
 
 Satiesfied with its look, Josee lightly smiled.
 
 "Milady, will this really make this brick combine?"
 
-"... Yes. It's called cement. Leave it inside the shed and tomorrow it''ll cure and harden"
+"... Yes. It's called cement. Leave them inside the shed and tomorrow it'll cure and harden"
 
 But as Josee said this, her mind began forming plans.
 
 '_...I can't do this myself all the time. Therefore i need a fuel source. Coal? Hmmm... These lands aren't rich in coal. Maybe i can import oil from the eastern dessert. Wait, magic is readily accessible. Fire runes can definitely solve the problem but it requires mana stone_'
 
-'_... But. I know a way to gather a LOT of mana stone. It wouldn't be an issue. Therefore, i just need to find a runic master_'
+'_... But.... hmmm...I know a way to gather a LOT of mana stone. It wouldn't be an issue. Therefore, i just need to find a runic master_'
 
 "... Schulga, when will this friend of yours respond?"
 
@@ -313,4 +313,40 @@ And that price, will be paid in full.
 
 ◇ ◇ ◇ ◇ ◇
 
-The next morning came and Josee
+"What? How is this possible?", after smashing with a mallet, Schulga learned that the two bricks were inseperable. The once liquid rock was now as solid as any stone.
+
+"Whoahh", the guards around them clapped in awe.
+
+"Wait, if we have this. We won't even need to cut stones properly anymore!", the guard captain, Anthony smiled in awe.
+
+"That's right", another guard noted, "Any stone will do and we can just fill it with this and it'll be just as strong!"
+
+"Impressive", Schulga's eyes shook at the thought.
+
+To create great buildings, one needs to hire masons who will cut stones into properly sized pieces that fits one another. This is specially time consuming and only a skilled mason can be trusted with cutting the stones. They will then need to use mortar to bind the stones together.
+
+'That's the reason why walls, buildings, and houses are expensive to build', Schulga gulped.
+
+'But this material. Cement. Doesn't this mean. We will have a new era of construction?''
+
+From the side, Josee simply watched in silence. Wearing her leather pants and white long sleeve, she merely nodded.
+
+"... Alright, enough dallying, Schulga, hit the two concrete blocks until it breaks", Josee stood quietly before the concrete products. She almost looked unimpressed and even annoyed.
+
+Schulga nodded and took his mallet before slamming them repeatedly on the concrete block. After about five hits, the block started showing signs of cracking.
+
+"... That's enough", Josee squat down and began examining the blocks.
+
+'... Looks just about right. It's good i still remember the correct ratios', She turned towards Schulga and asked.
+
+"... How did it feel?"
+
+"Like hitting solid rock, milady", Schulga smiled.
+
+"Good", Josee stood up and folded her hands.
+
+"Gather the carpenters and smith. And bring Friedrich to me"
+
+
+
+

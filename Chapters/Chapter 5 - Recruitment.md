@@ -1,30 +1,29 @@
 **Chapter 5  - Recruitment**
-
-The sun stood high in the sky as an unremarkable carriage traversed the winding dirt road through a desolate forest. The vehicle was flanked by a retinue of guards mounted on sturdy horses, their armor showing the wear and tear of countless battles. Leading the procession was a white-haired knight, his brown steed carrying him with a noble bearing.
+The sun blazed high in the sky as an unremarkable carriage traversed the winding dirt road that snaked through a desolate forest. A retinue of guards flanked the vehicle, mounted on sturdy horses. Their armor bore the scars of countless battles. Leading the procession was a white-haired knight, his brown steed carrying him with a noble bearing.
 
 Seated within the carriage was Josee, clad in leather pants, a pristine white long-sleeved shirt, and a leather capelet. Her chestnut hair was neatly tied in a ponytail, cascading gently over her shoulder. Beside her sat a demure maid with fiery orange locks, Misha, engrossed in learning to write on a small wooden slate with a piece of chalk.
 
-'_The town we are bound for lies within the domain of Count Rotweiss—Greenleaf Town_' Josee mused, her thoughts meandering through the landscape beyond.
+'The town we're bound for lies within the domain of Count Rotweiss—Greenleaf Town' Josee mused, her thoughts drifting through the landscape beyond the window.
 
-'_The main narrative will commence a year from now, with the entrance of our Heroine, Celine, arriving in the Royal Capital as a humble baker. There, she will fatefully cross paths with the wounded crown prince, survivor of an assassination attempt. Her hidden healing magic will unexpectedly capture his attention._''
+'The main narrative will commence a year from now, with the entrance of our heroine, Celine, arriving in the Royal Capital as a humble baker. There, she will fatefully cross paths with the wounded crown prince, survivor of an assassination attempt. Her hidden healing magic will unexpectedly capture his attention.'
 
-Josee's voice dripped with disdain, "... Goddamn, it's making me puke"
+Josee's voice dripped with disdain. "Goddamn it, it's making me puke."
 
-Her revulsion was so profound that she switched to pure English and not this world's language, leaving Misha perplexed and unable to comprehend her sudden outburst.
+Her revulsion was so profound that she switched to pure English, leaving Misha perplexed and unable to comprehend her sudden outburst.
 
-'_If my memory serves me right, one of Celine's devoted followers should be in Greenleaf Town_'
+'If my memory serves me right, one of Celine's devoted followers should be in Greenleaf Town'
 
-"He's mine," Josee declared with wicked glee.
+"He's mine," Josee declared with a wicked glint in her eyes.
 
 ◇ ◇ ◇ ◇ ◇
 
-After settling in the inn, Josee dispatched three of her guards, accompanied by Misha, to explore the local blacksmiths and market.
+After settling into the inn, Josee dispatched three of her guards, accompanied by Misha, to explore the local blacksmiths and market.
 
-Observing the constant stream of people in the bustling town, situated at the intersection of two roads beside a major river, Josee couldn't help but comment, "This town is rather charming. I'll conquer it later"
+Observing the constant stream of people in the bustling town, situated at the intersection of two roads beside a major river, Josee couldn't help but comment, "This town is rather charming. I'll conquer it later."
 
-Josee left the Inn with her trusted knight along with four guards. They cloaked themselves with long brown coats as they ventured into the town's dimly lit alleys. The filth and stench that assailed them almost made Schulga cringe, but Josee remained indifferent.
+Josee left the Inn with her trusted knight along with four guards. They cloaked themselves in long brown coats as they ventured into the town's dimly lit alleys. The filth and stench that assailed them almost made Schulga cringe, but Josee remained indifferent.
 
-"I require something and someone to address our food shortage," Josee confided to her men, her voice low and secretive. They traversed shadowy passages teeming with rough-looking men who glared at Josee's entourage. The well-armed guards in nondescript robes made it clear they wanted no trouble.
+"I require something and someone to address our food shortage," Josee confided in her men, her voice low and secretive. They traversed shadowy passages teeming with rough-looking men who glared at Josee's entourage. The well-armed guards in nondescript robes made it clear they wanted no trouble.
 
 Josee leaned closer and whispered, "We shall enter an inn. When I signal, apprehend the man I will point out."
 
@@ -36,17 +35,17 @@ A few moments later, the group of six arrived in front of a shady tavern nestled
 
 Schulga inquired, "My lady, is this our destination?"
 
-Josee replied with a curt nod and promptly led the way into the dimly lit tavern. The interior was cramped, and its occupants were drunked and rowdy. What stood out, however, were several individuals wearing hooded cloaks, huddled together in whispered conversations.
+Josee replied with a curt nod and promptly led the way into the dimly lit tavern. The interior was cramped, and its occupants were drunk and rowdy. What stood out, however, were several individuals wearing hooded cloaks, huddled together in whispered conversations.
 
 Josee signaled two of her men to remain outside while the other two followed her inside. The room fell silent as the tavern's patrons observed the newcomers.
 
 As Josee looked around, she finally saw her target.
 
-Quickly moving, she reached a specific table occupied by a man in a green tunic. He appeared to be asleep, bur Josee exchanged a meaningful glance to Schulga. He then nodded at the two other guards, and in an instant, they seized the slumbering man and swiftly dragged him away.
+Moving swiftly, she reached a specific table occupied by a man in a green tunic. He appeared to be asleep, but Josee exchanged a meaningful glance with Schulga. He then nodded at the two other guards, and in an instant, they seized the slumbering man and swiftly dragged him away.
 
 Josee then approached the bartender, who shot her a fierce glare.
 
-"... Provide everyone a drink," Josee said in a hushed tone, dropped five silver coins onto the table.
+"... Provide everyone a drink," Josee said in a hushed tone, dropping five silver coins onto the table.
 
 Witnessing this, the bartender immediately pocketed the coins and grinned. The inn's patrons resumed their usual activities as though nothing had happened.
 
@@ -54,90 +53,85 @@ Josee and her group departed from the tavern. Once they had taken the captive to
 
 "... Tsk, how pathetic", Josee commented with a raised lip, revealing the disgust in her face.
 
-"Um. My lady", Schulga asked with furrowed eyes. "Is he going to be of use?"
+"Um. My lady," Schulga asked with furrowed eyes, "Is he going to be of use?"
 
-'_He can't possibly be a warrior with that frail body. And I can't detect any mana. A scholar, perhaps?_', Schulga assessed the man.
+'He can't possibly be a warrior with that frail body. And I can't detect any mana. A scholar, perhaps?' Schulga assessed the man.
 
-"... He will", Josee remarked, "Philip, pour water on his face. Anthony and the rest, be on guard"
+"... He will," Josee remarked, "Philip, pour water on his face. Anthony and the rest, be on guard."
 
-""Yes my lady"", the guards responded.
+""Yes my lady"" the guards responded in unison.
 
-Guard Philip, a middle-aged man and one of the two guards which gouged the steward's eyes, readily took out his leather flask and poured them over the sleeping man's face.
+Guard Philip, a middle-aged man and one of the two guards who gouged the steward's eyes, readily took out his leather flask and poured its contents over the sleeping man's face.
 
 On the other hand, Anthony was the guard's captain.
 
-Moments later, the unconscious man woke up.
+Moments later, the unconscious man woke up with a jolt.
 
-"Ugh, blrahgh", the man puked water, immediately opening his eyes.
+"Ugh, blrahgh," the man puked water, immediately opening his eyes.
 
-"H-Hey, what's wrong with you?!", after gaining consciousness, he saw that the guard poured water in his face. He frowned deeply. And as he was about to get angry, Josee raised her right hand and slapped him in the face.
+"H-Hey, what's wrong with you?!" he roared after gaining consciousness, only to find the guard pouring water on his face. He frowned deeply. And as he was about to get angry, Josee raised her right hand and slapped him across the face.
 
-The loud sound of slap even caused Schulga to widely open his mouth.
+The loud sound of the slap even caused Schulga to widen his eyes in shock.
 
-'_I-Is that really how you're supposed to treat a guy you're recruiting?!_', Schulga stared in shock. The four guards merely kept quiet, with Philip slowly backing away.
+'Is that really how you're supposed to treat a guy you're recruiting?!' Schulga thought, staring in disbelief. The four guards merely kept quiet, with Philip slowly backing away.
 
-"... Are you awake already, you useless piece of shit?", Josee glared with cold eyes.
+"... Are you awake already, you useless piece of shit?" Josee glared with cold eyes.
 
-"W-Wha, who the hell are you?", the stranger asked. He held his face, reddened from the heavy blow which Josee released. His mind, still not catching up to whatever was happening.
+"W-Wha, who the hell are you?!" the stranger asked, holding his face, reddened from the heavy blow Josee unleashed. His mind, still not catching up to whatever was happening.
 
-"... I am Josephine Kalingrad of the Kalingrad Household", Josee announced. And with a deep frown, she continued, "And you're a piece of shit wastrel who spits at the talent gifted upon you by your master"
+"... I am Josephine Kalingrad of the Kalingrad Household," Josee announced. With a deep frown, she continued, "And you're a piece of shit wastrel who spits at the talent gifted upon you by your master."
 
 Hearing those words, the man gnashed his teeth.
 
 "What? How much do you know about m-"
 
-But his talk was interrupted by another of Josee's slap. Feeling the pain in his face once more, he glared at her and groaned.
+But his outburst was interrupted by another of Josee's slaps. Feeling the pain in his face once more, he glared at her and groaned.
 
 "Did you just come here to mock me? Is that it?"
 
-"... No, I came to hire you", Josee declared.
+"... No, I came to hire you," Josee declared.
 
-Hearing her, the man closed his eyes and slowly stood up. His body, almost stumbling down.
+Hearing her words, the man closed his eyes and slowly stood up, his body almost stumbling down.
 
-'_Master?_', Schulga thought to himself, '_What is this about?_'
+'Master?' Schulga thought to himself, 'What is this about?'
 
-The man turned serious and asked.
+The man turned serious and asked, "I am Fredriech. It seems you know who I am. What needs would you have from a failed wizard like me?"
 
-"I am Fredriech. It seems you know who I am. What needs would you have from a failed wizard like me?"
-
-'_A wizard!?_', Schulga widened his mouth. The guards turned to each other with fascination in their eyes, but Schulga knew this was no ordinary man.
-
-To call himself a wizard, it was a completely different level from a mage.
+'A wizard!?' Schulga widened his mouth in surprise. The guards turned to each other with fascination in their eyes, but Schulga knew this was no ordinary man. To call himself a wizard, it was a completely different level from a mage.
 
 Josee remained silent for a moment. She closed her eyes before opening them once more.
 
-"... I can fix you", Josee coldly spoke with half-closed eyes, "I can return your mana core back"
+"... I can fix you," Josee coldly spoke with half-closed eyes, "I can return your mana core back."
 
 Fredriech's eyes slowly widened. Hearing those words that he shouldn't be hearing, he felt as though a thunder just cracked in his mind.
 
-His eyes sharpened, and he spoke in a deep voice.
+His eyes sharpened, and he spoke in a deep voice, "Explain yourself."
 
-"Explain yourself", Fredriech demanded.
+Fredriech demanded, a flicker of desperation igniting in his eyes.
 
-"The Cornolis family ruined your mana core", Josee explained. But as those words entered his ears, another thunder hit 
-Fredriech's mind.
+"The Cornolis family ruined your mana core," Josee explained. But as those words entered his ears, another thunder struck Fredriech's mind.
 
-'_The cornolis family?!_', Schulga's mouth became agaped.
+'The Cornolis family?!', Schulga's mouth gaped open. 
 
-'_Who?_', his mouth shivered, '_Who the hell is she?!_'
+'Who?', he thought, 'Who the hell is she?!'
 
-"Normally it would not be possible to restore it", Josee continued, "But I know a way to bring it back"
+"Normally it would not be possible to restore it," Josee continued, "But I know a way to bring it back."
 
-"How?!", Fredriech shouted. In a bid of frenzy, he rushed and almost grabbed Josee's shoulder. But Schulga and the guards reacted quickly and blocked his path.
+"How?!" Fredriech shouted, unable to contain his sudden outburst. He rushed forward, almost grabbing Josee's shoulder. But Schulga and the guards reacted quickly, blocking his path.
 
 Realizing his mistake, Fredriech deeply inhaled before apologizing.
 
-"Forgive my rude manners"
+"Forgive my rude manners."
 
-"... It's not a problem", Josee rolled her eyes.
+"... It's not a problem," Josee rolled her eyes.
 
-"Still. I can't believe you", Fredriech announced, "How can you restore something which can never be restored?"
+"Still. I can't believe you," Fredriech announced, "How can you restore something which can never be restored?"
 
-"A mana core is not a body part that heals. Once it's broken, you destroy your plate, and you can never grow agai-"
+"A mana core is not a body part that heals. Once it's broken, you destroy your plate, and you can never grow again-"
 
-"... Who says I'm restoring your plate?", Josee smirked.
+"... Who says I'm restoring your plate?" Josee smirked.
 
-And that one smirk suddenly sent shivers down Fredriech's spine. 
+And that one smirk suddenly sent shivers down Fredriech's spine.
 
 "... Why would I do something so bothersome", and a wicked smile suddenly formed in Josee's face, "When I can just create a new one"
 

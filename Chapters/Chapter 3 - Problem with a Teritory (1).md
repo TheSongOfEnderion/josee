@@ -2,19 +2,19 @@
 
 After talking with the carpenters and blacksmiths, Josee had another headache.
 
-'... They're using hand measurements. Oh my god,' she sat at her office table, pinching her glabella.
+'_... They're using hand measurements. Oh my god_' she sat at her office table, pinching her glabella.
 
-'... The length of a hand, a foot, or fingers. This simply will not do. For my future projects, I cannot allow that to happen.,' Josee stood up from her table with a deep frown on her face.
+'_... The length of a hand, a foot, or fingers. This simply will not do. For my future projects, I cannot allow that to happen._' Josee stood up from her table with a deep frown on her face.
 
-'... If I don't fix this now, it'll be a fucking mess later. But I can't recreate the metric system. Not with my clunky memory. I will need a potion.'
+'_... If I don't fix this now, it'll be a fucking mess later. But I can't recreate the metric system. Not with my clunky memory. I will need a potion._'
 
 She looked at the room where only Schulga was left behind.
 
-'... First, I will have to directly inspect the territory.'
+'_... First, I will have to directly inspect the territory._'
 
 "... Prepare the carriage," Josee commanded.
 
-"Yes!" Schulga replied, "Where might we be heading, milady?"
+"Yes" Schulga replied, "Where might we be heading, milady?"
 
 "... Village."
 
@@ -38,7 +38,7 @@ Josee observed the busy village. Many of the men were busy hammering at the wall
 
 "Wah, it's the baron's daughter!" a group of children approached Josee. They were wearing humble tunics made of linen.
 
-'... Blue, Red, Yellow, beige. Their clothing has a surprising variety,' Josee noted as the kids surrounded her.
+'... Blue, Red, Yellow, beige. Their clothing has a surprising variety' Josee noted as the kids surrounded her.
 
 "Hey! Hey, what are you doing here?"
 
@@ -88,7 +88,7 @@ Josee looked at him and nodded.
 
 "We've been patrolling the village, and so far, there haven't been any pirate sightings," the guard reported.
 
-'... Pirates,' Josee frowned.
+'... Pirates' Josee frowned.
 
 '... Fuck. Josee from the noble life only cared about simping over handsome princes at the academy. And you're telling me there were actually pirates in her territory? Fuck.'
 
@@ -160,11 +160,11 @@ Josee then turned and looked at the local priest. He was a middle-aged man with 
 
 "... I see."
 
-'... This Cetarax is causing too much headache,' Josee's eyes sharpened.
+'... This Cetarax is causing too much headache' Josee's eyes sharpened.
 
 Josee felt the caress of the strong wind from the sea. Standing on top of the stone seaport, she watched as strange birds flew through the sky.
 
-'... I will have to personally butcher that lobster myself,' Josee coldly remarked.
+'... I will have to personally butcher that lobster myself' Josee coldly remarked.
 
 A jar of alcohol finally arrived. The wise women each applied it to the slash wounds and bruises of the injured men, cleaning them in the process.
 
@@ -406,7 +406,7 @@ The three moons of this world hung high in the night sky. Josee quietly sat at t
 
 She wore her white nightgown, a dress Josee preferred because it was chilly and comfortable.
 
-'... It's good Josephine was all bubbles and retardation in the head, leaving me a diary to pick up her memories,' Josee recalled her conversation with Schulga.
+'... It's good Josephine was all bubbles and retardation in the head, leaving me a diary to pick up her memories' Josee recalled her conversation with Schulga.
 
 '... No matter. If it worked or not, a knight is replaceable. Anyway, the first matter of things I have to settle is the food.'
 
@@ -424,7 +424,7 @@ Josee continued tapping her hands.
 
 "... Fortunately, I studied hydroponics. I can make a primitive version, but it'll require some testing of multiple batches of crops."
 
-'... Which means we're still back to the issue at hand. Food in the short-term. It's unlikely I'll grow these in one month's time,' Josee laid back at her table.
+'... Which means we're still back to the issue at hand. Food in the short-term. It's unlikely I'll grow these in one month's time' Josee laid back at her table.
 
 As she thought of many possibilities, an idea suddenly came to her mind.
 
