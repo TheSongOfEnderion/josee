@@ -2,15 +2,15 @@
 
 After talking with the carpenters and blacksmiths, Josee had another headache.
 
-'_... They're using hand measurements. Oh my god_' she sat at her office table, pinching her glabella.
+'... They're using hand measurements. Oh my god' she sat at her office table, pinching her glabella.
 
-'_... The length of a hand, a foot, or fingers. This simply will not do. For my future projects, I cannot allow that to happen._' Josee stood up from her table with a deep frown on her face.
+'... The length of a hand, a foot, or fingers. This simply will not do. For my future projects, I cannot allow that to happen.' Josee stood up from her table with a deep frown on her face.
 
-'_... If I don't fix this now, it'll be a fucking mess later. But I can't recreate the metric system. Not with my clunky memory. I will need a potion._'
+'... If I don't fix this now, it'll be a fucking mess later. But I can't recreate the metric system. Not with my clunky memory. I will need a potion.'
 
 She looked at the room where only Schulga was left behind.
 
-'_... First, I will have to directly inspect the territory._'
+'... First, I will have to directly inspect the territory.'
 
 "... Prepare the carriage," Josee commanded.
 

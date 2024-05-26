@@ -280,7 +280,7 @@ Josee looked at the other sacks of bags and saw a bunch of crop produce.
 
 Josee returned her eyes back to the crops on the table.
 
-'_... Let's say I did succeed in scaling a hydroponics farm to support a village of 600 people. That still means in the foreseeable future, it would be unneeded once I obtain more arable land or once I obtain access to the inner part of the Cursed Forest and begin mining_'
+'... Let's say I did succeed in scaling a hydroponics farm to support a village of 600 people. That still means in the foreseeable future, it would be unneeded once I obtain more arable land or once I obtain access to the inner part of the Cursed Forest and begin mining'
 
 After thinking for a moment, Josee shook her head.
 

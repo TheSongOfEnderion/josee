@@ -1,241 +1,180 @@
 **Chapter 8  - Shipment**
 
-A few days passed, and Josee focused her entire attention in managing the rebuildment of Aquel.
+Several days passed, and Josee poured all her focus into managing Aquel's reconstruction.
 
-To Josee who was a mechanical engineer in her life, it wasn't easy doing a civil engineer's work. Although she has a decent understanding of loads and moment of forces, it was still different when one applies it to buildings rather than machine parts.
+As a mechanical engineer, civil engineering wasn't exactly Josee's forte. While she grasped the concepts of loads and moments of force, applying them to buildings instead of machine parts was a different story altogether.
 
-But Josee felt frustrated at her limited understanding of construction, thus she came at a conclusion. To temporarily build houses to accomodate the villagers and later tear it down when she finds a more competent civil engineer.
+Frustrated by her limited construction knowledge, Josee came to a decision: construct temporary housing for the villagers, to be demolished later when a competent civil engineer could be found.
 
-Meeting with Friedrich earlier, he explained to Josee about fire runes.
+Earlier, during her meeting with Friedrich, he'd explained about fire runes.
 
-"I apologize my lady. But runes simply aren't my specialty. I can create a basic fire rune but it's heat will not be sufficient to your needs"
+"My apologies, milady," Friedrich admitted. "Runes aren't my area of expertise. I can create a basic fire rune, but its heat wouldn't be enough for what you need."
 
-Therefore, Josee opted to do it herself in the meantime.
+Therefore, Josee decided to take matters into her own hands for the time being.
 
-With the full production of food from Friedrich, Josee's production of cement, and the occasional hunting of giant beasts for meat, Josee was able to address the basic needs of the village.
+With Friedrich's contribution of a steady food supply, Josee's cement production, and the occasional hunt for meat from large beasts, the village's basic needs were met.
 
-Because of the rocky shores of Aquel, it was easy to acquire stones needed for construction.
+The rocky shores of Aquel proved advantageous, providing readily available stone for construction.
 
-Thus on fourth day, the first concrete House in the village was built. Taking it as an experience, the village carpenters learned how to handle concrete and the building of twenty more houses began it's way.
+Thus, on the fourth day, the first concrete house in the village stood complete. This initial project served as a learning experience for the village carpenters, who then embarked on the construction of twenty more houses.
 
 
 ◇ ◇ ◇ ◇ ◇
 
-The next day however, a guest arrived within Josee's office in the mansion.
 
-Josee didn't think that Schulga's friend would arrive this quick.
+The next day, a visitor arrived at Josee's office in the mansion.  Josee was surprised Schulga's friend had come so quickly.
 
-A man with a scrawny hair, a jacket of dark rose color and a cheap dark brown leather pants. Underneath his jacket was a white long sleeve and a small bow tie.
+The man was wiry, with scraggly hair and a cheap outfit: a dark rose jacket over a white long-sleeve shirt and a bow tie paired with ill-fitting dark brown leather pants.
 
-"Good afternoon milady. I am Bolli of the West Wing Merchant Company"
+"Good afternoon, milady," the man greeted with a bow. "I am Bolli of the West Wing Merchant Company."
 
-Schulga stood besides him. Observing his friend he hasn't seen in years, somehow, Schulga sported an iffy look
+Schulga stood beside him, eyeing his friend he hadn't seen in years with a hint of suspicion.
 
-"... Hmmm", Josee lightly tapped the office table. Wearing her usual and simple red dress, Josee observed Bolli.
+"Hmmm," Josee murmured, tapping the desk. Dressed in her usual simple red dress, she studied Bolli. "...My name is Josephine Kalingrad of the Kalingrad Barony. Let's dispense with formalities. You arrived fast."
 
-"... My name is Josephine Kalingrad of the Kalingrad Barony. Anyway, let's skip the formalities. You sure came here fast"
+Josee estimated it should have taken at least three days to travel by boat from the capital city to Aquel.  Yet, here he was, a day early, in a damaged ship.
 
-Josee calculated that it should have taken atleast 3 days for him to come from the capital city to aquel by boat.
+"Clearly, you used a wind stone to speed up your trip," she deduced.
 
-But for some reason, he arrived a day earlier, and with a ship strawn and filled with damages.
+"Well," Bolli began, launching into a fawning introduction, "Schulga here told me about a great opportunity. He's an excellent knight, a man of impeccable character, I assure you. Hahahaha—"
 
-'... In other words, he used a wind stone to speedup his travel'
+"You're in debt, aren't you?" Josee cut him off, rolling her eyes at his transparent flattery.
 
-"Well. I heard a great opportunity from my good friend Schulga. He's an excellent knight and with a honest character, i truly believe him. Hahahaha-"
+A bead of sweat trickled down Bolli's back. "Ah, what makes you say that, milady?"
 
-"... You're in debt aren't you?", Josee rolled her eyes from the fake flattery.
+"Look," Josee said with steely eyes, "neither of us is stupid. The sooner you're honest, the faster we can make a deal."
 
-"Ahh. What makes you think that milady", cold sweat fell from his back.
+Bolli forced another laugh. "Schulga, your lady certainly makes an impression!"
 
-"... Look", Josee replied with sharp, cold eyes "Neither you nor me are mentally brain damaged. The faster you get honest, the quicker we can make a deal"
+Schulga, however, simply shook his head and sighed. "My apologies, milady. I knew this fellow was a gambler, but he used to be a competent merchant. Now, though..." He cast Bolli a pitying look.
 
-"Hahaha. Schulga, your lady sure makes an impression"
+"H-Hey, Schulga!" Bolli sputtered. "It wasn't my fault! That wretched woman got me into debt!"
 
-Schulga on the other hand merely shook his head ans sighed.
+Josee watched the exchange, then shook her head. "...This won't do. I can't do business with someone like you."
 
-"I apologize my lady. I knew this guy was a total whore, but he was a competent merchant. Now though", Schulga looked him with a pitying frown.
+"W-Wait, milady!" Bolli pleaded, raising a hand. "The letter you wrote only requires selling your crops to the Free City of Galile, right?" A sly grin stretched across his face. "I have connections there. I can easily sell the shipment and turn a good profit!"
 
-"H-Hey Schulga. I didn't mean for it to happen. That vile woman got me in debt!", frantically, he exclaimed in frustration.
+"Hmmm," Josee mused, steepling her fingers.
 
-As josee saw this, she shook her head.
+"Before we go any further," Schulga interjected, "Bolli, who did you borrow money from?"
 
-"... This won't do. I can't make a deal with a guy like this"
+Bolli averted his gaze.
 
-"W-Wait my lady!", he raised his right arm as if trying to stop her.
+This prompted Josee to delve into her memories. Something niggled at her, but she couldn't quite place it. Pulling open a drawer, she retrieved her journal and began flipping through the pages.
 
-"The letter wrote you need only to sell your crops to the Free city of Galile right?", Bolli wryly smiled, wiping the sweat off his forehead.
+Schulga noticed her flipping through the notebook and caught a glimpse of the letters within. 'What are those? Ancient runes?' he wondered.
 
-"I have connections there, I can easily sell the shipment and barter a good profit!"
+Josee stopped abruptly. "...Oh," she sighed in realization.
 
-"... hmmm", Josee lightly clasped her hands.
+Putting the notebook down, she clasped her hands again. "...I will not be trading with you," she declared, fixing Bolli with a cold stare.
 
-"Before that", suddenly Schulga interjected, "Bolli, who did you borrow money from?"
+"A-Ah, but why?" Bolli stammered, his bravado faltering.
 
-"Err, that", Bolli turned his gaze away.
+"You're wasting my time," Josee snapped. "A merchant in trouble is not a good partner. If you want to do business with me, I need evidence that your future value outweighs your current problems."
 
-Seeing this, Josee began recollecting her memories of the past. But for some reason, she couldn't quite recall what it was. Pulling her drawer, she took her journal and began flipping through it.
+Bolli slumped in defeat. He looked at Josee with weary eyes. Before coming here, he'd envisioned a fresh start, escaping his troubles by trading at sea. 'A letter from my friend seemed like the perfect opportunity,' he thought. 'A young noblewoman with a large amount of crops. What could go wrong?'
 
-Schulga noticed this, and from the side of his eyes, caught a glimpse of the letters in the note.
+Clearly, he'd underestimated her. The seemingly innocent girl before him exuded the aura of a seasoned politician, impervious to his pleas.
 
-'What are those? Ancient letters?'
+"My problems are under control," Bolli insisted. "I got into debt with the Brytoria Mercantile Association."
 
-Josee stopped her flipping.
+Schulga's frown deepened. "I thought you were running from loan sharks. What happened?"
 
-"... Oh", Josee sighed, "Right"
+"That's the thing," Bolli replied, meeting Schulga's gaze. "The Brytoria Mercantile Association changed leadership. They've become more predatory, less regulatory. They target anyone who refuses to join their association. Gambling and a certain woman landed me in hot water with them."
 
-Putting the notebook down, she clasped her hands once more.
-
-"... I will not do any trade with you", Josee coldly stared at him.
-
-"Ah, but why?", Bolli's body shivered.
-
-"... You're wasting my fucking time", suddenly hearing the pretty noble lady cussed with such heavy tone, Bolli felt scared.
-
-"A merchant in trouble is not a good partner. If you want to do business  with me, I need sufficient evidence that your future worth outweighs your present trouble"
-
-As Bolli heard this, he heavily sighed. He looked at Josee with tired eyes as his shoulders dropped. Before coming here,he aimed to start a new life over, trading by sea to escape the land.
-
-'Having received a letter from my friend, I thought this will be easy', Bolli thought.
-
-It was the young lady of the Kalingrad territory. Although he didn't knew how they did it, but they have a large amount of crops. Knowing his friend, Schulga had no reason to lie. Thus Bolli chose to take this opportunity to escape.
-
-And surely, there should be no difficulty striking a deal with a mere 17-years-old, right?
-
-But that was not the case.
-
-The person seating before him felt like a battle hardened politician with no opening.
-
-"My problems, are under control", Bolli continued, "I got in debt with the Brytoria Mercantile Association"
-
-"What?", Schulga deeply frowned, "I thought you borrowed money from loan sharks given you're running with your life"
-
-"Well, thats the thing", Bolli replied as he made eye contact with Schulga.
-
-"The Brytoria Mercantile Association changed leadership. They became more predatory than being simply regulation of the government. They target anyone that refuse to become a member of ther association. I was caught up due to gambling and women"
-
-"Bolli", Schulga replied with furrowed eyebrows, "Haven't I always told you to stop thinking with your lower member?"
+"Bolli," Schulga said with an exasperated sigh, "haven't I always told you to stop thinking with your lower half?"
 
 "Shit, how was I supposed to know she was the lion's den?!"
 
-"... Hmmm", Josee lightly raised her eyebrows.
+"... Hmmm", Josee lightly raised her eyebrows. Recalling her notes, she remembered the Brytoria Mercantile Association's recent power grab.
 
-'_... Right, they felt threatened by the rising King of Gold, one of the male leads, from the western Empire, thus they started consolidating power and trade routes_'
+'... Right, they felt threatened by the rising King of Gold, one of the male leads, from the western Empire, thus they started consolidating power and trade routes'
 
-'... Eventually, I will have to clsand with them', Josee tapped her fingers.
+'... Eventually, I will have to clash with them', Josee tapped her fingers.
 
-'_... If I remember correctly, the King of Gold will soon establish  the first true banks in this world. Currently associations fills that role in a pseudo manner like doing insurance and lending money, but only to merchants and sailors_'
+'... If I remember correctly, the King of Gold will soon establish the first true banks in this world. Currently associations fills that role in a pseudo manner like doing insurance and lending money, but only to merchants and sailors'
 
-"... Heh", Josee wickedly smiled.
+A wicked grin spread across Josee's face, sending shivers down the spines of the two men before her.
 
-As the two men watched Josee's terrible smile, a shiver ran down their spine.
+"Alright, Bolli," Josee said, her crimson gaze locking with his. "Here's what I really need to know. Can you break inside the Brytoria Mercantile Association undetected?"
 
-"... Alright. Then let me ask you this", Josee stared right into Bolli's eyes. her Crimson iris felt burning to his body, forcing Bolli to gulp his mouth.
+"What?!" Bolli and Schulga exclaimed in unison.
 
-Bolli clenched his teeth.
+"Milady, that's far too dangerous!" Schulga protested. "The Association wields immense power, enough to sway the King himself! They have hundreds of mages at their disposal!"
 
-"Do you know how to break inside the Brytoria Mercantile Association secretly?"
+Josee chuckled coldly. "Who says I'm the one going in?"
 
-""What?"", the two men spoke at the same time.
+Ignoring their stunned expressions, Josee turned back to her parchment and began writing.
 
-"Milady!", Schulga stepped forwad, "That's too dangerous! The Brytoria Mercantile Association possess enough power to even sway the King! If you break inside, they will have hundreds of mages on their pockets!"
+Bolli considered her proposition for a moment, his brow furrowed in concentration. Finally, he spoke.
 
-"... Who says i'm the one breaking inside?", Josee lightly giggled.
+"I can do it," he said grimly. "I know how to get inside."
 
-"... So, can you?", Josee turned her eyes to her parchment and began writing.
-
-After thinking for a few momets, Bolli replied.
-
-"I can", with a serious furrow in his face, "I know how to break inside"
-
-"... Good", Josee replied.
-
-"Now. let's discuss the details of our trade"
+"Excellent," Josee replied. "Now, let's talk about this trade deal."
 
 
 ◇ ◇ ◇ ◇ ◇
 
+Uncertainty flickered across Josee's face as she stood by the window, gazing out at the bustling village. 
 
-"... Can he be trusted?", Josee asked as she stands before the window, facing the village.
+"... Can he be trusted?"
 
-As Bolli left the office to go and see the goods, Josee stood up and observed the view to the village.
+Escorted by Alex, Bolli had just left to inspect the goods. By the window, Josee watched the bustling village, the men, energized by the new materials, had abandoned fishing to focus on rebuilding. They hauled limestone and other supplies, while the women toiled over communal meals to fuel their efforts.
 
-Bolstered by the new material, all the men in the village halted fishing and focused on helping rebuild the broken houses. Many were out gathering limestone and other ingredients. Meanwhile, the women were busy making huge community food for the hard working men.
+"Bolli might seem a bit rough around the edges, milady," Schulga said with a sigh. "But he's got a good heart. He spends his money freely, but only on two things: women and the less fortunate. That's why we're friends."
 
-"Bolli may seem a bit awkward milady", Schulga sighed, "But he's an honest man. He doesn't look rich because he spends his money only on two things. Women and helping the poor. That's why we are good friends""
+Josee snorted. "Especially women, it seems."
 
-"... And especially women", Josee scoffed.
+Schulga chuckled sheepishly. "Unfortunately, yes. But milady," his voice grew serious, "what's this about breaking into the Association?"
 
-"Yes. Unfortunately", Schulga scratched his forehead.
-
-"But milady", he continued, "What is this about breaking inside the association"
-
-"... I'll tell you later. Anyway", turning around, Josee stared at Schulga's eyes.
-
-"... Call Nadia and have her ready my clothes. You too. We will accompany Bolli in the Free City of Galile"
+"I'll explain when the time comes," Josee said, turning to face him. Her gaze held a steely glint. "In the meantime, call Nadia and have her prepare travel clothes for both of us. We're accompanying Bolli to the Free City of Galile."
 
 
 ◇ ◇ ◇ ◇ ◇
 
-The vast blue ocean of this world revealed itself before Josee. The salty wind flung her brown-range her backwards. Wearing a humble beige dress as if she's just a common woman, Josee stood at the bow of the ship with a sharp sword lay hanging on her hips.
+The vast expanse of the world's blue ocean stretched before Josee. The salty wind whipped her brown hair back, revealing a determined glint in her eyes. Dressed in an unassuming beige dress, she stood at the ship's bow, a sharp sword hanging from her hip – a stark contrast to her commoner's attire.
 
-"Err, we will need to take a segway because of Cetarax", Boli explained while wearing his jacket and leather pants, "I heard when Cetarax woke up he devoured a ship down"
+"We'll need to make a detour because of Cetarax," Boli explained, adjusting his worn jacket and leather pants. "Word has it the beast woke up and devoured a whole ship."
 
-"That's just nonsense", Schulga spoke. This time, he was wearing a leather armor fit with dark-blue color.
+Schulga, clad in dark blue leather armor that accentuated his wind-tousled white ponytail, scoffed. "Nonsense. If a ship went down, we'd know about it."
 
-His shoulder-length white hair tied in a ponytail flew with the wind.
+Bolli scratched his beard sheepishly. "Just rumors, then?"
 
-"If a ship fell, we would have known", he continued.
+Josee remained silent, her gaze fixed on the churning water.
 
-"Oh, so it was just rumours", with that in mind, Bolli scratched his small beard.
+"Milady", Schulga turned around and saw the dozens of villagers that their ship carried.
 
-As the ship moved with the wind, Josee simply kept looking at the waters, lost in thought.
+"Was there really a need to bring this many workers with us?"
 
-'I wanna kill cetarax so badly. I have to kill cetarax. I WILL fucking kill cetarax.'
+"... Oh, trust me", Josee fixed her hair from the wind's    
 
-Their one day journey to the free city of galile was extended to two days because of the detour they had to take.
+Her mind filled with a singular purpose: vanquishing Cetarax. The memory of her fiery transformation, wielding flames like metal, fueled her resolve.
 
-Josee then remembered the fiery state she achieved last time, where she wielded flame like its metal.
+'If I can sustain that form for an hour, I have a fighting chance,' she strategized. 'But merely slaying it is wasteful. I need a powerful enemy to fall with it. That thing's casual firepower can level an entire town'
 
-'If i can maintain that form for at least 1 hour, i'll stand a chance at killing Cetarax', Josee remunerated, 'But i can't just kill. Its too wasteful. I need a powerful enemy to take down with him'
+The journey to the Free City of Galile, originally planned for one day, stretched into two due to the detour caused by Cetarax. While Bolli yawned and Schulga fended off his overly curious questions about their crops, Josee retreated to her makeshift cabin office.
 
-"But man", Bolli yawned, "you guys sure have a tremendous amount of crops. How did you buy preserve these at such freshness, its practically newly harvested!"
-"That's a trade secret Bolli", Schulga replied.
+Unfurling parchments, she sketched her plans. 
 
-"Oh man. We're best friends. Why not tell me? Just a hint?", a lascivious and greedy look appeared in Bolli's face forcing a vein to pop in Schulga's forehead.
+'Resources - mages and manpower. Spring is nearing its end, and summer's on the horizon. By winter, I must reach the Cursed Forest and build a wall to contain the rampaging monsters.'
 
-Josee ignored their banter before walking back to the inner cabin.
+Her eyes drifted to another drawing on her desk: an exploded view of a steam engine, meticulously detailed – pistons, cylinders, belts, boilers – yet with a hint of imperfection in certain areas.
 
-Seating at a room that became her office, Josee laid down her parchments and begun drawing her plans.
-'... The resources i need right now are mages and people. It's late spring right now and soon it will be summer. By winter I must expand my reach into the Cursed Forest and establish a wall to prevent the rampage of monsters'
+'I need bronze and steel,' she thought. 'With a few small mana stones and Friedrich's fire rune expertise, this machine could run indefinitely.'
 
-Josee turned over to her right and picked up a drawing of a machine. Within that drawing was the exploded assembly of a steam engine with its simple construction, the piston, the cylinder, the belt, the boiler chamber, and more.
-Looking closely, however, the drawings were drawn straight with confidence, but some parts were a bit awkward and uneven.
+A mischievous glint sparked in her eyes as she switched parchments, revealing a mechanical blueprint of a rifle. Setting it aside, she retrieved two metal strips. With a surge of heat, her hands transformed the metal into glowing red bars. Pressing them together, she focused on their contact point, welding them with intense heat.
 
-'... I need to acquire a lot of bronze from and steel from this journey so i can begin my manufacturing. Since Fredrich can make even a basic fire rune, all i need is some small mana stone and this bad boy will start running endlessly'
+Satisfied, she plunged the metal into a bucket of water. A hiss and a puff of steam erupted as the metal cooled. Inspecting the welded joint, however, she frowned. Tiny cracks marred the surface, betraying her calculation.
 
-Josee then turned to other parchment, and in one of them saw a mechanical drawing of a rifle. Lightly smirking, Josee placed it down.
-
-Picking up two pieces of strip metal from her drawer, Josee's hand grew so hot that the irons became red. Josee then applied pressure at the two and increased temperature at their contact point until the two welded.
-
-Afterwards Josee took a bucket of water and quenched the metal inside, causing a small but sudden steam.
-
-After a few seconds, Josee picked the wet metal observing it, she lightly frowned.
-
-There were many cracks on the welded metal, specially at their contact point.
-
-"... Hmm. I thought i got the temperature right. But it was too hot"
-
-Shrugging her shoulders, Josee melted the metals and formed too small spheres with it. As the journey to their destination continued, Josee kept practicing with her temperature control.
+"Hmm. A touch too hot," she muttered, shrugging. Melting the metal down once more, she formed small spheres to practice her temperature control. As the journey continued, Josee persevered, honing her ability to manipulate heat.
 
 ◇ ◇ ◇ ◇ ◇
 
-As the fresh light of morning dew entered the mansion, Fredrich woke up to a new day.
+A sliver of light peeked through the window, rousing Friedrich from his sleep in the Kalingrad mansion. Though small, his room provided warmth and comfort.
 
-He sleeps in a humble soft bed in one of the rooms within the Kalingrad mansion. Though small it may be, it was warm and comfortable to him.
+After a quick wash with water magic and a drying spell, Friedrich donned his usual attire – a long green linen shirt and brown trousers – and pulled on the dark coat gifted by the Lady Kalingrad.
 
-After using water magic to bath and heat magic to dry himself, Fredrich wore his long green linen shirt and brown long pants. From a closet in the corner, he pulled  a dark coat given to him by the lady of the mansion.
-
-Fredrich starts his day by going to the large warehouse containing the crops that he was growing. After the initial success, the warehouse was expanded and more beds of crops were made.
+His day began at the sprawling warehouse overflowing with crops, a testament to their initial success. More beds had been added, and a team of ten villagers now tended to them full-time, handling the nutrient solution, seedlings, and harvests. Another group gathered raw materials.
 
 Around ten villagers helped in full-time with mixing the nutritional liquid, pouring them into the beds, placing the sapplings, and harvesting them. A different group of villagers were then responsible for collecting raw material. All Fredrich had to do was cast growth spell over and over again that he had practically gotten bored with it, activating the spell without much thought.
 
@@ -243,9 +182,7 @@ Whenever Friedrich looked at the bountiful harvest that appears every 3 minutes,
 
 "A completely unorthodox method. Who would have thought of using a mage, and a wizard at that, for such menial task?"
 
-To Friedrich, and to every other mage, Magic was used for two things; explorig the mysteries of the cosmos or as weapons of war.
-
-Not only was magic difficult to learn, it was even more difficult to master. Hence many kingdoms used magic as a symbol of nobility and power. But after living in Aquel for a few days, Friedrich came to understand the nature of Josephine Kalingrad.
+In Friedrich's world, magic served two primary purposes: unraveling the cosmos' mysteries or wielding devastating power in war. Magic was notoriously difficult to learn and master, making it a symbol of nobility and power throughout many kingdoms. Yet, after spending a few days in Aquel, Friedrich's traditional mindset began to crack under the influence of Josephine Kalingrad.
 
 Nothing is beyond her violation. Anything and Everything that can and will be of use to the fullfillment of a purpose will and shall be used.
 
@@ -306,6 +243,10 @@ The central docks of Galile, where bartering and trading of merchants happened.
 On one of the docks in this expansive space, Josee's crew landed.
 
 Wearing a simple straw bonnett hat, a simple orange skirt and a white long sleeve, Josee stepped into the pier. The noisy Central Docks were filled with hundreds after hundreds of people. Workers going about carrying crates after crates of goods, dock officers running about and inspecting, merchants tangled with other merchants busy haggling for new goods. It was a dock filled with many life.
+
+She also saw the guards wearing a bluish-green scale armor made of a hard animal scale. Each of them also wore a scaled barbute helmet, a long steel tipped spear, and a jade-like sword in their hips.
+
+'... Right. Those scales must be made from Marman scales, a type of large sea-horse animal with an aggressive behavior'
 
 Bolli stepped besides Josee. Stretching his hands, he brightly smiled at her in a swuave manner.
 
@@ -444,26 +385,6 @@ His instincts tells him there was more to this than meets the eyes.
 "Investigate the history of the Kalingrad", Uriel ordered.
 
 "And pay attention to Josephine Kalingrad"
-
-◇ ◇ ◇ ◇ ◇
-
-
-With 25 gold in Josee's hand, she obtained good profit in this transaction. With the transaction complete, Bolli left with two other guards to begin transferring the crate goods to the Seven-Tree warehouse.
-
-As for Josee, she began heading to the magic district within Galile.
-
-'Once i obtained enough warding stone and explore the inner parts of the cursed forest, there should be a mine of sort inside.'
-
-Looking at the glass panels of many magic shops, Josee saw a variety of equipments and tools.
-
-Of course most of them were low level or barely functional, as true magic tools were not only expensive but hard to come by.
-
-'Since i'll be conducting a lot of sea business, I should build a steam engine for a boat as soon as i can. Once that's done, no ship in this world will be able to keep up'
-
-Of course Josee knew of the existence of wind stones which can propel a large gust of wind to move a ship at a fast rate, or ships with dedicated wind mages to push it.
-
-But all of those were hard to control and doesn't have the same maneuverability as a steam boat.
-
 
 
 

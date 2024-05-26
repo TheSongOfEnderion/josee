@@ -30,13 +30,12 @@
         { "color": "#7ac1ff" }
       ]
     },
-    "(?<!.)('.+')(?!(t|s))": {
+    // ((?<!.)('.+?')(?!(t|s)))
+    "(('(?!(s|t|ll|re|ve|m)))(.+?)('(?!(s|t|ll|re|ve|m))))": {
       "filterLanguageRegex": "markdown",
       "regexFlags": "gm",
       "decorations": [
-        { "color": "#ff4040" },
-        { "fontWeight": "bold" },
-        {"fontStyle": "italic" },
+        { "color": "#ff4040", "fontStyle": "italic"},
       ],
 
     },
@@ -44,10 +43,18 @@
       "filterLanguageRegex": "markdown",
       "decorations": [
         { "color": "#61ff6e" },
-        { "text align": "center" }
       ],
 
     },
+    // "(\\*\\*)(.+?)(\\*\\*)": {
+    //   "filterLanguageRegex": "markdown",
+    //   "regexFlags": "gm",
+    //   "decorations": [
+    //     { "opacity": "0" },
+    //     { "color": "#98b4ff"},
+    //     { "opacity": "0" },
+    //   ],
+    // },
     "^(?!\\s*$).+$": {
       "filterLanguageRegex": "markdown",
       "regexFlags": "gm",

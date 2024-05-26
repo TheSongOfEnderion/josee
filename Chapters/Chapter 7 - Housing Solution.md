@@ -86,17 +86,17 @@ Josee heaved a sigh of relief as she rested in the bath tub.
 
 Waking this morning in the middle of the forest, Josee found herself surrounded by monsters, each warily waiting for her to move.
 
-'_...not the most pleasant sight in the world_', Josee shook her head.
+'...not the most pleasant sight in the world', Josee shook her head.
 
 Standing up from the tub, Josee stared at a mirror and saw her body. Without any scars, all she saw was the pristine body of a young woman.
 
-'_... In spite of her lazy nature. Josephine didn't have any excess fat. Oh wait, that might just be poverty_'
+'... In spite of her lazy nature. Josephine didn't have any excess fat. Oh wait, that might just be poverty'
 
 Suddenly, Josee realized that her muscles grew tighter, and that there was a certain strength in it.
 
 "... Hmmm"
 
-'_... I dont want to be a muscle mommy_'
+'... I dont want to be a muscle mommy'
 
 After finishing dawdling around, Josee left the bath. Dressed in a white gown with her hair tied in a towel, she left towards her office only to see Alex standing inside.
 
@@ -127,7 +127,7 @@ After dealing with a few affairs in the territory, Josee stepped into the barrac
 
 "... I did", josee heavily struck schulga's sword, causing his hands to shake.
 
-'_She grew stronger_', Schulga assessed.
+'She grew stronger', Schulga assessed.
 
 "I know you can heal your wounds",  quickly, schulga pushed Josee's blade and took a step back.
 
@@ -169,7 +169,7 @@ An hour passed and Schulga and the rest kept waiting until they noticed Josee st
 
 "... Done", Josee stared at the kiln and saw the red hot limestone. The smoke released was a bit unbearable and luckily, Josee could control the flame, forcing hot air to push the smoke away
 
-'_... To create primitive cement, a high temperature is needed for calcination of limestone. Once the carbon dioxide is driven off, you're left with calcium oxide. Also known as quicklime_'
+'... To create primitive cement, a high temperature is needed for calcination of limestone. Once the carbon dioxide is driven off, you're left with calcium oxide. Also known as quicklime'
 
 Josee stepped towards the kiln before picking up a red hot stone. Seeing this, the guards flinched.
 
@@ -177,7 +177,7 @@ Schulga however, knew she was immune to heat. Still, it made him uncomfortable s
 
 After holding the stone in Josee's hand, it immediately crumbled to dust.
 
-'_... Might have overdone the heat a bit, but that looks just fine to me_'
+'... Might have overdone the heat a bit, but that looks just fine to me'
 
 Josee repeated the same steps until she had approximately ten sacks of quicklime
 
@@ -197,9 +197,9 @@ Satiesfied with its look, Josee lightly smiled.
 
 But as Josee said this, her mind began forming plans.
 
-'_...I can't do this myself all the time. Therefore i need a fuel source. Coal? Hmmm... These lands aren't rich in coal. Maybe i can import oil from the eastern dessert. Wait, magic is readily accessible. Fire runes can definitely solve the problem but it requires mana stone_'
+'...I can't do this myself all the time. Therefore i need a fuel source. Coal? Hmmm... These lands aren't rich in coal. Maybe i can import oil from the eastern dessert. Wait, magic is readily accessible. Fire runes can definitely solve the problem but it requires mana stone'
 
-'_... But.... hmmm...I know a way to gather a LOT of mana stone. It wouldn't be an issue. Therefore, i just need to find a runic master_'
+'... But.... hmmm...I know a way to gather a LOT of mana stone. It wouldn't be an issue. Therefore, i just need to find a runic master'
 
 "... Schulga, when will this friend of yours respond?"
 

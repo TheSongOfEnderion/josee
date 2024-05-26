@@ -28,7 +28,7 @@ The sound of a falling ceramic suddenly caught her attention. She swiftly turned
 
 "Ah! Lady Josephine, you've awaken already! Oh, thank the Divines!"
 
-'_... Josephine?' she wondered. 'Is that the name of this body?_'
+'... Josephine?' she wondered. 'Is that the name of this body?'
 
 "My Lady," the girl continued, "Is there anything I can do for you?"
 
@@ -45,7 +45,7 @@ Far beyond the shore cape were mountains reaching the end of the lagoon. A fores
 
 "... Josephine Kalingrad," she lightly spoke her name.
 
-'_... None of this makes any sense, and this isn't a dream either. Or perhaps it is._'
+'... None of this makes any sense, and this isn't a dream either. Or perhaps it is.'
 
 She lightly stared into the sky, her eyes lazily opened, reflecting a smirk of annoyance.
 
@@ -138,7 +138,7 @@ And the two guards, with no question, began their assault once more.
 
 "Wait, wait, wait! P-Please, my lady! My lady Josephine! I used to change your diaper! W-Why-ARGH!!!" A blood-curdling screech pierced the ears of every servant within the household. Shivers ran down their spines, and the head maid immediately fainted. The other servants quickly carried her, rushing her out of the room.
 
-'_... I always thought... Sure, this household may not be the wealthiest, but the sea in these parts is bountiful. The taxes obtained is small, but we shouldn't be this poor_'
+'... I always thought... Sure, this household may not be the wealthiest, but the sea in these parts is bountiful. The taxes obtained is small, but we shouldn't be this poor'
 
 Josee finally lifted her quill. After sorting through documents for a whole day, she surmised the missing values, inconsistencies, and errors. She concluded that someone was embezzling their funds.
 

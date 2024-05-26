@@ -16,7 +16,7 @@ Josee woke up early in the morning to personally bake the clay, hardening it.
 
 "... Pour the solution", She turned around commanded her servants. Two men then poured a barrel full of brownish nutrient solution into one of the clay container.
 
-'... Ash for potassium, seashells for calcium, bone meal for prosperous, and compost for micronutrients,'
+'... Ash for potassium, seashells for calcium, bone meal for prosperous, and compost for micronutrients'
 
 As the water were poured inside, Fredriech couldn't help but close his nose from the mild stench it emitted.
 
@@ -86,11 +86,11 @@ Afterwards, she left the warehouse. The two servants stood at the side, waiting 
 
 Right now something has taken a hold of Fredriech's mind. A certain phrase resonated in his mind.
 
-'_An equal conversion has to be paid for every transaction_'
+'An equal conversion has to be paid for every transaction'
 
 It was like a dam was just opened in his mind. He still couldn't wrap his head completely, but his instincts as a formerly powerful wizard told him something.
 
-That this statement alone has significant repercussions.
+That this statement alone has significant repercussions.    
 
 
 ◇ ◇ ◇ ◇ ◇
@@ -200,7 +200,7 @@ First, he cast a water gathering enchantment spell on each mixture barrel to ens
 
 As a result, with Fredriech's large mana pool due to his former power, Josee now had a warehouse full to the brim with crops.
 
-'_... Holy shit_', Josee sat at her office table with eyes shaking.
+'... Holy shit', Josee sat at her office table with eyes shaking.
 
 "... isn't this cheating? Why hasn't this been exploited yet? It's literally fucking broken. Fuck!", Josee excitedly cussed. No trace of elgance can be seen from her. It was as if she was a gangster from the streets.
 
@@ -212,7 +212,7 @@ Which meant, the warehouse south of the mansion was already full and Josee had o
 
 Although she had an idea, she realized that she heavily underestimated the potential of magic. Clams, Ash, manure, compost, magic. Everything was sustainable and replaceable within a short period of time. And if Josee managed to collect even the villagers shits, she would essentially create a net positive loop.
 
-'_... Shit. There's nothing magic cant do_', Josee thought.
+'... Shit. There's nothing magic cant do', Josee thought.
 
 This time, she had truly outdone herself. She never intended to produce this much product. In fact there were so many created that at that rate they'd have a year worth of crops in just one month.
 
@@ -280,7 +280,7 @@ Josee stopped her hands, and for a moment, she paused. Laying her quill back to 
 
 Fredriech gulped his mouth.
 
-'_She even knew this_'
+'She even knew this'
 
 "Yes. It said that it will extinguish all fire and freeze the word in a great darkness. That only the First Flame can resist it"
 
@@ -288,7 +288,7 @@ Josee stood up and picked her cup of tea. Slowly walking to the windows, she sta
 
 "... Your master misinterpreted the important part"
 
-'_... The great cold_', Josee thought, '_When i read the novel, I also thought it was just an eternal winter. But the cave showed me otherwise_'
+'... The great cold', Josee thought, 'When i read the novel, I also thought it was just an eternal winter. But the cave showed me otherwise'
 
 "Yes?", Fredriech turned around and stared at the lonely figure of Josee.
 

@@ -143,7 +143,7 @@ Fredriech, however, stared at the flames with deep empty eyes. None of them knew
 
 Within his eyes, he saw a fragmented myriad of everlasting dreams. The fires burned with such Light that Fredriech felt his very soul would scald.
 
-'_And when thous't stare into the abyss of the first flame, one will see eternity_', the words of an ancient text repeated in Fredriech's mind.
+'And when thous't stare into the abyss of the first flame, one will see eternity', the words of an ancient text repeated in Fredriech's mind.
 
 He suddenly kneeled down, tears flowing down his eyes.
 
@@ -155,13 +155,13 @@ The sudden change in his actions caused the guards, even Schulga, to flinch.
 
 "... The Flames of Cinder", Josee interrupted.
 
-'_... That's right_', Josee thought, '_Although the story was garbage, there was but one character who gave you a glimpse of the true end. A glimpse only an attentive reader can tell amidst the distracting flowery shoujo story_'
+'... That's right', Josee thought, 'Although the story was garbage, there was but one character who gave you a glimpse of the true end. A glimpse only an attentive reader can tell amidst the distracting flowery shoujo story'
 
-'_... Fredriech von Eisenhart. A person who became obsessed with the legend of the Great Cold that would extinguish all fire. Of course, it was talking about the coming of the titans... And the search of Flame_'
+'... Fredriech von Eisenhart. A person who became obsessed with the legend of the Great Cold that would extinguish all fire. Of course, it was talking about the coming of the titans... And the search of Flame'
 
 Josee stared at him with a kind pity.
 
-'_... A search that killed his master before the story begun_'
+'... A search that killed his master before the story begun'
 
 "... You're not an idiot", Josee remarked, "Even a broken wizard can tell what is normal and what is not. More so, if they had spent their life in search of Flame"
 
@@ -169,7 +169,7 @@ Josee stared at him with a kind pity.
 
 "Please tell me... ", Fredriech asked with such a deep and desperate voice that shivers ran down through the spine of Schulga and the guards.
 
-'_Something's wrong_', Schulga thought, '_Something's really, really wrong_'
+'Something's wrong', Schulga thought, 'Something's really, really wrong'
 
 He looked at his Lady and begged answers. But her cold eyes were fixated on Fredriech.
 
@@ -207,7 +207,7 @@ The sight earlier was something he would never have thought he'd see.
 
 A broken wizard was reborn.
 
-'_The baptism of Flame_', Schulga gulped, '_And basing on what that man says, the implication of my lady's powers are far greater than I ever imagined_'
+'The baptism of Flame', Schulga gulped, 'And basing on what that man says, the implication of my lady's powers are far greater than I ever imagined'
 
 "My lady", Schulga turned to her.
 
@@ -223,7 +223,7 @@ A broken wizard was reborn.
 
 Hearing her reply, Schulga's heart skipped a beat.
 
-'_It seems_', he thought, '_This life of mine, has been caught in something beyond me_'
+'It seems', he thought, 'This life of mine, has been caught in something beyond me'
 
 
 ◇ ◇ ◇ ◇ ◇
@@ -259,15 +259,15 @@ The journey continued.
 
 Josee stared at the list of names in her notebook. Together with those names was a rough map of the kingdom and its surrounding countries.
 
-'_... These are the characters I will have to recruit. Their abilities are too useful to leave to rot. I've got one down, easy enough to recruit_'
+'... These are the characters I will have to recruit. Their abilities are too useful to leave to rot. I've got one down, easy enough to recruit'
 
 But as Josee gave it more thought, the more headache she gets.
 
-'_... The four male leads of the story_', Josee couldn't stop her lips from curling, '_It's true. Each of them are Hero Class monsters capable of facing entire divisions of men. It would be great if I can recruit them but..._'
+'... The four male leads of the story', Josee couldn't stop her lips from curling, 'It's true. Each of them are Hero Class monsters capable of facing entire divisions of men. It would be great if I can recruit them but...'
 
 Josee deeply frowned.
 
-'_... All of them have giant fucking egos. Prideful and domineering, they may appear to respect a woman, but they'll never let one command them_'
+'... All of them have giant fucking egos. Prideful and domineering, they may appear to respect a woman, but they'll never let one command them'
 
 Thinking up to his point, Josee felt it was too bothersome to even try.
 
@@ -277,7 +277,7 @@ Hearing her, Misha suddenly felt shivers ran down her spine. She moved back, and
 
 Fredriech noticed this change and couldn't help but ask.
 
-'_What the hell did milady do to her?_'
+'What the hell did milady do to her?'
 
 
 ◇ ◇ ◇ ◇ ◇
@@ -323,7 +323,7 @@ Quickly, Fredriech realigned the magic circle in his hand and light orbs bounced
 
 Josee raised her arms forward and an instant burst of Flame emerged, burning at least twenty men. 
 
-'_No casting?!_', Fredriech exclaimed in shock.
+'No casting?!', Fredriech exclaimed in shock.
 
 "ARGHh!"
 
@@ -357,7 +357,7 @@ They scattered in all directions.
 
 After two minutes, the battle immediately ended. Schulga stared in shock at the sheer power Josee showed. His eyes shivering at what he had seen.
 
-'_She's like a walking, living sun. Even back in the royal capital, no mage could cast such furious fire with ease and power_', Once more, Schulga gulped down.
+'She's like a walking, living sun. Even back in the royal capital, no mage could cast such furious fire with ease and power', Once more, Schulga gulped down.
 
 "... Are there anyone injured?", Josee walked around the carriages, inspecting the damages.
 
@@ -385,7 +385,7 @@ He saw her furrowed eyebrows. Despite the heat from the flames, a cold sweat pou
 
 "Y-Yes. Yes I can", Fredriech stuttered, staring at the ash filled ground. 
 
-'_It just instantly turned them to ash. So this is the power of Flame_', A sense of dread filled his mind.
+'It just instantly turned them to ash. So this is the power of Flame', A sense of dread filled his mind.
 
 With a wave of his hand, the root veins brought the five bandits over. Standing in rows, their eyes were shivering in fear.
 
@@ -431,6 +431,6 @@ After obtaining all the information she needed, Josee burned all men to death, l
 
 "Yes!", Fredriech obediently shouted.
 
-'_Fuck, Fuck, Fuck, Fuck_', Fredriech cursed in his head.
+'Fuck, Fuck, Fuck, Fuck', Fredriech cursed in his head.
 
-'_What kind of Lunatic did I get myself employed to?_'
+'What kind of Lunatic did I get myself employed to?'
