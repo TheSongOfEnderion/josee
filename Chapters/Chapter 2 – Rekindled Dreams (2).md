@@ -1,4 +1,4 @@
-Chapter 2 – Rekindled Dreams (2)
+# Chapter 2 – Rekindled Dreams (2)
 
 And from the ashes, arose a being, born from the will of a trillion dead souls, long forgotten and unknown.
 
@@ -256,13 +256,47 @@ Josee recalled the long night she had. A lone woman rushed through the forest li
 
 '... I must be careful, or I'll get completely lost to the bloodlust again... it was fun though'
 
+Josee opened her right palm, and a flame of warm orange emerged.
+
+She remembered the original story.
+
+"… It was… a work of satire, a mockery of the genre. As the characters were all busy with their romantic life and bullshit, the world around them slowly started crumbling apart… ", Josee frowned. She forced herself to remember what little detail she could find in her mind.
+
+And as she recalled these memories, a frown filled her face.
+
+Josee deeply inhaled, and slowly sighed in tiredness.
+
+"… *And a lone warrior struggled, fighting against the evil that descended. Alone and weak, he fought to the end, a one-man war to protect the world he loved*…", Josee grit her teeth.
+
+It was a single line. The only line that mentioned the existence of a hero… and yet…
+
+"… That damned story… the world was never about the reverse harem romance", Josee cruelly frowned.
+
+"… It was just a minor story, a backdrop against a slowly crumbling world. A story about human greed, vanity, and narcissism. The failure to see the world for what it really is and the indifference to the suffering of the people"
+
+And Josee remembered the man who stood at the end.
+
+"...A story where only a single lone hero rose but failed to save the world… tsk"
+
+Josee remembered all the artefacts, all the mcguffin and magical items that were found throughout the story but were inevitably never used to their full potential.
+
+'... I suppose it was the author's way of reinforcing the theme. Where these great artefacts were use for nothing but vain purposes'
+
+"… If only the hero had those things, maybe he could've saved this world"
+
+But the hero did not have any of those, for he fought even without any blessings.
+
+He was a lone hero.
+
 Josee stood up, revealing her humble but curvaceous body. She walked towards the small window and saw the state of her territory.
+
+'... I need to find that Hero. I don't know who or what he is, but I must find him', she made her resolve as she stepped out of the large bucket tub.
 
 '... This is my life now... There is no point in complaining'
 
 A glint of determination formed within Josee's eyes.
 
-"... I must do what must be done", she coldly spoke.
+''... I must do what must be done'
 
 
 ◇ ◇ ◇ ◇ ◇

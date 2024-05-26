@@ -1,4 +1,4 @@
-**Chapter 3  - Problem with a Territory**
+# Chapter 3  - Problem with a Territory
 
 After talking with the carpenters and blacksmiths, Josee had another headache.
 
@@ -72,7 +72,23 @@ Walking through the village, Josee noticed how near the port was. Many villagers
 
 Josee turned to her and nodded.
 
-Walking beside her, Schulga simply observed Josee's actions. His right hand was placed on the sword at his hip.
+From the village square, Josee saw the gallows near the port where a body remained hanged. His head was covered a sack, and dried blood seeped through his neck. From a few moments, his body would twitch as if it was still alive. Near it, she saw a young villager throw dirt at his dead body.
+
+Josee turned her eyes straight forth. Walking beside her, Schulga simply observed Josee's actions. His right hand was placed on the sword at his hip.
+
+"... Schulga", Josee asked, holding her parasol quite tenderly.
+
+"... What's the villager's reaction to the old steward's hanging?"
+
+"Lukewarm", Schulga replied, his eyes observing Josee's tiny movements, "I heard from the servants that the villagers half-expected Renon was into some shady things. Even the lord does everything to stay frugal but he remains opulent even in these dark times"
+
+"... Good", Josee yawned, "My Father is a good man, but not the brightest. It's a sad thing the stewad wasn't killed much earlier"
+
+"I, I see", Schulga flinched at Josee's casual cruel remark.
+
+He looked at the rotting corpse of the former steward and couldn't help but frown.
+
+'Milady Josephine really did this? It's unbelievable'
 
 Finally arriving near the port, Josee stopped and ruminated. It was a port made of stones cut into pieces and glued together using mortar. On the dock, where many boats were being repaired or built at the moment, Josee saw a lot of men walking around, bringing wood, nails, and hammering.
 

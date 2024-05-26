@@ -1,4 +1,4 @@
-Chapter 1 – Rekindled Dreams (1)
+# Chapter 1 – Rekindled Dreams (1)
 
 And so it was, that the unfated soon find themselves on the brink of eternal slumber.
 

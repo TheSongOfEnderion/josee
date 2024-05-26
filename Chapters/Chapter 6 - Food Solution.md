@@ -266,6 +266,18 @@ After warning him. Josee let the knight and the head maid leave, leaving only Fr
 
 "There's something I'd like to ask"
 
+"... Before that, there's something i need to tell you"
+
+"Yes?", Fredrich raised his eyebrows.
+
+"... If you see anyone from the village that's remotely capable of using magic, can you teach them? You don't need to take them as disciples, just teach them enough that they can sprout plants without dying"
+
+"I see, that plan makes sense", Friedrich nodded. After all, he was still a wizard. Such chores were more suitable to lesser mages.
+
+After agreeing to her, Friedrich asked.
+
+"I have an important question to ask you", Fredrich spoke with great gravity.
+
 "... Speak freely", she commanded.
 
 With furrowed eyebrows, Fredriech silently stared at Josee. She kept her hands moving on the parchment in her table, busy drawing and inscribing things that Fredriech could not understand.
