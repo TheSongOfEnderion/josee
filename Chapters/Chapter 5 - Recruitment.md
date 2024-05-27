@@ -1,4 +1,5 @@
-**Chapter 5  - Recruitment**
+# Chapter 5  - Recruitment
+
 The sun blazed high in the sky as an unremarkable carriage traversed the winding dirt road that snaked through a desolate forest. A retinue of guards flanked the vehicle, mounted on sturdy horses. Their armor bore the scars of countless battles. Leading the procession was a white-haired knight, his brown steed carrying him with a noble bearing.
 
 Seated within the carriage was Josee, clad in leather pants, a pristine white long-sleeved shirt, and a leather capelet. Her chestnut hair was neatly tied in a ponytail, cascading gently over her shoulder. Beside her sat a demure maid with fiery orange locks, Misha, engrossed in learning to write on a small wooden slate with a piece of chalk.

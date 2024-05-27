@@ -1,4 +1,4 @@
-**Chapter 7**
+# Chapter 7  - Housing Solution
 
 In the middle of the night, amidst the deep and giant trees of the Cursed Forest, a woman is running from branches to branches.
 

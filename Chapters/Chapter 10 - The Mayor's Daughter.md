@@ -1,4 +1,4 @@
-# Chapter 9  - The Mayor's Daughter
+# Chapter 10  - The Mayor's Daughter
 
 With 25 gold in Josee's hand, she obtained a good profit from this transaction.
 

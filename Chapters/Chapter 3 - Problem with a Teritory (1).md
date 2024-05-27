@@ -1,4 +1,4 @@
-# Chapter 3  - Problem with a Territory
+# Chapter 3  - Problem with a Territory (1)
 
 After talking with the carpenters and blacksmiths, Josee had another headache.
 

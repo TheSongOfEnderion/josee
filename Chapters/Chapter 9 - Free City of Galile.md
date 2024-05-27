@@ -1,16 +1,10 @@
-**Chapter 8  - Shipment**
+# Chapter 9  - Free City of Galile
 
 Several days passed, and Josee poured all her focus into managing Aquel's reconstruction.
 
 As a mechanical engineer, civil engineering wasn't exactly Josee's forte. While she grasped the concepts of loads and moments of force, applying them to buildings instead of machine parts was a different story altogether.
 
 Frustrated by her limited construction knowledge, Josee came to a decision: construct temporary housing for the villagers, to be demolished later when a competent civil engineer could be found.
-
-Earlier, during her meeting with Friedrich, he'd explained about fire runes.
-
-"My apologies, milady," Friedrich admitted. "Runes aren't my area of expertise. I can create a basic fire rune, but its heat wouldn't be enough for what you need."
-
-Therefore, Josee decided to take matters into her own hands for the time being.
 
 With Friedrich's contribution of a steady food supply, Josee's cement production, and the occasional hunt for meat from large beasts, the village's basic needs were met.
 
