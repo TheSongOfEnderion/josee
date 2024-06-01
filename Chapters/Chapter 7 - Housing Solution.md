@@ -305,7 +305,7 @@ Cerine took a two-meter long bow from her back and with great strength, knocked 
 
 Determination and anger filled Cerine's mind. 
 
-The long winded battle occured, a war of attrition that claimed the life of many young soldiers and great warriors.
+The long winded battle occured, a war of attrition that claimed the life of many young soldiers and great warriors. Blood splattered in the air, the organs of each soldier piling up and dying the snow a cold red.
 
 But for the future of this world, no price was too high to pay.
 
@@ -313,40 +313,89 @@ And that price, will be paid in full.
 
 ◇ ◇ ◇ ◇ ◇
 
-"What? How is this possible?", after smashing with a mallet, Schulga learned that the two bricks were inseperable. The once liquid rock was now as solid as any stone.
+In the salt farms, just three hundred meters from the Village of Aquel, a woman was standing by a small and old wooden pier, overlooking the sea. She wasa wearing a simple brown dress that matched her silky brown hair, no different than that of a simple village girl's. But in her hand was a ledger where she kept writing. Besides her was a young girl in a madi's dress, no older than 15, holding an umbrella for the two of them.
 
-"Whoahh", the guards around them clapped in awe.
+Behind her, a knight with white hair and in full armor. Sweating from the sun he loyally guarded his noble lady. His hand at the hilt of his sword.
 
-"Wait, if we have this. We won't even need to cut stones properly anymore!", the guard captain, Anthony smiled in awe.
+From a near distance, the village salt farmers looked at their direction with strange eyes, but they simply continued raking the water in their square ponds, leveling the salt.
 
-"That's right", another guard noted, "Any stone will do and we can just fill it with this and it'll be just as strong!"
+Standing close to the pier's edge, Josee stared at the ruler she made and kept note of the length of the pier. She then picked the ruler and measured the thickness of the old pier's pillars as well as it's height to the stony beach.
 
-"Impressive", Schulga's eyes shook at the thought.
+But as she was busy measuring things, a vein popped in Josee's head as she turned her head in annoyance.
 
-To create great buildings, one needs to hire masons who will cut stones into properly sized pieces that fits one another. This is specially time consuming and only a skilled mason can be trusted with cutting the stones. They will then need to use mortar to bind the stones together.
+"... Damn you knight, will you just go to a shade?", Josee raised her lips in annoyance as if staring at a bug.
 
-'That's the reason why walls, buildings, and houses are expensive to build', Schulga gulped.
+"... No one's going to fucking kill me!", she shouted at Schulga standing closely behind, with sweat pouring from his forehead.
 
-'But this material. Cement. Doesn't this mean. We will have a new era of construction?''
+Listening to her outburst, little misha felt scared and started shaking the umbrella.
 
-From the side, Josee simply watched in silence. Wearing her leather pants and white long sleeve, she merely nodded.
+"But milady", Schulga protested with a shake of his head as he wiped the sweat off his forehead using the back of his steel gloves.
 
-"... Alright, enough dallying, Schulga, hit the two concrete blocks until it breaks", Josee stood quietly before the concrete products. She almost looked unimpressed and even annoyed.
+"I am your knight, I must always stand guard!"
 
-Schulga nodded and took his mallet before slamming them repeatedly on the concrete block. After about five hits, the block started showing signs of cracking.
+"... Oh yeah? Who are you guarding from? The bloody seawater?", Josee snarkedly commented.
 
-"... That's enough", Josee squat down and began examining the blocks.
+"Milady, I must keep guarding you!", Schulga protested in indignance. He was indeed uncomfortable from the heat of the sun, but as a knight, he felt his duty was more important.
 
-'... Looks just about right. It's good i still remember the correct ratios', She turned towards Schulga and asked.
+"... Ah fuck off!"
 
-"... How did it feel?"
+After bickering for a minute, Josee was finally able to convince Schulga to hide in one of the sheds built by the salt farmers.
 
-"Like hitting solid rock, milady", Schulga smiled.
+Josee then proceeded to go down into the shores and continued doing measurement. She then came back and measured the salt-farms, its perimeter, and the volume that each square can take.
 
-"Good", Josee stood up and folded her hands.
+After finishing her surveying, Josee returned back to the mansion where she began drafting a new invention.
 
-"Gather the carpenters and smith. And bring Friedrich to me"
+'... The concrete should be decent enough to test after 3 days of curing. Though the real thing should take a month'
 
+Taking a charcoal pen and using a straight wood, Josee began drawing on the parchment laid on the table.
 
+She  planned to build a machine that could pump seawater to the salt farms, effectively cutting half the work needed.
 
+Josee made a considerable engineering decision when thinking of this machine. The soil of the Kalingrad territory are too strong, the shores are rocky, and the salt farms where located at an elevated area from the sea.
+
+This meant Josee can't make a channel from the sea to the salt farms. Atleast, not without a considerable effort, and she still need to take into account the storms. Therefore, the only thing left is to pump the water from the sea to the salt farm.
+
+But how can she make a compressor pump?
+
+'... Building the pump is not the issue, it's the power source to drive it fast enough to pump heavy seawater'
+
+Creating electricity was currently out of the equation to Josee. Such technology was simply too excessive right now for her priorities.
+
+'... Then perhaps, a long archimedes screw?', Josee began drafting her plan. The one hundred meter distance from the rocky shore to the top of the cliff where the salt farms where located proved quite an engineering problem to Josee.
+
+'... I could make a few separate archimedes screw and just gear them and have the farmers crank it', thinking to this point, Josee remembered the height of the cliff to the shores which is six meters.
+
+'... But, that leaves the problem of maintenance and constant working', Josee began tapping her hands on the parchment, creating a tick tock sound around the empty quiet office.
+
+'... And if the storm rains, the screws would be too heavy to move and can get damage. You can't expect a bunch of normal villagers to come rushing under such hazardous environment and push the damn thing can you?'
+
+Josee kept thinking intensely. She hadn't worked with pumps for years. The last time she had to focus on them was during  her intern days in a waste water and sanitary management company.
+
+'... Should i just build a system of bucket and pulleys and have them crank that shit?'
+
+Suddenly, Josee opened her eyes. A memory of the distant past, a kind old lady from her village back in the province.
+
+Standing up rapidly, Josee's hand slammed the table, causing some items to fall.
+
+With widened eyes, she spoke.
+
+"... Didn't grandma used an automatic pump with no external power source to get water? What the fuck was it called again?"
+
+Biting her lips for a few moment, the name came to her, and Josee smiled widely.
+
+"... A ram pump. An extremely basic device with three parts that takes advantage of the water hammer phenomenon"
+
+Her smile widened, almost turning wicked.
+
+"... Shit, and here I am over complicating things. Hahah! What a retard!"
+
+And Josee began drafting. Her hands rapidly scribbling over the the drawing.
+
+Suddenly, Josee stopped for a moment.
+
+"... Shit", her eyes shaking.
+
+'... I do know it's working principles', Josee bit her thumb.
+
+'... But I don't fucking know the specific parameters!''
 
