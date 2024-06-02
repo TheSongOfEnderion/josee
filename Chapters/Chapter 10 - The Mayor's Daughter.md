@@ -309,9 +309,9 @@ It was at that moment, when a shadow, dark hand creeped from her heart. As if a 
 
 Everyone in the room stared at the dark shadowy hand. Their mouths wide opened at the terrifying entity that appeared.
 
-"... Ah", Josee lightly spoke. Even Josee's crimson eyes were widened, unware of what was happening.
+"... Ah", Josee lightly spoke. Even Josee's crimson eyes widened, unware of what was happening.
 
-'... You're shitting me', Josee sighed in quiet exasperation, 'What the fuck is that thing?'
+'... You're shitting me', Josee sighed in a quiet exasperation, 'What the fuck is that thing?'
 
 The hand moved forward. It pointed itself at Josee and at lightning speed grabbed her neck and slammed her to the opposite side of the room ten meters away.
 
@@ -321,13 +321,13 @@ Josee immediately coughed blood as the dark hand strangled her.
 
 "Arina!", Jorgen shouted the mage's name. His heart beating widly.
 
-'What's happening?! Where did that dark hand come out?!'
+'What's happening?! Where did that dark hand come from?!'
 
 The mage raised her right arm and immediately, a yellow magic circle came to her hand, casting a holy light towards the dark shadowy entity.
 
 But as the light came towards the dark entity, it did not do anything.
 
-"What?!", Arina immediately cast a binding spell but soon realized it didn't worked.
+"What?!", Arina immediately cast a binding spell but it merely passed by, binding a random chair instead.
 
 "Milady!", Schulga's heart tigtened as he ran towards the hands. Knowing the arms would not bulge, he rushed towards the very hands itself.
 
@@ -337,19 +337,23 @@ Moving her head around, Josee's eyes revealed a flaming glow. A flame was erecte
 
 Suddenly, eight more hands came from the young girl's body and soon grasped Josee's limbs with great force that it broke her bones. The blood escaped through cracks from her skin, making everyone in the room visibly cringe from the pain.
 
-"By the gods", Jorgen seethed in pain.
+"By the gods", Jorgen seethed in fear.
 
 "Milady!", Schulga shouted as he tried to hack at the dark hands to no avail.
 
+'Shit. It's not working!', Schulga bit on his lips. His furious eyes seethed in pain. 
+
+'If only I can use Aura! Goddamnit!'
+
 But the Flames of Cinder quickly burned through her flesh, mending her bones.
 
-"... ah you fucking pile of cow shit", Josee's right violently ripped through the dark entitty's grasp. Her right hand immediately took hold of the shadowy hand that held her neck.
+"... ah you fucking pile of cow shit", Josee's right arm violently ripped through the dark entitty's grasp. Her right hand then immediately took hold of the shadowy hand that held her neck.
 
 With anger in her eyes, Josee deeply frowned, and the gentle and warm fire that surrounded her suddenly turned Turbid and Violent.
 
-"... Fuck off", Josee coldly replied, violently burning the long dark shadowy hands. A wretching scream suddenly filled the room, emitting from the portal like shadow in the young girl's body.
+"... Fuck off", Josee coldly replied, maliciously burning the long dark shadowy hands. A wretching scream suddenly filled the room, emitting from the portal like shadow in the young girl's chest.
 
-The hair of everyone in the room stood up.
+Everyone's hair stood up.
 
 The creepy and harrowing scream continued as if tortured by a thousand serrations.
 

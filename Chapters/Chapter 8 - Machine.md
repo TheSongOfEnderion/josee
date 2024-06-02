@@ -1,8 +1,10 @@
 # Chapter 8
 
-A week has passed.
+Three days passed.
 
-"What? How is this possible?", after smashing with a mallet, Schulga learned that the two bricks were inseperable. The once liquid rock was now as solid as any stone.
+Within the forest near aquel, a group of guards, a knight, and a woman in a yellow simple dress stood near a wooden shed. On the ground was a concrete brick with marks of hammering, but no signs of crack.
+
+"What? How is this possible?", after smashing with a mallet, Schulga learned that the two bricks combined with concrete were inseparable. The once liquid rock was now as solid as any stone.
 
 "Whoahh", the guards around them clapped in awe.
 
@@ -18,9 +20,9 @@ To create great buildings, one needs to hire masons who will cut stones into pro
 
 'But this material. Cement. Doesn't this mean. We will have a new era of construction?''
 
-From the side, Josee simply watched in silence. Wearing her leather pants and white long sleeve, she merely nodded.
+From the side, Josee simply watched in silence. Wearing her simple yellow dress, she merely nodded. She turned to the side and saw two blocks made entirely of concerete.
 
-"... Alright, enough dallying, Schulga, hit the two concrete blocks until it breaks", Josee stood quietly before the concrete products. She almost looked unimpressed and even annoyed.
+"... Alright, enough dallying, Schulga, hit the two concrete blocks until it breaks", Josee ordered. She almost looked unimpressed and even annoyed.
 
 Schulga nodded and took his mallet before slamming them repeatedly on the concrete block. After about five hits, the block started showing signs of cracking.
 
@@ -32,7 +34,7 @@ Schulga nodded and took his mallet before slamming them repeatedly on the concre
 
 "Like hitting solid rock, milady", Schulga smiled.
 
-"Good", Josee stood up and folded her hands.
+"... Good", Josee stood up and folded her hands.
 
 "Gather the carpenters and smith. And bring Friedrich to me"
 
@@ -62,14 +64,21 @@ After dismissing Friedrich, Josee took out her journal and begun writing in the 
 
 Josee placed her journal aside and took a large parchment out from the barrel besides her. It was similarly also filled with many rolled up parchment from Josee's constant drafting.
 
-Spreading the paper, Josee saw a drafting of a large pulley mechanism with a dozen bucket tied to the rope. The structure formed an elongated oval shape. On the top of the oval was a large wheel. It was then connected to a smaller wheel on the ground through a belt. The smaller wheel has a hand-crank connected to it where a human can crank it to move the belt, causing a constant cycle of the buckets dipping to the sea one after another. And at the top of the structure near the large wheel was a slide where each bucket comes and gets tipped over, causing them to pour their sea water. The slide is then connected to a bin and to a series of pipes.
+The draft revealed  small pipeline with two check valves next to each other. The first checkvalve was a little bit higher than the other. Next to the two checkvalve was a cylinder about a meter  high. From the looks of it, this small arrangement were designed to be placed between points of flowing water.
 
-""
+Josee then turned around and opened a chest by her side. Looking around the room, it was filled with many wood or metal of strange sizes.
+
+Pulling out an object from the chest, Josee took out a device made of metal that looks exactly like the drawing.
+
+After 3 days of crafting and repeated trial and error, Josee finally got the correct ratios to cause a good waterflow within the ram pump.
+
+'... The cinder flames sure is convenient. I can just reshape the hot metal like clay'
+
+However, Josee noticed the rusting on the metals.
+
+'... Damn. I should have Friedrich teach me lightning magic. Then i'll be able to galvanize this'
 
 
-
-
-
-
+◇ ◇ ◇ ◇ ◇
 
 
