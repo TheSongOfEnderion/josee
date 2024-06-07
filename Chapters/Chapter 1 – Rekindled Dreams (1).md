@@ -33,7 +33,7 @@ The sound of a falling ceramic suddenly caught her attention. She swiftly turned
 "My Lady," the girl continued, "Is there anything I can do for you?"
 
 She thought for a few moments. Her eyes shook about. Suddenly, she moved towards the window and opened it widely.
-The bright light momentarily blinded her. But as the effects faded, her eyes widened upon the sight of the landscape in front of her. A seaport town graced her eyes. Hundreds of townspeople populated the lands, and into the sea, dozens of sailing boats came and went.
+The bright light momentarily blinded her. But as the effects faded, her eyes widened upon the sight of the landscape in front of her. A seaport village graced her eyes. Hundreds of villagers populated the lands, and into the sea, and a few sailing boats came and went.
 
 Far beyond the shore cape were mountains reaching the end of the lagoon. A forest-filled area with wild-life and little human habitation. The sight of a fertile, virgin land brought her utter shock.
 
@@ -73,11 +73,11 @@ My father, Baron Kalingrad, was currently in the capital city, attending the ann
 
 "... And we're in debt," my father borrowed 50 gold coins from Baron Rotweiss to fund his travels. Assuredly, Rotweiss did it with a greedy smile. His intent to steal our territory was all too obvious.
 
-Thinking of that, I turned to look over the town. The houses were old, many buildings were decrepit, and the last storm had washed away half the houses. The rest of the town lived in makeshift sheds. It didn't help that the nearby forest was not exactly safe. It was the safe haven of foul beasts. So, the people could only get so much material from it before retreating. I could understand why Josee's father was in a desperate stance.
+Thinking of that, I turned to look over the village. The houses were old, many buildings were decrepit, and the last storm had washed away half the houses. The rest of the village lived in makeshift sheds. It didn't help that the nearby forest was not exactly safe. It was the safe haven of foul beasts. So, the people could only get so much material from it before retreating. I could understand why Josee's father was in a desperate stance.
 
 He was an inadequate ruler.
 
-Though it would greatly benefit me if this town prospered, after all, I needed money... to get stronger. My eyes automatically turned dark, and I heaved a sigh of desperation.
+Though it would greatly benefit me if this village prospered, after all, I needed money... to get stronger. My eyes automatically turned dark, and I heaved a sigh of desperation.
 
 "... This is a chance... given to me. I don't know by whom or by what."
 
@@ -95,7 +95,7 @@ I stretched my hands before picking up the piles of documents to my left.
 
 "... I see," Josee coldly spoke, in a manner that made all servants in the room, man or woman, shiver in fear.
 
-Two soldiers wearing worn-out brigandine armor stood before Josee. Busy looking at the documents, she did not give a single glance at the man kneeling in front, a man known in the town for his loyalty to the baron... but also for his excess.
+Two soldiers wearing worn-out brigandine armor stood before Josee. Busy looking at the documents, she did not give a single glance at the man kneeling in front, a man known in the village for his loyalty to the baron... but also for his excess.
 
 What terrified them was not the mere coldness of Josee, it was the utter indifference as she ordered the guards to cut off one of his ears when he refused to answer.
 
@@ -111,7 +111,7 @@ All that was left was a ruthless leader.
 
 "... Gouge his eyes," Josee coldly ordered.
 
-"H-His eyes?!" the two guards stared at one another in dismay. Although they were men holding weapons, battle was barely a part of their daily lives, as most residents of the humble town, though poor, had a sense of camaraderie. So, fights were mostly between drunkards.
+"H-His eyes?!" the two guards stared at one another in dismay. Although they were men holding weapons, battle was barely a part of their daily lives, as most residents of the humble village, though poor, had a sense of camaraderie. So, fights were mostly between drunkards.
 
 Not torture.
 
@@ -169,7 +169,7 @@ A sufficient amount for my short-term goal, but this was just pocket money for t
 
 Well... I'd amass a lot of money soon.
 
-For now, I had to build a business to get a lot of money. This town was a mine of opportunities that I could use. Seeing the outside of the carriage I was sitting in, this town truly was poor. The filth and shit outside disgusted me. How unsanitary.
+For now, I had to build a business to get a lot of money. This village was a mine of opportunities that I could use. Seeing the outside of the carriage I was sitting in, this village truly was poor. The filth and shit outside disgusted me. How unsanitary.
 
 It made me frown.
 
@@ -177,7 +177,7 @@ No matter. They should be grateful, for I shall dawn civilization upon them.
 
 I looked at the arm-guard on my right forearm, a leather guard with metal plating underneath. Currently, I adorned a leather armor with a white tunic and long-sleeved undershirt. A dagger sat at my hips, and I carried a sheathed sword in my right hand.
 
-The carriage reached the outskirts of the town, approaching the cursed forest.
+The carriage reached the outskirts of the village, approaching the cursed forest.
 
 Now... I supposed it is time.
 
@@ -187,7 +187,7 @@ The reason why I must become strong.
 
 A forest of madness.
 
-Did it make sense that a forest like this, filled with horrifying monsters, existed, and yet they did not invade the town?
+Did it make sense that a forest like this, filled with horrifying monsters, existed, and yet they did not invade the village?
 
 No. Because this forest was artificial. Because it shouldn't exist unless created by a sentient hand.
 

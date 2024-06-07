@@ -1,21 +1,5 @@
 # Chapter 9  - Free City of Galile
 
-Several days passed, and Josee poured all her focus into managing Aquel's reconstruction.
-
-As a mechanical engineer, civil engineering wasn't exactly Josee's forte. While she grasped the concepts of loads and moments of force, applying them to buildings instead of machine parts was a different story altogether.
-
-Frustrated by her limited construction knowledge, Josee came to a decision: construct temporary housing for the villagers, to be demolished later when a competent civil engineer could be found.
-
-With Friedrich's contribution of a steady food supply, Josee's cement production, and the occasional hunt for meat from large beasts, the village's basic needs were met.
-
-The rocky shores of Aquel proved advantageous, providing readily available stone for construction.
-
-Thus, on the fourth day, the first concrete house in the village stood complete. This initial project served as a learning experience for the village carpenters, who then embarked on the construction of twenty more houses.
-
-
-◇ ◇ ◇ ◇ ◇
-
-
 The next day, a visitor arrived at Josee's office in the mansion.  Josee was surprised Schulga's friend had come so quickly.
 
 The man was wiry, with scraggly hair and a cheap outfit: a dark rose jacket over a white long-sleeve shirt and a bow tie paired with ill-fitting dark brown leather pants.

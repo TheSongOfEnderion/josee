@@ -90,7 +90,7 @@ Waking this morning in the middle of the forest, Josee found herself surrounded 
 
 Standing up from the tub, Josee stared at a mirror and saw her body. Without any scars, all she saw was the pristine body of a young woman.
 
-'... In spite of her lazy nature. Josephine didn't have any excess fat. Oh wait, that might just be poverty'
+'... In spite of her lazy nature. Josephine didn't have any excess fat. She was quite slendedr and petite-Oh wait, that might just be poverty'
 
 Suddenly, Josee realized that her muscles grew tighter, and that there was a certain strength in it.
 
@@ -98,26 +98,21 @@ Suddenly, Josee realized that her muscles grew tighter, and that there was a cer
 
 '... I dont want to be a muscle mommy'
 
-After finishing dawdling around, Josee left the bath. Dressed in a white gown with her hair tied in a towel, she left towards her office only to see Alex standing inside.
+After finishing dawdling around, Josee left the bath. Dressed in a white gown with her brown hair tied in a towel, she left towards her office only to see Alex standing inside.
 
 "Ah. Goodmorning milady", he lightly bowed.
 
 "... What do we have today?", Josee asked as she sat on the office chair and drinking the tea that Misha prepared before hand.
 
-"The villagers mined the limestone we found in the shores last time. They're all inside a shed in the outskirts"
+"The villagers mined the limestone we found in the shore cave last time. They're all inside a shed in the outskirts"
 
 Josee lightly raised her eyebrows.
 
-"... Oh. Good. And the carpenters?"
-
-"Yes. They're busy building the thing you instructed. They say they'll have it done this week"
-
-"... Oh. Good. And the carpenters?"
-
-"Yes. They're busy building that thing you instructed. They say they'll have it done this week"
+'... We can finally begin solving the housing problem'
 
 
 ◇ ◇ ◇ ◇ ◇
+
 
 After dealing with a few affairs in the territory, Josee stepped into the barrack training grounds and begun her morning routine of training with Schulga.
 
@@ -132,6 +127,8 @@ After dealing with a few affairs in the territory, Josee stepped into the barrac
 "I know you can heal your wounds",  quickly, schulga pushed Josee's blade and took a step back.
 
 "But please. Don't be too reckless. I have read the family records, and there are monsters capable of destroying entire cities deep within the forest", Schulga remembered those text. At first, he could not believe them, but over the years, the things he had seen come out of the Cursed Forest made him believe there truly were horrors beyond his understanding.
+
+'And the family records did not hold back its thoughts. There might be Leviathan class monsters at its center. Just like Cetarax'
 
 "... You don't need to worry", Josee attacked again, holding her sword with both hands.
 
