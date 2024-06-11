@@ -1,4 +1,4 @@
-# Chapter 8
+# Chapter 8  - Solving Problems (3)
 
 The Night looms dark within the Cursed Forest. The towering collosal trees, the quiet movement of the roots, the roots flowing everywhere and the vines hanging over the leaves all gave a disturbing atmosphere.
 

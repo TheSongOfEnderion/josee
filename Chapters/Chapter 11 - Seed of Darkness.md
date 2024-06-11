@@ -186,7 +186,222 @@ Josee remembered the temple of the God of Death. But it wasn't used much in the 
 
 "... But death arrives at us all", Josee uttered with melancholy as she sipped the tea. Wearing a nice and simple red dress she asked from the servants, Josee felt refreshed after having a change of clothes.
 
-Moments later, the door opened and a man entered pushing girl in a wheel chair. There was liveliness and warmth in her face, as the young blonde girl 
+Moments later, the door to the room opened, and a man with a clean shaven blonde hair and a black vest and suit walked inside the room. His expression carried relief, and yet his eyes were filled with confusion and worry.
+
+Seating before Josee, he sighed deeply before staring straight at her.
+
+"I apologize for making you wait. I had to settle a lot of things and made sure Melisia was safe", Erikur lightly bowed in apology. 
+
+"... It doesn't matter", Josee simply yawned while carrying her teacup.
+
+"Lady Josephine", Erikur spoke her name with a grave voice. Suddenly, he stood up, stepped forward and bowed ninety degrees in front of her. 
+
+Seeing this, Schulga flinched. His eyes moved around, wondering if anyone is seeing this.
+
+'... We entered here with brazeness and an hour and a half later the mayor is bowing', Schulga scratched his head.
+
+'... Life is truly strange'
+
+"I am sincerely expressing my utmost gratitude, Lady Josephine", his words carried a great weight, so much that it almost trembled.
+
+But Josee only kept staring at him with her cold, indifferent eyes.
+
+"What you have done to me. For my daugtherr. And for my late wife. We can never repay you"
+
+But he was suddenly cut-off when Josee opened her mouth.
+
+"... Ah, but you can repay me"
+
+"Hmm?", Erikur lightly raised his eyes.
+
+"... I didn't do this for your gratitude. I need material things. Pay it and we're even", Josee replied. Putting her cup of tea on the low table before pouring herself another cup.
+
+"I see...", Erikur raised his eyes and stared deep into Josee's crimson eyes. The two made eye contact for a few seconds before erikur raised his body and sat on the sofa. He lightly smiled, almost gigling.
+
+Erikur felt relieved. To him who had to deal with flatterer's, liers, and naysayyers on a daily basis, seeing a person honest with their feelings gave him a strange sense of relief.
+
+'True, she is no saint. But that's exactly why that makes it better'
+
+"Very well, tell me your wish"
+
+"... But before we discuss my pay", Josee picked her cup of tea.
+
+"... Ask your questions. I want to quickly get this over with so I can leave"
+
+"Hmmm", Erikur fell into silence. True enough, he had a lot of things to ask. He clenched his fists resting on his legs before opening his mouth.
+
+"so... What was that thing?", Erikur asked, his back straightened and his eyes stared with great fury.
+
+"... Hmm. I dont know", Josee thought for a moment brfore replying.
+
+"What?" Erikur raised his eyebrows. "How can you not know?"
+
+"... It's.mroe like i'm not sure... I only have a vague idea""
+
+"Then .. will you share that idea to me?"
+
+"... Did your wife die a sudden death?"
+
+"Yes", Erikur replied firmly. His hands clutching each other.
+
+"Does my wife have to do with it?", he asked in a grave voice.
+
+"... Well, let's just say this creature a parasite that predates on the soul of its user"
+
+"What", Erikur's eyes widened. "H-How can such a creature exist? I've never heard of that!"
+
+"... Of course you wouldn't", Josee rolled her eyes, "Shit, these things are older than these mountains and islands for all I care about"
+
+"How is that-", Erikur's eyes widened.
+
+To say something was older than the mountains and islands would only suggest one thing.
+
+It was an entity so Ancient its origin could be that of this worlds beginning.
+
+But how is such a thing possible?
+
+But then again, it also made no sense that for a decade, no healer, not even a Paragon Healer could cure his daughter.
+
+'Then... is she telling the truth?', Erikur gnashed his teeth, 'That enttiy is a Primordial Evil?'
+
+"How did it... How did it get to my daughter?", turning his eyes downward, a great fury formed in his eyes.
+
+"Did one of my enemies did it?"
+
+"... Not quite, no", Josee replied, taking a sip from her tea.
+
+"... You see, if I understand it right, your daughter would have woken up from her coma and 'liberated' from her curse all on its own"
+
+"And why's that?", Erikur asked, staring straight to Josee.
+
+"Because your daughter will grow up, find a man, fall in love.... And have children ", she uttered with a cold tone, "and it specially needs its host to have children"
+
+Erikur's eyes widened. Josee's statement suddenly had a connection, a certain string of logic that made everything coherent.
+
+"No... You're not saying.... That can't be!"
+
+"... The host is not immortal", but Josee ignored the frustration of Erikur.
+
+"... Eventually, it would deplete the soul of its host. By then it needs to transfer itself to another"
+
+"No"
+
+And Josee coldly continued, "That would be the child"
+
+"NOO!!! ARFHHGHHH!", Erikur stood up and punched a vase near the window.
+
+The sound of ceramic breaking was heard throughout the room. In this time, Schulga merely quietly watcked in sadness, empathizing with a broken man.
+
+Erikur then kept breaking vases after vases until he breathed slowly. When he saw the glass stained windows, he began kicking them, breaking it to pieces.
+
+"ARRGHHSHSH!!", the pain and agony emitted from him made the guards rush to the room. But Schulga quickly signalled to them to leave. Seeing the furious state of their master, they immedaitely shut the door off.
+
+Erikur took his moment to calm himself before seating down and facing Josee, his hands bleeding.
+
+Flicking her hands, Josees fire covered Erikur's fist wounds with Fire, gently healing them.
+
+"Then...", his mouth shivered, "My wife... She.... This thing. It killed her"
+
+"... Yes", Josee sipped her tea, "and it definitely killed her parents too. She should have told you what happened, right?"
+
+"Indeed", tears fell down Erikurs eyes, "Her mother died a sudden death with no explanation. And so was her grandmother. Just like. Her"
+
+"... So it would seem", Josee sipped her tea again.
+
+"Hah.... Damnit. Damnit", Erikur gritted his teeth. He suddenly remembered all the people, all the men he tortured and all the groups he murdered.
+
+"Then all my victims were innocent", Erikur gripped his hands tightly.
+
+"They died of a sin they did not commit", his eyes widened from the madness. A realization of what he had done in pursuit of his vengeance and grief.
+
+"... Well. We can't change those anymore", Josee dropped her tea.
+
+A grieving father so loving that he'd do anything for his daughter.
+
+Somehow Josee felt a hint of bitterness in her mouth. To see such a man cry reminder her of what she never had.
+
+'... So this is what a Father and a Husband's love looks like', Josee lightly bit her lips.
+
+Schulga quietly observed her. as he saw the frustrated look in her eyebrows, he couldn't help but sighed in relief.
+
+'She always does that when she's facing difficuly. So... you really are my Lady Josee'
+
+As Erikur let his tears go out, Josee and Schulga simply sat in silence. After a few minutes, Erikur finally calmed down.
+
+"Forgive me", he took out a handkerchief and wiped the tears off his face.
+
+After taking a few moments to breathe in and out, he looked at Josee with a calm face.
+
+"That monster. I assume you have perfectly killed it"
+
+"... I did", Josee nodded.
+
+"Then, would there be more of them?", Erikur asked in a grave tone.
+
+"... Most definitely"
+
+"Then What is it's goal? It's purpose", Erikur tightened his hands, "I want to destroy every last one of them... Since only you has the power to do it, I will give you my full support"
+
+Josee lightly closed her eyes.
+
+The Pedonas family may seem like a mere small family that controls a city, but their history and connections runs deep into the world.
+
+As the city that bridges two continents, they have contacts everywhere and they have access to information, artefacts, and wealth that runs deeper than the ocean. The same can be said with the other two families, but they're practically just a single clan anyway.
+
+To receive the support of such a powerful clan would be greatly beneficial to Josee.
+
+"... I can't tell you", Josee stared straight into his eyes, "It's too reckless to divulge such information at this time"
+
+"Why?", Erikur grit his teeth, "Is my family, our family, not forbidible enough? Do you think we do not have the strength to defend ourselve-"
+
+"... The waters runs deep, and the abyss should not be treaded", Josee cut him off.
+
+"... You know what this ancient saying meant, right?", she answered coldly, facing Erikur's darkened expression.
+
+Of course, Erikur knew what it meant. That one should not overstepped their boundaries and deal with things beyond their comprehenstion.
+
+"Still... ", Erikur replied in anger, "You can't expect me to do nothing can't you? My wife was murdered. My family was almost ruined. I cannot sit idly by"
+
+"... And For what? Hmm?", Josee harrumped in detestment.
+
+"... Search for them? And then what? What I fought today was a seedling. But a seedling's goal is to mature. What happens if you got the attention of a fully matured one? Hmm? Fight it with useless magic? Shit, there's barely any soul arts user in this world, and I assure you none of them will lend you their strength. Not against facing ancient evils of unknown numbers"
+
+Erikur's body grew cold. He felt his heart stabbed at Josee's words.
+
+Schulga noticed the vein popping in Josee's forehead. At that moment, he realized she was truly irritated.
+
+"... And what about your daughter? Hmm? She just got back the life stolen from her. She's barely 15 and still has a long life ahead of her. Are you going to throw that away in the name of vengeance for a dead person who would rather wish her daughter live a peaceful life? Did you even think of that you moron?"
+
+As Josee continued her barrage of words, Erikur bit his lips. His heart thumped fast as the muscle in his neck grew tense. But as the indignance grew stronger in his heart, so did his love for his daughter.
+
+None of Josee's words were wrong.
+
+More than anything, his daughter was the most important thing to him right now.
+
+"... Melisia needs her father", Josee continued in an irritated voice, "Not an avenger, but a loving father who will be there for her in her times of greatest need"
+
+Erikur deeply inhaled. He sighed and for ten seconds, shut his eyes in silence. Opening them, he faced Josee who quietly seeped her tea.
+
+"Your words wrung true, Lady Josephine. No, my savior"
+
+But upon hearing those words, Josee suddenly shivered.
+
+'... Fuck. If you dare say shit like that again i'll slap you'
+
+"I will continue being the lord of Galile", Erikur explained. His voice slowly grew softer, as the calmness returned to him.
+
+"and focus my attention for my daugther's recovery. And...", he shot a determined gaze at Josee.
+
+"I can be at peace, knowing you'll kill them all... don't you?"
+
+The light penetrating the windows seemed to grow stronger, encapsulating Josee's figure in an almost otherwordly aura that made it seemed like a beautiful painting.
+
+Josee lightly seeped her tea with closed eyes.
+
+Putting her tea cup down. She looked at him with half-closed eyes.
+
+"... Let's discuss my payment"
+
 
 
 
