@@ -1,4 +1,4 @@
-# Chapter 6  - Food Problem
+# Chapter 6  - Solving Problems (1)
 
 The next day afternoon, Josee brought Fredriech to the warehouse left of the Kalingrad Mansion where she left her experiment unfinished.
 

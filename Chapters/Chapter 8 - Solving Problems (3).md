@@ -339,4 +339,6 @@ The rocky shores of Aquel proved advantageous, providing readily available stone
 
 During that time, Josee also begun digging near the shores of a small channel. Using her fire, she easily melt the stone into lava and begun shovelling them away, allowing her to easily dig.
 
+After digging the small channel, it exits towards a shore cave where the depths goes deep into the earth. Josee let the sea water flow into the channel, allowing her to tap into the kinetic energy of the rushing water for her ram pump.
+
 And then, on the fourth day, the first concrete house in the village stood complete. This initial project served as a learning experience for the village carpenters, who then embarked on the construction of twenty more houses.
