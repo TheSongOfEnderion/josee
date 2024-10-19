@@ -206,19 +206,19 @@ After bringing half the men with her to sail the larger vessel, Josephine ordere
 
 Now left with a large vessel and a fuck-ton of money, Josee ordered the large ship to sail south.
 
-In the ship's steering wheel, a man with a curly beard and a plump belly stood. He was wearing a blue shorts and a vest made of leather. 
+In the ship's steering wheel, a man with a curly beard and short stature stood. He was wearing blue shorts and a vest made of leather. 
 
-Josee walked besides him as he begun steering the ship. She was wearing a humble brown dress that fit her slender body quite nicely. Her hair was tied in a bun, with a small wooden stick holding it. Besides her, Schulga stood wit ha white long sleeve, a leather vest, and a leather pants. His silver hair was tied in a ponytail.
+Josee stood besides him as he begun steering the ship. She was wearing a humble brown dress that fit her slender body quite nicely. Her hair was tied in a bun, with a small wooden stick holding it. Besides her, Schulga stood with a white long sleeve, a leather vest, and leather pants. His silver hair  tied in a ponytail.
 
-"... Mornon", Josee spoke his name. He was one of the veteran villagers who knew how to steer a ship.
+"... Mormo", Josee spoke his name. He was one of the veteran villagers who knew how to steer a ship.
 
 "... Keep going south until you see the Three Peak islands", Josee commanded as they left the sea gates of the Free city into the vast sea.
 
-""W-What?!"", both Schulga and Mornon stared at her with great alarm.
+""W-What?!"", both Schulga and Mormo stared at her with great alarm.
 
 "Milady, we can't go there!", Schulga grit his teeth, "That's pirate area!"
 
-"Sir Schulga is right!", Mornon hastily added, "They will attack us the moment we stepped inside!"
+"Sir Schulga is right!", Mormo hastily added, "They will attack us the moment we arrive!"
 
 "... Huh?", Josee rolled her eyes.
 
@@ -229,6 +229,14 @@ The two flinched at the crazed smile that Josee showed. Watching her giggle, the
 Schulga felt something dangerous was about to happen. He came to learn now but Josee would make that smile only when she's up to no good.
 
 But alas, there was no point in arguing with her. And so, bracing his heart, the ship headed straight into the ocean's dangerous waters.
+
+
+◇ ◇ ◇ ◇ ◇
+
+
+
+
+
 
 
 

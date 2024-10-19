@@ -86,9 +86,9 @@ In a corner of this banquet, a man dressed in a humble blue noble tunic mingled 
 
 "So. With the war almost over, it presents us with a new opportunity."
 
-"Indeed. The Montelar Kingdom was foolish to ever oppose us. With their kingdom occupied, there will be a great opportunity to establish new trade routes."
+"Indeed. The Habsvar Kingdom was foolish to ever oppose us. With their kingdom occupied, there will be a great opportunity to establish new trade routes."
 
-"Aye. Lord Edward, I believe the Montelar's great mines will be a better opportunity."
+"Aye. Lord Edward, I believe the Habsvar's great mines will be a better opportunity."
 
 As the humble nobleman listened to his fellow nobles, he couldn't help but frown.
 

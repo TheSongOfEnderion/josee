@@ -1,49 +1,78 @@
-God of pestilence, Nurgothor
-God of wind, Aerasyl
+Brytorian
+Habsvar
+Slavika
+Helven
+Castile
 
-Continent of Eurasia.
+# Plot
+A group of radical church organization knows about the coming winter and the true nature of god and wants to unite mankind to fight against the great evil. They do this by destabilizing the countries and taking control.
 
-Kingdom of Brytoria
-Kingdom of Montelar
+# History
+The last war fifteen years ago resulted in changes in the continent.
 
-# Characters
-1. Schulga  - Josee's knight
-2. Nadia  - The Kalingrad family's old head maid
-3. Mishia  - Josee's 15 year old personal maid
-4. Father Pedran  - Aquel's local priest
-5. 
+# Races
+1. Aurasian & Causar - Are an ethnic group of people who live east of the continent. White in complexion.
+2. Saharans/Dunari/Zarvan - Ethnic group living east of the continent. Brown in complexion.
+3. Kalian/Pacifira - Ethnic group of people living in the Fjords south
 
+# Royalty
+Every powerful Royalty in the world possess a secret Monolith of Power which granted their family great strength and magic. This, however, is a lie set by the chaos titans ages ago to cripple mankind should it resist. The Monoliths turns into portals, allowing the chaos titans to arrive in this world and rapidly destroy the existing societal control.
 
-# City
-1. Port of Bluewater
-2. Free City of Galile
-3. Aquel
-4. Greenleaf town
+# Gods
+The gods in this world are former heroes of the previous cycle entombed and calcified into a powerful entity to rule the world as its new god. But it is merely a puppet, half-conscious and half-aware. It is a punishment done by the Chaos titans unto those that severely resisted them.
 
+Josee eventually faces the God of Hope and Sunder and saw a t-shaped entity with one hole were both an eye and a tongue comes out, a malformed abominable entity.
 
+# DIvine Monoliths
+Divine Monoliths are powerful artefacts which grants a family great power.
 
-# Power Rankings
-Certainly, here are power rankings for mages and aura knights in your fantasy novel, from weakest to strongest, with titles for each rank:
-Mages (Ranked by Mana Circles):
-1. Novice Mage: Possesses a single mana circle and is just beginning to harness magical abilities.
-2. Apprentice Mage: Two mana circles denote a deeper understanding of magic and an increased capacity for spellcasting.
-3. Journeyman Mage: With three mana circles, they are recognized for their ability to cast a wider range of spells and control their magic more effectively.
-4. Adept Mage: At four mana circles, adepts have mastered multiple magical disciplines and are adept at crafting spells.
-5. Master Mage: Masters of the arcane with five mana circles, they can manipulate the fabric of reality itself, creating powerful enchantments and barriers.
-6. Archmage: Holding six mana circles, they are among the most respected mages, capable of altering the environment and conducting complex rituals.
-7. Grand Archmage: Possessing seven mana circles, they are legendary figures who can alter the course of history with their magical prowess.
-8. Elder Archmage: With eight mana circles, their magic transcends the mortal realm, delving into ancient and forbidden arts.
-9. Mythical Archmage: The most powerful mage in existence, with nine mana circles, they are capable of wielding magic on a cosmic scale, capable of reshaping the world.
+Except from this are the Dragon Catcher Household which did not have a Divine Monolith, but simply crafted a powerful Soul Art spell that gave them the strength to battle dragons.
 
 
-Aura Knights (Ranked by Title):
-1. Squire of the Aura: Trainees just beginning their path as Aura Knights, learning the basics of aura manipulation.
-2. Shieldbearer: Those who have mastered the art of aura defense, able to create protective barriers and deflect attacks.
-3. Bladesmith: Skilled in aura weapons, they can forge and channel auras into their weapons for added strength and precision.
-4. Auric Sentinel: Guardians of the realm, they can expand their aura to shield entire villages and wield their aura as a weapon.
-5. Champion of Light: Masters of aura manipulation, they can heal wounds, cleanse corruption, and blind foes with radiant auras.
-6. Aurora Templar: Wielding auras with precision, they can create illusions, control the elements, and strike down enemies with focused beams.
-7. Paladin of Valor: At this rank, they command legions of aura knights, capable of large-scale auras and leading in battle.
-8. Aurora Ascendant: With unrivaled aura strength, they can envelop entire regions in healing and light, or unleash cataclysmic energies in battle.
-9. Eternal Aura Sovereign: The highest rank of aura knights, they are believed to be immortal, their auras so vast they can alter the world's destiny.
+# Brytoria
+- The Land of Gold
+  
+**Urorian Royal Family** - The Royal Family of Brytoria. Each member who has been inducted by the Blessing of the Golden Star posses great power. A lot of the members of the Urorian Family are powerful warriors and mages who ruled their kingdom. For hundreds of years, the Urorian Royal Family remained unbested in their territory and treated with almost godlike veneration. 
+
+1. King Harald Uroria
+2. 1st Prince Jerald Uroria
+3. General Nagard Uroria 
+4. Knight Aswald Uroria
+5. Archmage Elanoir Uroria
+
+The King of the Urorian Royal family is careful with treating his nobles and other powerful forces in his country as he knew well of the history of Golden Star lineage. It was not, in anyway, a single lineage but a broken chain of families after families usurping one another.
+
+**The Order of the Golden Star** - is an order dedicated to the Golden Star as mandated by its Will Incarnate. The Royal family, the **Urorian**, are the current ruling family chosen by the Golden star.
+
+Although the Urorian claims they are an unbroken chain of lineage, they are in fact not. There have been multiple royal families throughout the Golden Star Order, each falling from grace and replaced by another. The Urorian simply kept a propaganda to instill a history to themselves.
+
+The Golden Star is contained inside a monolithic golden pillar situated behind the Royal Palace.
+
+The blessing of the Golden Star to its Royal Family is that it grants them great strength, great magic potential, future seeing eyes, and stores their body's internal organsa and blood inside the Golden Star, effectively making them immune to any and all physical  damage. The downside is that despite their power, all recipient of the Golden Star ages normally.
+
+**Golden Inquisitor** - The Golden Inquistor is a group under the Order of the Golden Star which exists to destroy and all heretics trying to subvert the state of Brytoria.
+
+**Worship**
+The Brytorians Worship the Urorian Royal Family as the embodiment of the Goddess Persephone's Golden Star. This focus on her veneration 
+
+
+
+
+# Habsvar 
+- The Land of Boulders. They have a long history with the Brytorian and formerly were part of a single empire with Brytoria until they splt off 300 years ago.
+ 
+**Havarian Royal Family**
+- 
+
+# The Charter of Iron Boulders
+
+
+
+
+
+
+
+
+
+
 

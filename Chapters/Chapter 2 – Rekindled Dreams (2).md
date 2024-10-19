@@ -350,7 +350,7 @@ She was covered in blood and gore and her armor was completely ripped to pieces,
 
 "... With whom are we waging war again?", Josee casually asked.
 
-"The Kingdom of Montelar", Nadia replied, "I've always wondered. The Montelar is our King's cousin. Why are they fighting?"
+"The Kingdom of Habsvar", Nadia replied, "I've always wondered. The Habsvar is our King's cousin. Why are they fighting?"
 
 "... Because they're retarded", upon hearing Josee's words, the servants flinched.
 
