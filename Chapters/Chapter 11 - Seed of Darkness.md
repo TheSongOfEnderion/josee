@@ -8,7 +8,7 @@ As Josee tightly grasped the violently wrigling dark hand and burned it, the scr
 
 "L-Lady Josephine", Jorgen stared in horror as Josee casually walked, burning the shadowy entity in her hands.
 
-Arriving next to the young mistress, Josee then casually pushed her hand into the portal, causing her hand to disappear inside. Seein this caused great alarm to everywhere, but they remained quiet, waiting for her decision.
+Arriving next to the young mistress, Josee then casually pushed her hand into the portal, causing her hand to disappear inside. Seeing this caused great alarm to everywhere, but they remained quiet, waiting for her action.
 
 '... Now then, show me what you really are'
 
@@ -16,7 +16,7 @@ The Flames of Cinder expanded, bringing light and warmth into a dark, shadowy di
 
 A thousand arm, writhing and struggling all covered its mysterious body. An amalgamation of darkness and unknown aspects, it was a pulsing creature that feeds off the soul of its victim.
 
-And the flames reached below, a certain anger emerged within Josee. A vision of a past from hundreds of thousands of years ago. Dark collosal entities that raomed the land, a slow and protracted genocide that ended all life.
+And the flames reached below, a certain anger emerged within Josee. A vision of a past from hundreds of thousands of years ago. Dark collosal entities that roamed the land, a slow and protracted genocide that ended all life.
 
 And amidst those memories were entities being born from inside royalties.
 
@@ -66,7 +66,7 @@ Jorgen woke up from his shock as he heard Josee speak.
 
 But Jorgen remained frozen in shock.
 
-"... Move your fuckign fat ass!", Josee angrily shouted, "If I can't concentrate in killing this thing, I'll kill your young lady so fucking do it!"
+"... Move your fucking fat ass!", Josee angrily shouted, "If I can't concentrate in killing this thing, I'll end up killing your lady so fucking do it!"
 
 "Y-Yes!", Jorgen immediately left the room and blocked the door.
 
@@ -76,7 +76,7 @@ But Jorgen remained frozen in shock.
 
 '... I just wanted a damn boat, now i had to kill a relic of the chaos titans', Josee gnashed her teeth tightly.
 
-'... To think they're actually hiding here. That means to get here, there must be some kind of gate that had to be opened from this side', but Josee immedaitely regained her calm. A dark shadowy spike suddenly slithered and aimed at her head. Pulling her left hand, she caught it and immediately burned it.
+'... To think they're actually hiding here. That means to get here, there must be some kind of gate that had to be opened from this side', but Josee immediately regained her calm. A dark shadowy spike suddenly slithered and aimed at her head. Pulling her left hand, she caught it and immediately burned it.
 
 '... That changes things', a cruel glint of light emerged from her eyes, '... I need to find those gates and destroy it'
 
@@ -112,7 +112,7 @@ Josee stood calmly. Her clothes were tattered and filled with a lot of holes. Su
 
 "... I am fine", Josee replied while flicking her hair.
 
-"Me... Melisia?", a quivering voice caught her attention. A man in an opulet red suit slowly approached the bed. Josee turned towards it and saw the young girl slowly opening her eyes.
+"Me... Melisia?", a quivering voice caught her attention. A man in an opulent red suit slowly approached the bed. Josee turned towards it and saw the young girl slowly opening her eyes.
 
 Quickly, the man sat besides her, and the girl grew more cognizant.
 
@@ -124,13 +124,13 @@ Josee turned around and saw the shocked expression of everyone in the room. Jorg
 
 Suddenly from the door, a group of maids pushed through carrying a tray of soup, water, and towels.
 
-"Thank you. I am truly grateful", Jorgen approached Josee. Seeing his young lady finally wake up, the fat bellied steward could help but feel teary.
+"Thank you. I am truly grateful", Jorgen approached Josee. Seeing his young lady finally wake up, the fat bellied steward could not help but feel teary.
 
 "... Ok", Josee noted. She turned to the back and saw a man quietly standing with blind folded eyes. He was wearing a white robe, almost too white. besides him was a young boy who was holding his hands, no older than 12.
 
 Josee walked behind the crying  man by the bed and spoke.
 
-"... You can cry later, we have business. immedaitely", Josee coldly ordered. 
+"... You can cry later, we have business. Immediately", Josee coldly ordered. 
 
 Feeling her sudden rude remark, some of the guards became riled up and even Jorgen frowned.
 
@@ -152,7 +152,7 @@ Naturally, he understood why Josee wanted to keep things here a secret.
 
 "...No", Josee interrupted.
 
-"... Gather every servant in the mansion, and even any servant from outside nearby and have them swear an oath with the Oathmaker from the temple of death. To not speak in anyway of the even that happened here unless i permitted it"
+"... Gather every servant in the mansion, and even any servant from outside nearby and have them swear an oath with the Oathmaker. To not speak in anyway of the even that happened here unless i permitted it"
 
 Josee turned to face the mayor with firm eyes.
 

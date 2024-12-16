@@ -6,7 +6,7 @@ For one main purpose.
 
 To buy dresses.
 
-Within one of the moderate dress shop, Josee was sizing some dress in a hanger while standing before a mirror. Schulga stood behind her. Wearing hisleather armor and looking a bit uncomfortable, schulga had a wry look on his face.
+Within one of the moderate dress shop, Josee was sizing some dress in a hanger while standing before a mirror. Schulga stood behind her. Wearing his leather armor and looking a bit uncomfortable, schulga had a wry look on his face.
 
 [I want a large Ship]
 
@@ -60,13 +60,13 @@ After asking for a large ship, he felt it was not enough and offered her more. T
 
 It was such a large amount equivalent to a few milion dollars. He also mentioned he will send her more after dealing with the paper works.
 
-Josee knew she would be given a good reward, but she didn't it'd be this many. Thus, she decided to move forward with her plans.
+Josee knew she would be given a good reward, but she didn't think it'd be this many. Thus, she decided to move forward with her plans.
 
-A small candle dimly lit the dark quarters within the ship. Writing on a parchment, Josee continued with her thoughts. She wore a loosely hanging white gown that lets air enters through its comfortable fabric. Her brow hair was let down, flowly smoothly throug her shoulders.
+A small candle dimly lit the dark quarters within the ship. Writing on a parchment, Josee continued with her thoughts. She wore a loosely hanging white gown that lets air enters through its comfortable fabric. Her brown hair was let down, flowly smoothly throug her shoulders.
 
 '... The precursor's annihilation did not occur in one day', Josee thought to herself.
 
-'... It was a protracted and arduous process that lated several generations. Beginning with the Great Cold that destroyed the atmosphere'
+'... It was a protracted and arduous process that lasted several generations. Beginning with the Great Cold that destroyed the atmosphere'
 
 Josee focused her eyes on the plans drawn in her parchment.
 
@@ -194,7 +194,7 @@ But Misha noticed something. From time to time, Josephine's hair would blink fro
 
 She must be hallucinating from the tears and sadness she felt.
 
-That was, until one day, her precios lady woke up.
+That was, until one day, her precioUs lady woke up.
 
 And she was no longer herself.
 
@@ -234,9 +234,54 @@ But alas, there was no point in arguing with her. And so, bracing his heart, the
 ◇ ◇ ◇ ◇ ◇
 
 
+The peaceful wind of the night embraces Josee's ship, and as the crew held their breathing in tense, they quitely hide behind a small island. Their lanterns were off, with only the moonlight dimly lighting the deck.
+
+Schulga walked towards Josee who stared at the distant island with three protruding peaks.
+
+She wickedly smiled, licking her lips as the thought of acquiring even more wealth made Josee shiver.
+
+"Milady... ", Schulga wryly looked at the woman who had worn leather pants and dark red long sleeve. Her hair tied like a ponytail and a rapier quietly hangs by her waist.
+
+"Are you sure about this? All i can think is that this is a terrible idea!", Schulga shook his head in worry.
+
+"... What do you mean terrible?", Josee laughed, "This is the bestest idea i've ever had!"
+
+Galiantly walking to the boat hanging by the deck. The villagers held their breathing in tension. They knew Josee had grown powerful, but to fight an entire pirate enclave?
+
+It was madness! They all thought. But who would have the guts to defy the lady's order?
+
+Josee hopped inside and signalled the crew men to lower her to the sea. 
+
+"Milady", Schulga deeply frowned. A great worry in his mind.
+
+"... Oh please, what are you my mother?", Josee rolled her eyes.
+
+"... I'll be fine. They quite literally cannot kill me"
+
+"But still!", Schulga grit his teeth, "At least let me come with you!"
+
+"... And what?", Josee scolded, "Leave the crew undefended? No. Your role will be to stay here and light a flare if something happens"
+
+"I Understand", Schulga looked down and deeply sighed.
+
+"... Stop being like a lost puppy. If I have not returned by dawn, you have permission to enter the island. Understand?"
+
+Hearing this, Schulga raised his head, staring straight at Josee.
+
+"Understood. Be careful milady!"
+
+Josee nodded and beckoned the men, lowering her boat to the sea. As she rowed it towards the three peak islands, the crew stared at her fading shadow in the blackness of the night.
+
+"Will she be fine?", Mormo asked while drinking a cup of ale.
+
+"She'll be okay", Schulga sighed.
+
+'I need to train', he stared at his rough hands filled with Calluses. And as he remembered what happened a day earlier, he could not help but feel bitter.
+
+'At this rate, I'm nothing more than a glorified guard. I need to be better'
 
 
-
+◇ ◇ ◇ ◇ ◇
 
 
 

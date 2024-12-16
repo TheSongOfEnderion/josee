@@ -229,11 +229,11 @@ Jorgen's eyes widened. His body shivered at Josee's words.
 
 "... Yeah", Josee rolled her eyes, "Why else would the saint's healing won't work. It's not an illness, it's killing her soul"
 
-"H-Herr, soul!?", Jorgen's face became flushed red. His body shivered at the thought. Although he was not a mage, he was knowledge at the basics of the world of magic.
+"H-Herr, soul!?", Jorgen's face became flushed red. His body shivered at the thought. Although he was not a mage, he was knowledgeble at the basics of the world of magic.
 
 And he knew of the soul arts, and the horror it does to its victims.
 
-'So, it was a soul art. No wonder no one could heal her, curse us fools!'
+'So, if it was a soul art. No wonder no one could heal her, curse us fools!'
 
 "... So?", Josee crossed her arms, "My patience is running out and your little lady is dying"
 
@@ -261,7 +261,7 @@ Thinking deep inside, Schulga was impressed by his noble lady.
 
 'Considering Milady's personality, she definitely couldn't stand waiting. Walking out of the room while the target is making a decision, how brilliant!'
 
-"Wait!", Jorgen shouted. His breath a bit haggard.
+"Wait!", Jorgen shouted. His breathING a bit haggard.
 
 Josee stopped in her tracks without even bothering to look behind.
 
@@ -305,11 +305,11 @@ The hair within jorgen's, Schulga's, and the Pedonas Family's mage all stood up.
 
 Jorgen trembled and merely stared at his young lady's body.
 
-It was at that moment, when a shadow, dark hand creeped from her heart. As if a portal was opened, the dark hand extended long almost five meters in length.
+It was at that moment, when a shadowy, dark hand creeped from her heart. As if a portal was opened, the dark hand extended long almost five meters in length.
 
 Everyone in the room stared at the dark shadowy hand. Their mouths wide opened at the terrifying entity that appeared.
 
-"... Ah", Josee lightly spoke. Even Josee's crimson eyes widened, unware of what was happening.
+"... Ah", Josee lightly spoke. Even her crimson eyes widened, unware of what was happening.
 
 '... You're shitting me', Josee sighed in a quiet exasperation, 'What the fuck is that thing?'
 

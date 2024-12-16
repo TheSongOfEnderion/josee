@@ -343,7 +343,7 @@ His secretary closed her eyes for a few moments before suddenly opening them.
 
 "Thank you master"
 
-"Bolli did not disclose where he got the crops but... after considering the give information. The single white haired knight can only belong to the kalingrad. That must be josee then""
+"Bolli did not disclose where he got the crops but... after considering the giveN information. The single white haired knight can only belong to the kalingrad. That must be josee then""
 
 "Then", katrina shook her eyes, "Does that mean the crops came from the barony?"
 
