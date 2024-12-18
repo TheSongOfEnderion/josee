@@ -280,10 +280,23 @@ Josee nodded and beckoned the men, lowering her boat to the sea. As she rowed it
 
 'At this rate, I'm nothing more than a glorified guard. I need to be better'
 
-
 ◇ ◇ ◇ ◇ ◇
-
 
 In the dimness of the night, beneath a shining moon, an island glew proudly admist the roaring sea.
 
-The squandor and noise it showed appeared almost beautiful in its loneliness.
+The squandor and noise it showed appeared almost beautiful in its loneliness. Many shanty huts littered the land. Torches set the places lit as many men danced in its center, intoxicated in its drunkness and fervor. A great feast was on its way as foods litered the many tables.
+
+Women in scant clothing were busy serving food and beer, many of whom were also busy serving the drunk men.
+
+Dancing and singing, some brown skinned boys where drumming and playing trumpets, wearing but thin and dirty linen shirts and pants.
+
+At the side the great plaza where the men were drinking, cages after cages filled with shivering and cold slaves where hurdeled and shaking. Their eyes shows fear, anger, sadness, hate, hunger... An uncertainty and emptiness filled their cold hearts.
+
+"This, is to our King!", a man with large dark beard and skinny bone shouted, holding a golden cup in his hand. 
+
+""To our King!"", the men shouted. Their bodies were coated with golden jewelries and diamond decorations, all looted from some poor merchant.
+
+The men who were merrily dancing eyed his cup, looking at it with great envy. But who would dare steal his cup? Not one soul did,
+"Once we were in squander, barely scrapping by!", the skinny man smiled with his terrible terrible teeth baring against the hundreds of onlookers.
+
+
