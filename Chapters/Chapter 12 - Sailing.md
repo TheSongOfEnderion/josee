@@ -284,4 +284,6 @@ Josee nodded and beckoned the men, lowering her boat to the sea. As she rowed it
 ◇ ◇ ◇ ◇ ◇
 
 
-Amidst the stark moonlight, surrounded by darkness, an island 
+In the dimness of the night, beneath a shining moon, an island glew proudly admist the roaring sea.
+
+The squandor and noise it showed appeared almost beautiful in its loneliness.
