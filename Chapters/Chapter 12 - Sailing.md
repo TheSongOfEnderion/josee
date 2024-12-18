@@ -1,4 +1,4 @@
-# Chapter 12
+# Chapter 12 - Sailing
 
 After dealing with the Pedonas' Family and getting her payment, Josee lightly strolled around in the Free City Shopping District.
 
@@ -284,4 +284,7 @@ Josee nodded and beckoned the men, lowering her boat to the sea. As she rowed it
 ◇ ◇ ◇ ◇ ◇
 
 
-Amidst the stark moonlight, surrounded by darkness, an island 
+
+As the time passed by
+ The world came
+ 
