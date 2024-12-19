@@ -296,7 +296,8 @@ At the side the great plaza where the men were drinking, cages after cages fille
 
 ""To our King!"", the men shouted. Their bodies were coated with golden jewelries and diamond decorations, all looted from some poor merchant.
 
-The men who were merrily dancing eyed his cup, looking at it with great envy. But who would dare steal his cup? Not one soul did,
+The men who were merrily dancing eyed his cup, looking at it with great envy. But who would dare steal his cup? Not one soul did.
+
 "Once we were in squander, barely scrapping by!", the skinny man smiled with his terrible terrible teeth baring against the hundreds of onlookers.
 
-
+"But now, we shall feast like royals! To the King!"

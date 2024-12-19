@@ -133,9 +133,19 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "96fa19b08458a350",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,9 +160,10 @@
   },
   "active": "c4eeffde908de685",
   "lastOpenFiles": [
-    "/Chapters/Chapter 12 - Sailing.md",
+    "Chapters/Chapter 6 - Solving Problems (1).md",
+    "Chapters/Chapter 11 - Seed of Darkness.md",
     "Chapters/Chapter 2 – Rekindled Dreams (2).md",
     "Chapters/Chapter 12 - Sailing.md",
-    "Chapters/Chapter 6 - Solving Problems (1).md"
+    "/Chapters/Chapter 12 - Sailing.md"
   ]
 }
