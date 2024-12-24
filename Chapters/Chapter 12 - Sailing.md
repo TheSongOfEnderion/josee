@@ -240,7 +240,7 @@ Schulga walked towards Josee who stared at the distant island with three protrud
 
 She wickedly smiled, licking her lips as the thought of acquiring even more wealth made Josee shiver.
 
-"Milady... ", Schulga wryly looked at the woman who had worn leather pants and dark red long sleeve. Her hair tied like a ponytail and a rapier quietly hangs by her waist.
+"Milady... ", Schulga wryly looked at the woman who had worn leather pants and dark red long sleeve. Her hair tied like a ponytail and a rapier quietly hangs by her waist. A hooded dark cloack covered here back.
 
 "Are you sure about this? All i can think is that this is a terrible idea!", Schulga shook his head in worry.
 
@@ -301,3 +301,11 @@ The men who were merrily dancing eyed his cup, looking at it with great envy. Bu
 "Once we were in squander, barely scrapping by!", the skinny man smiled with his terrible terrible teeth baring against the hundreds of onlookers.
 
 "But now, we shall feast like royals! To the King!"
+
+""To the King!!"", all of the men shouted in greed.
+
+As the night continued, the island delved into even greater debauchery. Sex, violation, theft, intoxciation, even murder. Admist all of this, a shadow slowly crept forward. As the drumbs and strings of music roared the plaza, the single lone figure stood out like a sore thumb.
+
+Drinking and kissing two women, the skinny man sat at the center chair, 
+
+"Wait! Stop!!"
