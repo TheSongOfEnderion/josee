@@ -344,4 +344,19 @@ And as if answering her question, the Flames within her beat like a pulse.
 
 "Die!", in a maniacal laughter, a pirate slashed her from the right. But with a slight movement, Josee evaded. Her hands were unfathomably fast as she quickly slashed her sword horizontally, severing the man's head.
 
-Swiftly, Josee turned around and stabbed her sword towards another pirate. Like the winTheir eyes we
+Swiftly, Josee turned around and stabbed her sword towards another pirate. Like the wind, she pulled her blade immediately and dashed to her left, dodging a pirates's saber, causing it to slice the arm of another man.
+
+"Arghh!!!", shouted the injured pirate.
+
+"Damn bitch!!"
+
+Josee dashed quickly, exiting the encirclement while swiftly stabbing her sword, killing two men.
+
+In a few breathes time, Josee killed four people.
+
+Their eyes widened at the strenfth and speed she exuded.
+
+The thin man with a golden cup frowned deeply.
+
+'Not Good'
+
