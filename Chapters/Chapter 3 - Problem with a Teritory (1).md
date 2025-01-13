@@ -1,4 +1,4 @@
-# Chapter 3  - Problem with a Territory (1)
+# Chapter 3  - Problems with a Territory (1)
 
 After talking with the carpenters and blacksmiths, Josee had another headache.
 
@@ -26,7 +26,7 @@ As the dust from the dirt road was kicked into the air by the carriage, the vill
 
 The Baron's Daughter.
 
-The carriage stopped in the village center. Opening the door, a maid came out and held the door for Josee, who carried her own umbrella.
+The carriage stopped in the village center. Opening the door, a maid came out and held the door for Josee, who carried her umbrella.
 
 She wore a long red skirt, a long-sleeved white shirt, a leather corset, and a white capelet on her shoulder. Putting her arms to the back, she caressed her buttocks.
 
@@ -72,7 +72,7 @@ Walking through the village, Josee noticed how near the port was. Many villagers
 
 Josee turned to her and nodded.
 
-From the village square, Josee saw the gallows near the port where a body remained hanged. His head was covered a sack, and dried blood seeped through his neck. From a few moments, his body would twitch as if it was still alive. Near it, she saw a young villager throw dirt at his dead body.
+From the village square, Josee saw the gallows near the port where a body remained hanged. His head was covered with a sack, and dried blood seeped through his neck. From a few moments, his body would twitch as if it was still alive. Near it, she saw a young villager throw dirt at his dead body.
 
 Josee turned her eyes straight forth. Walking beside her, Schulga simply observed Josee's actions. His right hand was placed on the sword at his hip.
 
@@ -84,7 +84,7 @@ Josee turned her eyes straight forth. Walking beside her, Schulga simply observe
 
 "... Good", Josee yawned, "My Father is a good man, but not the brightest. It's a sad thing the stewad wasn't killed much earlier"
 
-"I, I see", Schulga flinched at Josee's casual cruel remark.
+"I, I see", Schulga flinched at Josee's casual cruelty 
 
 He looked at the rotting corpse of the former steward and couldn't help but frown.
 
@@ -104,9 +104,9 @@ Josee looked at him and nodded.
 
 "We've been patrolling the village, and so far, there haven't been any pirate sightings," the guard reported.
 
-'... Pirates' Josee frowned.
+"... Pirates?", Josee frowned.
 
-'... Fuck. Josee from the noble life only cared about simping over handsome princes at the academy. And you're telling me there were actually pirates in her territory? Fuck.'
+'... Fuck. Josee from the noble life only cared about simping over handsome princes at the academy. And you're telling me there were actually pirates in her territory? God just fuck me already'
 
 '... Then again, this place is riddled with monsters.'
 

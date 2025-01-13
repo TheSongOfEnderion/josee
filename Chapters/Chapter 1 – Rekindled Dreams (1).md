@@ -4,7 +4,7 @@ And so it was, that the unfated soon find themselves on the brink of eternal slu
 
 Snow fell. A droplet of ice landed on her face, as the warmth of her blood slowly dyed the snow a beautiful crimson hue. She began rethinking her life choices, and many regrets came to life.
 
-A will to be something, to be better, to be superior, to be something greater. All crumbled at the fragility of one's fate and the folly of human nature. Her red trench coat, the one she always wore for its beautiful radiant red, now seemed fittingly ill-suited for what was to be her end. A crimson dot in a sea of snow, all forgotten and abandoned.
+A will to be something, to be better, to be superior, to be greater. All crumbled at the fragility of one's fate and the folly of human nature. Her red trench coat, the one she always wore for its beautiful radiant red, now seemed fittingly ill-suited for what was to be her end. A crimson dot in a sea of snow, all forgotten and abandoned.
 
 And so, she closed her tired eyes.
 
@@ -111,7 +111,7 @@ All that was left was a ruthless leader.
 
 "... Gouge his eyes," Josee coldly ordered.
 
-"H-His eyes?!" the two guards stared at one another in dismay. Although they were men holding weapons, battle was barely a part of their daily lives, as most residents of the humble village, though poor, had a sense of camaraderie. So, fights were mostly between drunkards.
+"H-His eyes?!" the two guards stared at one another in dismay. Although they were men holding weapons, battle was barely a part of their daily lives, as most residents of the humble village, though poor, had a sense of family. So, fights were mostly between drunkards.
 
 Not torture.
 
@@ -119,7 +119,7 @@ Not torture.
 
 "I have been the steward of this barony for 24 years! W-What you're doing is unfair, unjust, and inhumane! I will make sure the baron hears of th-!"
 
-"Are you two fuckers deaf?" Josee's cold swearing caught the two guards off guard.
+"Are you two fuckers deaf?" Josee's cold swearing caught the two guards off.
 
 The head maid stood behind Josee, her face crumbled into a mess of swelled tears and panicked eyes. Holding her head with both hands, she stepped heavily towards Josee. But before she could open her mouth, Josee cut her off.
 

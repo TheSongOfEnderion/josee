@@ -306,6 +306,42 @@ The men who were merrily dancing eyed his cup, looking at it with great envy. Bu
 
 As the night continued, the island delved into even greater debauchery. Sex, violation, theft, intoxciation, even murder. Admist all of this, a shadow slowly crept forward. As the drumbs and strings of music roared the plaza, the single lone figure stood out like a sore thumb.
 
-Drinking and kissing two women, the skinny man sat at the center chair, 
+Drinking and kissing two women, the skinny man sat at the center chair. Inspitrle of his intoxication, he was still aware enough to notice a strange figure standing at the plaza.
 
-"Wait! Stop!!"
+"Wait! Stop!!", he stood up holding his golden cup, pushing away the women by his side.
+
+The music stopped and everyone stared at the person that the skinny man was glaring at. 
+
+"Who the hell are you?", the skinny man pulled a scimitar from his waist and pointed at her with great fierceness.
+
+"... ah", Josee  lightly exhaled, "This is truly a den of shit"
+
+"I asked you! Who are you? How did you get here, woman?!", the skinny man raged once more.
+
+The other men glared in silence. As the tension grew louder, they noticed how calm the mysterious figure was.
+
+"... oh well. Let's get started", Josee lightly walked towards a man before swiftly pulling her sword, instantly severing his head.
+
+"... hmm", Josee groaned in surprise.
+
+'I never thought heads were this easy to sever', the blood flew through the air, instanfly causing a deafening silence in the once boisterous plaza.
+
+'But I suppose it's just my physical strength that grew stronger'
+
+"K-kill", the skinny man stuttered, "Kil that bitch!!"
+
+""Ragrhh!!!"", with a growl, the hundreds of pirates within the plaza unsheated their blades and aimed for Josee.
+
+Josee lightly closed her eye.
+
+'... i can feel it', Josee felt the tremors, the vibration of the earth as each men took their step. The movements of the air, the change in temperature, and the moisture and humidity.
+
+It all became clear to her.
+
+'... the Flames of Cinder. It really wishes for my growth, doesn't it?'
+
+And as if answering her question, the Flames within her beat like a pulse.
+
+"Die!", in a maniacal laughter, a pirate slashed her from the right. But with a slight movement, Josee evaded. Her hands were unfathomably fast as she quickly slashed her sword horizontally, severing the man's head.
+
+Swiftly, Josee turned around and stabbed her sword towards another pirate. Like the winTheir eyes we
