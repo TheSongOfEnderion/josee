@@ -15,9 +15,9 @@ The last war fifteen years ago resulted in changes in the continent.
 2. Saharans/Dunari/Zarvan - Ethnic group living east of the continent. Brown in complexion.
 3. Kalian/Pacifira - Ethnic group of people living in the Fjords south
 
-# Royalty
+# Royalty 
 Every powerful Royalty in the world possess a secret Monolith of Power which granted their family great strength and magic. This, however, is a lie set by the chaos titans ages ago to cripple mankind should it resist. The Monoliths turns into portals, allowing the chaos titans to arrive in this world and rapidly destroy the existing societal control.
-
+ss
 # Gods
 The gods in this world are former heroes of the previous cycle entombed and calcified into a powerful entity to rule the world as its new god. But it is merely a puppet, half-conscious and half-aware. It is a punishment done by the Chaos titans unto those that severely resisted them.
 
