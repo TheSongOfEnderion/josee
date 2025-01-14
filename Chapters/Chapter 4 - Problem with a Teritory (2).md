@@ -1,4 +1,4 @@
-# Chapter 4  - Problem with a Territory (2)
+# Chapter 4  - Problems with a Territory (2)
 
 Within the Lord's office of the Kalingrad Mansion, Josee sat with six men standing in front of her.
 

@@ -134,7 +134,7 @@ After five minutes, the Shallop boat arrived, carrying five men who were bruised
 
 As soon as the men were placed on the dock, the guard from earlier came back. He brought six women and the local priest, who saw the situation and hurriedly aided the injured men.
 
-"Bring us alcohol!" one of the wise women, an old grandma, shouted at the men standing on the side, who immediately ran toward their houses.
+"Bring us alcohol!" one of the wise women, an old grandma, shouted. Hearing her, the men standing on the side immediately ran to their houses.
 
 Josee watched as the six women opened the boxes they carried. She observed how they assessed the men's injuries and immediately took linen clothes to start cleaning the wounds.
 
@@ -158,7 +158,7 @@ Moments later, Josee turned to one of the men watching on the side and asked:
 
 '... These men must have been desperate. They dared to venture into dangerous waters due to the lack of fish in the area.'
 
-Josee then turned and looked at the local priest. He was a middle-aged man with a goatee, wearing a dark robe and beads. He was casting some healing spell. His forehead was sweating as a small magic circle of yellow light appeared in his hands.
+Josee turned at the local priest. He was a middle-aged man with a goatee, wearing a dark robe and beads. He was casting some healing spell. His forehead was sweating as a small magic circle of yellow light appeared in his hands.
 
 "... Schulga," Josee spoke.
 
@@ -300,7 +300,7 @@ Hearing her response, Schulga deeply frowned.
 
 And after a few moments, he finally spoke.
 
-"You... you're not Josephine Kalingrad... are you," he growled in a deep voice. Schulga subconsciously held the handle of his sword.
+"You... you're not Josephine Kalingrad... are you?," he growled in a deep voice. Schulga subconsciously held the handle of his sword.
 
 As Josee saw this, her half-closed, cold eyes lazily glared at Schulga.
 
@@ -414,7 +414,7 @@ Seeing the changes, Schulga also frowned.
 
 "... We must be ready for the coming battle," and Josee turned towards Schulga.
 
-"... We might all die."
+"... Or we will all die."
 
 ◇ ◇ ◇ ◇ ◇
 
@@ -466,7 +466,7 @@ Josee picked up a map of the world rolled over at the side of her table. Uncurli
 
 Seated at the southernmost part of the Kingdom, facing the sea, Josee traced her hands to the east filled with many islands.
 
-"... The pirate's heaven," Josee half-closed her eyes.
+"... The pirate's cove," Josee half-closed her eyes.
 
 '... The warding stone was just a side treasure. The heroine was kidnapped here, again, by the Pirate King and was rescued by the male leads.'
 
