@@ -358,5 +358,7 @@ Their eyes widened at the strenfth and speed she exuded.
 
 The thin man with a golden cup frowned deeply.
 
-'Not Good'
+'Not Good. This person isn't simple'
+
+After Josee struck down the sixth person, the encirclement of pi
 
