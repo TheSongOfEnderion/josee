@@ -62,7 +62,7 @@ Seeing her act like that, a slight vein popped in Fredriech's forehead. His mout
 
 "... For a former 6th Circle Wizard, you sure lack basic knowledge", Josee sighed.
 
-As he heard another insult, Fredriech simply smiled as a crack formed in his smile.
+As he heard another insult, Fredriech simply smiled as a crack formed in his face.
 
 "... When Growth Spurt is used on the soil, it drains the nutrients and puts it to the plant. Magic isn't so magical. An equal conversion has to be paid for every transaction. So if you keep using growth spurt on the planted crop, it'll leave your earth completely cracked and useless"
 

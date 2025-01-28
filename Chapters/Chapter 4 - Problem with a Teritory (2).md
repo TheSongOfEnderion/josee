@@ -78,11 +78,11 @@ Within the high walls of its capital city, a banquet was currently being held at
 
 The grand banquet hall stood as a testament to opulence and power. Its walls were adorned with majestic tapestries, depicting mythic tales of valor. Above, a painted ceiling transformed the space into an open sky filled with celestial wonders. Gilded woodwork gleamed in the ambient light, and chandeliers of gold and crystal cast a soft radiance upon the tables.
 
-A symphony of curtains framed the towering windows, and marble sculptures graced the alcoves, their cold eyes bearing witness to the festivities. The table, resplendent with silver and exquisite tableware, beckoned guests to partake in a feast fit for kings.
+A symphony of curtains framed the towering windows, and marble sculptures graced the alcoves, their cold eyes bearing witness to the festivities. The table, decorated with silver and exquisite tableware, beckoned guests to partake in a feast fit for kings.
 
 Nobles were resplendent in their medieval finery, donned in rich velvet tunics, embroidered cloaks, and glistening jewels, while knights and clergy wore suits of armor and holy vestments, their attire a tapestry of status and tradition.
 
-In a corner of this banquet, a man dressed in a humble blue noble tunic mingled among other nobles. He held a cup of wine and laughed together with them.
+In a corner of this banquet, a man dressed in a humble blue noble tunic mingled among other nobles. His physique was well built for a man his age. He held a cup of wine and laughed together with them.
 
 "So. With the war almost over, it presents us with a new opportunity."
 
@@ -240,7 +240,7 @@ A vein popped on her forehead, and not bearing to hear Schulga's shouting anymor
 
 "Wait", the shock suddenly returned to Schulga's eyes, "Did you kill this thing?!"
 
-"... Yes", Josee coldly replied, "Prepare it. We will have a feast."
+"... Yes", Josee coldly replied, "Prepare it. We shall have a feast."
 
 ◇ ◇ ◇ ◇ ◇
 
@@ -272,7 +272,7 @@ Josee looked at the other sacks of bags and saw a bunch of crop produce.
 
 "H-How are we going to get them?", Alex asked.
 
-"... We'll buy them", Josee then turned to him.
+"... We'll buy them", Josee turned to him.
 
 "... So, what are you waiting for?"
 
@@ -368,9 +368,13 @@ With her right hand forward, Josee closed her eyes. She breathed in and out, fee
 
 But it wasn't the circle described in the Basic Magic Spell book.
 
-It was a burning fire circle.
+It was a burning flame circle.
 
-Josee lightly opened her eyes, and a flaming magic circle appeared in her right hand. She rearranged the magic circle into exactly as the spellbook needed. Suddenly, a bright light emerged, enveloping the plant as if it was burning.
+Josee lightly opened her eyes, and a flaming magic circle appeared in her right hand. She rearranged the magic circle into exactly as the spellbook needed. Like components in a circuit board, the glyphs within her magic circle changed position and shape, gently guiding the flow of mana and transforming its shape and texture.
+
+'I see. It really is like a circuit board. Magic is but the transformation of mana to a different thing'
+
+Suddenly, a bright light emerged, enveloping the plant as if it was burning.
 
 And as the light faded, the plant grew taller, and its flower grew larger.
 
