@@ -240,7 +240,7 @@ Schulga walked towards Josee who stared at the distant island with three protrud
 
 She wickedly smiled, licking her lips as the thought of acquiring even more wealth made Josee shiver.
 
-"Milady... ", Schulga wryly looked at the woman who had worn leather pants and dark red long sleeve. Her hair tied like a ponytail and a rapier quietly hangs by her waist.
+"Milady... ", Schulga wryly looked at the woman who had worn leather pants and dark red long sleeve. Her hair tied like a ponytail and a rapier quietly hangs by her waist. A hooded dark cloack covered here back.
 
 "Are you sure about this? All i can think is that this is a terrible idea!", Schulga shook his head in worry.
 
@@ -296,7 +296,91 @@ At the side the great plaza where the men were drinking, cages after cages fille
 
 ""To our King!"", the men shouted. Their bodies were coated with golden jewelries and diamond decorations, all looted from some poor merchant.
 
-The men who were merrily dancing eyed his cup, looking at it with great envy. But who would dare steal his cup? Not one soul did,
+The men who were merrily dancing eyed his cup, looking at it with great envy. But who would dare steal his cup? Not one soul did.
+
 "Once we were in squander, barely scrapping by!", the skinny man smiled with his terrible terrible teeth baring against the hundreds of onlookers.
 
+"But now, we shall feast like royals! To the King!"
+
+""To the King!!"", all of the men shouted in greed.
+
+As the night continued, the island delved into even greater debauchery. Sex, violation, theft, intoxciation, even murder. Admist all of this, a shadow slowly crept forward. As the drumbs and strings of music roared the plaza, the single lone figure stood out like a sore thumb.
+
+Drinking and kissing two women, the skinny man sat at the center chair. Inspitrle of his intoxication, he was still aware enough to notice a strange figure standing at the plaza.
+
+"Wait! Stop!!", he stood up holding his golden cup, pushing away the women by his side.
+
+The music stopped and everyone stared at the person that the skinny man was glaring at. 
+
+"Who the hell are you?", the skinny man pulled a scimitar from his waist and pointed at her with great fierceness.
+
+"... ah", Josee  lightly exhaled, "This is truly a den of shit"
+
+"I asked you! Who are you? How did you get here, woman?!", the skinny man raged once more.
+
+The other men glared in silence. As the tension grew louder, they noticed how calm the mysterious figure was.
+
+"... oh well. Let's get started", Josee lightly walked towards a man before swiftly pulling her sword, instantly severing his head.
+
+"... hmm", Josee groaned in surprise.
+
+'I never thought heads were this easy to sever', the blood flew through the air, instanfly causing a deafening silence in the once boisterous plaza.
+
+'But I suppose it's just my physical strength that grew stronger'
+
+"K-kill", the skinny man stuttered, "Kil that bitch!!"
+
+""Ragrhh!!!"", with a growl, the hundreds of pirates within the plaza unsheated their blades and aimed for Josee.
+
+Josee lightly closed her eye.
+
+'... i can feel it', Josee felt the tremors, the vibration of the earth as each men took their step. The movements of the air, the change in temperature, and the moisture and humidity.
+
+It all became clear to her.
+
+'... the Flames of Cinder. It really wishes for my growth, doesn't it?'
+
+And as if answering her question, the Flames within her beat like a pulse.
+
+"Die!", in a maniacal laughter, a pirate slashed her from the right. But with a slight movement, Josee evaded. Her hands were unfathomably fast as she quickly slashed her sword horizontally, severing the man's head.
+
+Swiftly, Josee turned around and stabbed her sword towards another pirate. Like the wind, she pulled her blade immediately and dashed to her left, dodging a pirates's saber, causing it to slice the arm of another man.
+
+"Arghh!!!", shouted the injured pirate.
+
+"Damn bitch!!"
+
+Josee dashed quickly, exiting the encirclement while swiftly stabbing her sword, killing two men.
+
+In a few breathes time, Josee killed four people.
+
+Their eyes widened at the strenfth and speed she exuded.
+
+The thin man with a golden cup frowned deeply.
+
+'Not Good. This person isn't simple'
+
+After Josee struck down the sixth person, the encirclement of pirates widened. None dared to approach her.
+
+Josee stood in silence as the blood dripped from her blade.
+
+But she did not stop. Josee slowly walked forward, her every step caused a trembling to the pirates.
+
+"Burn her!", the shrieveld voice of a cruel skinny man caught everyone's attention.
+
+A bright light flashed from outside the pirate's encirclement.
+
+Josee felt the changes in the wind's temperature as the surrounding men suddenly panicked and ran away.
+
+"Shit, he's using it!"
+
+"Run for your life"
+
+"Arghh!!"
+
+A Bright light instantly emitted from the golden cup of the skinny pirate. He pointed it at Josee and a tremendous Heat wave appeared, instantly burning his fellow pirates.
+
+Josee saw the wide scale area of effect and swiftly run away. Her feet were fast, as did the heat wave. Barely making it out by running away from the center, Josee saw that the heat ray instantly vaporized the bodies of every pirate unfortunate enough to face it.
+
+"Grr! Stay put!!!", the thin man madly shouted
 

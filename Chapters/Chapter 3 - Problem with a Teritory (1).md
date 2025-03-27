@@ -1,4 +1,4 @@
-# Chapter 3  - Problem with a Territory (1)
+# Chapter 3  - Problems with a Territory (1)
 
 After talking with the carpenters and blacksmiths, Josee had another headache.
 
@@ -26,7 +26,7 @@ As the dust from the dirt road was kicked into the air by the carriage, the vill
 
 The Baron's Daughter.
 
-The carriage stopped in the village center. Opening the door, a maid came out and held the door for Josee, who carried her own umbrella.
+The carriage stopped in the village center. Opening the door, a maid came out and held the door for Josee, who carried her umbrella.
 
 She wore a long red skirt, a long-sleeved white shirt, a leather corset, and a white capelet on her shoulder. Putting her arms to the back, she caressed her buttocks.
 
@@ -72,7 +72,7 @@ Walking through the village, Josee noticed how near the port was. Many villagers
 
 Josee turned to her and nodded.
 
-From the village square, Josee saw the gallows near the port where a body remained hanged. His head was covered a sack, and dried blood seeped through his neck. From a few moments, his body would twitch as if it was still alive. Near it, she saw a young villager throw dirt at his dead body.
+From the village square, Josee saw the gallows near the port where a body remained hanged. His head was covered with a sack, and dried blood seeped through his neck. From a few moments, his body would twitch as if it was still alive. Near it, she saw a young villager throw dirt at his dead body.
 
 Josee turned her eyes straight forth. Walking beside her, Schulga simply observed Josee's actions. His right hand was placed on the sword at his hip.
 
@@ -84,7 +84,7 @@ Josee turned her eyes straight forth. Walking beside her, Schulga simply observe
 
 "... Good", Josee yawned, "My Father is a good man, but not the brightest. It's a sad thing the stewad wasn't killed much earlier"
 
-"I, I see", Schulga flinched at Josee's casual cruel remark.
+"I, I see", Schulga flinched at Josee's casual cruelty 
 
 He looked at the rotting corpse of the former steward and couldn't help but frown.
 
@@ -104,9 +104,9 @@ Josee looked at him and nodded.
 
 "We've been patrolling the village, and so far, there haven't been any pirate sightings," the guard reported.
 
-'... Pirates' Josee frowned.
+"... Pirates?", Josee frowned.
 
-'... Fuck. Josee from the noble life only cared about simping over handsome princes at the academy. And you're telling me there were actually pirates in her territory? Fuck.'
+'... Fuck. Josee from the noble life only cared about simping over handsome princes at the academy. And you're telling me there were actually pirates in her territory? God just fuck me already'
 
 '... Then again, this place is riddled with monsters.'
 
@@ -134,7 +134,7 @@ After five minutes, the Shallop boat arrived, carrying five men who were bruised
 
 As soon as the men were placed on the dock, the guard from earlier came back. He brought six women and the local priest, who saw the situation and hurriedly aided the injured men.
 
-"Bring us alcohol!" one of the wise women, an old grandma, shouted at the men standing on the side, who immediately ran toward their houses.
+"Bring us alcohol!" one of the wise women, an old grandma, shouted. Hearing her, the men standing on the side immediately ran to their houses.
 
 Josee watched as the six women opened the boxes they carried. She observed how they assessed the men's injuries and immediately took linen clothes to start cleaning the wounds.
 
@@ -158,7 +158,7 @@ Moments later, Josee turned to one of the men watching on the side and asked:
 
 '... These men must have been desperate. They dared to venture into dangerous waters due to the lack of fish in the area.'
 
-Josee then turned and looked at the local priest. He was a middle-aged man with a goatee, wearing a dark robe and beads. He was casting some healing spell. His forehead was sweating as a small magic circle of yellow light appeared in his hands.
+Josee turned at the local priest. He was a middle-aged man with a goatee, wearing a dark robe and beads. He was casting some healing spell. His forehead was sweating as a small magic circle of yellow light appeared in his hands.
 
 "... Schulga," Josee spoke.
 
@@ -300,7 +300,7 @@ Hearing her response, Schulga deeply frowned.
 
 And after a few moments, he finally spoke.
 
-"You... you're not Josephine Kalingrad... are you," he growled in a deep voice. Schulga subconsciously held the handle of his sword.
+"You... you're not Josephine Kalingrad... are you?," he growled in a deep voice. Schulga subconsciously held the handle of his sword.
 
 As Josee saw this, her half-closed, cold eyes lazily glared at Schulga.
 
@@ -414,7 +414,7 @@ Seeing the changes, Schulga also frowned.
 
 "... We must be ready for the coming battle," and Josee turned towards Schulga.
 
-"... We might all die."
+"... Or we will all die."
 
 ◇ ◇ ◇ ◇ ◇
 
@@ -466,7 +466,7 @@ Josee picked up a map of the world rolled over at the side of her table. Uncurli
 
 Seated at the southernmost part of the Kingdom, facing the sea, Josee traced her hands to the east filled with many islands.
 
-"... The pirate's heaven," Josee half-closed her eyes.
+"... The pirate's cove," Josee half-closed her eyes.
 
 '... The warding stone was just a side treasure. The heroine was kidnapped here, again, by the Pirate King and was rescued by the male leads.'
 

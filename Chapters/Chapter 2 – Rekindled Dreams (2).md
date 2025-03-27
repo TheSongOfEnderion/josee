@@ -6,7 +6,7 @@ A tiny ember, one that could fade with a single whisper of wind. And yet it rema
 
 Josee opened her eyes.
 
-She laid below in the steep grass of the forest. The light of the moon shined her face. She moved her nose, feeling the scent of ash. Quickly standing up, her eyes rapidly observed her surrounding.
+She laid below in the steep grass of the forest. The light of the moon shined her face. She moved her nose, feeling the scent of ash. Quickly standing, her eyes rapidly observed her surrounding.
 
 Finally, a realization dawned to her. She looked at her armor, her hands, chest, and legs, and she could see... fire.
 
@@ -32,13 +32,13 @@ Josee sharpened her gaze. She made eye contact with the single horrifying eyes t
 
 The ogre beast swiftly swung its terrible club, prompting Josee to jump backwards. Her leather armor, almost scratched by the whip of the club.
 
-Josee gnashed her teeth. The beast was rapid and swift, almost immediately jumping at her. Quickly, she jumped to her side, rolling at the ground.
+Josee gnashed her teeth. The beast was rapid and swift, jumping and almost stomping her, she jumped to her side, rolling at the ground.
 
 Immediately gaining her composure, Josee slashed backed at the ogre's legs, causing a spill of green blood.
 
 "RARGGHH!", the ogre beast roared.
 
-In a bid of fury, it turned around, and swung its club at her. But Josee was quick, squatting down, and dashing underneath the ogre. Her sword immediately piercing its bottom.
+In a bid of fury, it turned around, and swung its club at her. But Josee was quick, squatting down to dodge it and dashing underneath the ogre. Her sword immediately piercing its bottom.
 
 A blood curling scream came from the ogre beast, its eyes reddened by madness. Josee stood up, raising her ember sword, her eyes, rapidly searching for a weakness when suddenly, she felt a sharp pain on her body.
 
@@ -46,9 +46,9 @@ A blood curling scream came from the ogre beast, its eyes reddened by madness. J
 
 She flew through the air, smashing straight into a tree and breaking it in half. Half her body caved in, her organs all but disintegrating.
 
-"... Gah!", Blood spewed through Josee's mouth. Her widened eyes from the shock.
+"... Gah!", Blood spewed through Josee's mouth. Her eyes widened from the shock.
 
-As she fell to the grown, the ogre beast walked forward. Its muscles bulging from deep menace.
+As she fell to the ground, the ogre beast walked forward. Its muscles bulging from deep fury.
 
 "GRAGHH!!", the beast howled. It raised its club, and as Josee stared at it... she lightly chuckled. 
 
@@ -62,7 +62,7 @@ But that was not the end.
 
 In this deep darkness, underneath the bright moon sky, her body was slowly enveloped by fire. The fire grew increasingly intense, burning her whole body aflame.
 
-And as the fire died down, Josee stood up. Her eyes, fiercely glaring forward. Josee walked forward, her hands reaching for her sword, and its embers lit up once more.
+And as the fire died down, Josee stood up. Her eyes, fiercely glaring forward. She walked forward, her hands reaching for her sword, and its embers lit up once more.
 
 She glanced at it, its light reflecting her face. And that beautiful face of hers, suddenly broke into a mad smile.
 
@@ -86,13 +86,15 @@ But that split second frown costed her life. The ogre beast slammed heavily to t
 
 As she fell down the tree, the Ogre beast kneeled to the ground. Breathing and bleeding, it fiercely glared at Josee.
 
-But the flames would not be stoked. Flame engulfed Josee's body, arising once more. She opened her eyes, and slowly picked her sword. Her eyes, glaring with blight menace.
+But the flames would not be stoked. 
+
+Flame engulfed Josee's body, arising once more. She opened her eyes, and slowly picked her sword. Her eyes, glaring with blight menace.
 
 "... We are not over", And she wickedly smiled.
 
 Upon seeing his felled enemy arise once more, the ogre beast instinctively took a step back.
 
-Josee rushed him forward. Her hands, learning from experience, tightly gripped the sword. The beast roared, bearing its terrible fangs. But Josee remained unfazed. 
+Josee rushed forward. Her hands, learning from experience, tightly gripped the sword. The beast roared, bearing its terrible fangs. But Josee remained unfazed. 
 
 The ogre beast slammed its arms towards her, but she swiftly dodged to her left, before thrusting her blade, digging deep into the ogre beasts' terrible eye.
 
@@ -102,11 +104,13 @@ She pulled a dagger from her hips, stabbing straight into the ogre's neck. Its g
 
 "... Die!", Josee madly laughed, striking the dagger once more into its neck. The ogre beast, confused and roaring, pulled the sword from his eye and with all its strength, slammed it into Josee.
 
-She was caught off-guard by the sudden rush off blade, causing her to stumble and fall into the ground. Josee immediately stood up, but the ogre seized the opportunity and slammed her head into a thousand fractured pieces, killing her instantly. The furious, maddened beast did not stop. It kept punching Josee's body, even reaping it in half and slamming them both to a nearby rock.
+She was caught off-guard by the sudden rush of the blade, causing her to stumble and fall into the ground. Josee immediately stood up, but the ogre seized the opportunity and slammed her head into a thousand fractured pieces, killing her instantly. The furious, maddened beast did not stop. It kept punching Josee's body, even reaping it in half and slamming them both to a nearby rock.
 
 As the ogre beast exhaled, it felt weak. It suddenly collapsed to its knees, the blood gushing out of its body made its remaining eye to blur. It groaned in pain, covering the back of its neck with its right hand.
 
-But the flames would not be stoked. The two severed parts of Josee burned to ashes, amalgamating into a single entity. The ogre beast stared in horror. Despite its brute strength, it bears significant intelligence. And it knew.
+But the flames would not be stoked. 
+
+The two severed parts of Josee burned to ashes, amalgamating into a single entity. The ogre beast stared in horror. Despite its brute strength, it bears significant intelligence. And it knew.
 
 She could not be killed.
 
@@ -114,11 +118,13 @@ Josee opened her eyes. As she stood before the ogre beast, her body completely n
 
 She slowly picked her sword that's been flayed to her side.
 
+Fire gathered and set the sword in quiet embers.
+
 And Josee wickedly smiled.
 
 "... Hahha.... HAHAHAHAHAHA!", maddened by bloodlust, Josee laughed.
 
-The foul beast gnashed its teeth. It picked its club and menacingly glared at Josee. Their eyes interlocked, both maddened by the battle.
+The foul beast gnashed its teeth. It picked its club and menacingly glared at Josee. Their eyes interlocked, both maddened by battle.
 
 "RRAGHHHHHH!", the ogre howled once more. Its body, constantly bleeding from dozens of wounds inflicted by Josee.
 
@@ -126,7 +132,7 @@ And so, it rushed her, entering a completely berserk state. But Josee did not do
 
 The giant ogre slammed its club with the full weight of his body, a slam that would undoubtedly kill her. But as it neared her, Josee's crimson eyes glinted, and she quickly stepped to her right, narrowly but precisely dodging the incoming attack.
 
-Earth rumbled, and the trees shook. The stones and debris flew everywhere as in that infinitesimal moment, their eyes glared at one another. 
+Earth rumbled, and the trees shook. The stones and debris flew everywhere and in that infinitesimal moment, their eyes glared at one another. 
 
 And from the deepest depth of Josee's soul, an instinct suddenly called.
 
@@ -140,11 +146,11 @@ The sound of its body falling to the ground echoed through the forest, its giant
 
 Josee lowered here sword, and she walked on top of the corpse. 
 
-Laying there alone, with this cursed forest, was a woman madly smiling and laughing.
+Laying there alone, with this cursed forest, was a naked woman madly smiling and laughing.
 
 "... I won! I fucking won! HAHAHAHAHAHAHAHAHA!"
 
-And with a maddened smile, Josee stared at her sword. Burning brightly within this dark forest, it gave her a gentle and warm feeling, as if a mother embracing its daughter.
+And with a crazy smile, Josee stared at her sword. Burning brightly within this dark forest, it gave her a gentle and warm feeling, as if a mother embracing its daughter.
 
 As she stared into those flames, as if a reminder of whom those powers belonged to, she saw the memories of those that came before, of a futile war with all but an inevitable end.
 
@@ -176,21 +182,21 @@ The knight, wearing his full body armor, turned to the soldier and commanded.
 
 As the only Knight sworn to the Kalingrad family, it is his duty to lay his life down to protect the family. But that duty is now in jeopardy as the only heir of the family has gone missing.
 
-'Dammit!', Schulga worriedly ran, following his guards through the thick and dense forest. Each guard carried a purple stone in their hands, emitting a straight purple light.
+'Dammit!', Schulga worriedly ran, following his guards through the thick and dense forest. Each guard carried a purple stone in their hands, emitting a strange purple light.
 
 'The lady's been gone for a whole day', Schulga gnashed his teeth.
 
 'A defenseless woman. I'm afraid... dammit I must hope! Why was I patrolling the borders when the lady woke up!?'
 
-Their reckless search, no doubt alarmed the resident monsters living with the desolate forest. But the purple stones emitted from the guard's hands carried a hue which the monsters avoided.
+Their reckless search, no doubt alarmed the resident monsters living within the desolate forest. But the purple stones emitted from the guard's hands carried a hue which the monsters avoided.
 
 "Men!", Schulga shouted, gaining the attention of the forty guards.
 
 "Spread out, search every leaf of any clues!", Schulga commanded.
 
-"But sir", a guard raised his concern. His voice, trembling.
+"B-But sir", a guard raised his concern. His voice, trembling.
 
-"If we spread out, the Warding stone will lose its efficacy..."
+"I-If we spread out, the Warding stone will lose its efficacy..."
 
 "Just go! Immediately cluster together if something feels wrong!", Schulga shouted.
 
@@ -220,7 +226,7 @@ But suddenly, a voice that they shouldn't have heard resounded. A very feminine 
 
 "... What the hell is wrong with you guys?", Josee spoke out loud. Her crimson eyes twitching at the sight of her men, crying and weeping at her wake.
 
-'... You're a bunch of grown men. Why are you crying so passionately like little girls?', thinking to this, Josee touched her glabella.
+'... You're a bunch of grown men. Why are you crying so passionately like little girls?', thinking of this, Josee touched her glabella.
 
 "... I'm not dead yet"
 
@@ -238,7 +244,7 @@ Like lightning, her words woke all the guards back to reality. Specially so to S
 ◇ ◇ ◇ ◇ ◇
 
 
-The sun stands high in the sky, and the Kalingrad household is in disarray after finding their lady completely covered in blood.
+The sun stood high in the sky, and the Kalingrad household is in disarray after finding their lady completely covered in blood.
 
 Within the bathroom of the humble and small Kalingrad Mansion, Josee sat inside a large wooden bathtub, filled with clean water.
 
@@ -296,7 +302,7 @@ Josee stood up, revealing her humble but curvaceous body. She walked towards the
 
 A glint of determination formed within Josee's eyes.
 
-''... I must do what must be done'
+''... I must do what must be done"
 
 
 ◇ ◇ ◇ ◇ ◇
@@ -310,13 +316,13 @@ Josee wore a humble, white dress that reached her ankles. Her light brown hair w
 
 Her servants, head maid, steward, knight, and chief guard all stood before her in silence. Their faces sported a frown as did their dried mouth. Their focused on the one thing that most disturbed them, Josee's eyes.
 
-The servants and their parents, and the parents of their parents had served the Kalingrad family for many generations. Thus, they knew well that a Kalingrad descendant would have a pair of lustrous copper eyes. Humble the appearance may it, it was the blood of the noble family.
+The servants and their parents, and the parents of their parents had served the Kalingrad family for many generations. Thus, they knew well that a Kalingrad descendant would have a pair of lustrous copper eyes. Humble the appearance may it be, it was the blood of the noble family.
 
 And yet, Josee had a pair of bright, crimson eyes.
 
 But it wasn't just the eyes.
 
-' Her demeanor, her personality, her charisma, and her intellect. All of it completely changed when milady woke up from her coma', Schulga frowned.
+'Her demeanor, her personality, her charisma, and her intellect. All of it completely changed when milady woke up from her coma', Schulga frowned.
 
 'What exactly happened. Who is this woman in front of me. And earlier...', the white-haired Schulga remembered when he and his men rescued Josee.
 
@@ -346,7 +352,7 @@ She was covered in blood and gore and her armor was completely ripped to pieces,
 
 "... Oh", Josee flinched.
 
-'... Fuck, there was a war? The novel didn't mention that''
+'... Fuck, there was a war? The novel didn't mention that'
 
 "... With whom are we waging war again?", Josee casually asked.
 
@@ -356,11 +362,11 @@ She was covered in blood and gore and her armor was completely ripped to pieces,
 
 She turned over her eyes to Schulga who flinched when his eyes met Josee's gaze.
 
-"... Schulga. If we stabbed warding stones in the perimeter of the forest, would that prevent monsters from coming close"
+"... Schulga. If we stabbed warding stones in the perimeter of the forest, would that prevent monsters from coming close?"
 
-Realizing  that his lady was trying to come with a solution, Schulga's eyes turned serious. Momentarily pushing back his questions, he replied.
+Realizing  that his lady was trying to come up with a solution, Schulga's eyes turned serious. Momentarily pushing back his questions, he replied.
 
-"In theory, yes", Schulga replied, "But we would need a warding stone every one meter. I believe if we cover a kilometer perimeter, it would be sufficient"
+"In theory, yes", Schulga replied, "But we would need a warding stone every one meter. I believe if we cover a kilometer of perimeter, it would be sufficient"
 
 "... I see... and how much is a warding stone", Josee asked while writing in her parchment.
 
@@ -408,13 +414,13 @@ And as soon as Josee heard this, she immediately frowned.
 
 And when she thought  of Cetarax, she couldn't help but place her palm on her face.
 
-'... And Cetarax. Fuck. How am I gonna kill that fucker right now. Impossible', Josee deeply sighed. The servants saw the distress in their lady and couldn't help but feel bad for her.
+'... And Cetarax. Fuck. How am I gonna kill that fucker right now? Impossible', Josee deeply sighed. The servants saw the distress in their lady and couldn't help but feel bad for her.
 
 Josee puts down her hand before looking at Schulga.
 
 "... I see. Thank you for your opinion", Josee nodded before turning to Nadia.
 
-"... Nadia, how often to people bath?"
+"... Nadia, how often do people bath?"
 
 "Ah, yes?", Nadia lightly blinked her eyes, wondering why her lady was asking something so obvious.
 
@@ -440,7 +446,7 @@ Josee turned around, looking at her servants who are curiously looking at her.
 
 Her eyes then deeply focused.
 
-'... As much as possible, I'd rather not waste gold on a resource that we can technically grow. Which means... ''
+'... As much as possible, I'd rather not waste gold on a resource that we can technically grow. Which means... '
 
 Josee turned over to a boy, no older than seventeen, standing at the back of the room.
 
@@ -488,13 +494,13 @@ Schulga deeply frowned.
 
 '.... Hmmm', she raised her right hand and pinched her glabella.
 
-'... Fuck. This is more dire than I imagined. How the fuck did these fuckers live this long?'
+'... Fuck. This is more dire than I imagined. How the fuck did these assholes lived this long?'
 
-As she kept touching her glabella, Josee deeply exhaled. An exhaled which also stressed the servants in the room, finally understanding the gravity of the situation.
+As she kept touching her glabella, Josee deeply exhaled. An exhale which also stressed every servants in the room, finally understanding the gravity of the situation.
 
 '... Hmmm'
 
-"... Sighhhhhhhhh", Josee deeply exhaled once more. This time lasting more than ten seconds as she pinched her head. The servants remained silent, almost feeling the stress Josee was feeling.
+"... Sighhhhhhhhh", Josee deeply exhaled once more. This time lasting more than three seconds as she pinched her head. The servants remained silent, almost feeling the same level of stress Josee was feeling.
 
 "M-Milady", Nadia bitterly smiled. The old head maid then spoke.
 
@@ -506,7 +512,7 @@ As she kept touching her glabella, Josee deeply exhaled. An exhaled which also s
 
 "B-But", Nadia curled her eyebrows.
 
-"W-What are we going to do", she asked with trepidation in her heart.
+"W-What are we going to do?", she asked with trepidation in her heart.
 
 "My-My lady", Alex stepped forward, "Should we, write a letter to the baron?"
 

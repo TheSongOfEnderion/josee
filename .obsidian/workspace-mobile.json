@@ -36,7 +36,8 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
+            "sortOrder": "alphabetical",
+            "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -133,9 +134,19 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "96fa19b08458a350",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,9 +161,15 @@
   },
   "active": "c4eeffde908de685",
   "lastOpenFiles": [
+    "Chapters/Chapter 6 - Solving Problems (1).md",
+    "Chapters/Chapter 5 - Recruitment.md",
+    "Chapters/Chapter 12 - Sailing.md",
+    "Chapters/Chapter 4 - Problem with a Teritory (2).md",
+    "Chapters/Chapter 3 - Problem with a Teritory (1).md",
+    "/Lore.md",
     "/Chapters/Chapter 12 - Sailing.md",
     "Chapters/Chapter 2 – Rekindled Dreams (2).md",
-    "Chapters/Chapter 12 - Sailing.md",
-    "Chapters/Chapter 6 - Solving Problems (1).md"
+    "Chapters/Chapter 1 – Rekindled Dreams (1).md",
+    "Chapters/Chapter 11 - Seed of Darkness.md"
   ]
 }

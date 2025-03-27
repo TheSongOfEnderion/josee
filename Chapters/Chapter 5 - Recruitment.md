@@ -1,8 +1,8 @@
 # Chapter 5  - Recruitment
 
-The sun blazed high in the sky as an unremarkable carriage traversed the winding dirt road that snaked through a desolate forest. A retinue of guards flanked the vehicle, mounted on sturdy horses. Their armor bore the scars of countless battles. Leading the procession was a white-haired knight, his brown steed carrying him with a noble bearing.
+The sun blazed high in the sky as an unremarkable carriage traversed the winding dirt road that snaked through a desolate forest. A retinue of guards flanked the vehicle, mounted on sturdy horses. Their armor bore the weathering of many years. Leading the procession was a white-haired knight, his brown steed carrying him with a humble bearing.
 
-Seated within the carriage was Josee, clad in leather pants, a pristine white long-sleeved shirt, and a leather capelet. Her chestnut hair was neatly tied in a ponytail, cascading gently over her shoulder. Beside her sat a demure maid with fiery orange locks, Misha, engrossed in learning to write on a small wooden slate with a piece of chalk.
+Seated within the carriage was Josee, clad in leather pants, a pristine white long-sleeved shirt, and a leather capelet. Her brown hair was neatly tied in a ponytail, cascading gently over her shoulder. Beside her sat a demure maid with a humble orange locks, Misha, engrossed in learning to write on a small wooden slate with a piece of chalk.
 
 'The town we're bound for lies within the domain of Count Rotweiss—Greenleaf Town' Josee mused, her thoughts drifting through the landscape beyond the window.
 
@@ -32,7 +32,7 @@ The guards nodded without hesitation, their familiarity with Josee's reputation 
 
 Schulga furrowed his brow, wondering if they were about to abduct someone, but then he shook his head.
 
-A few moments later, the group of six arrived in front of a shady tavern nestled in a hidden alley. Its rough-hewn door bore the scars of countless fights, and the pervasive odor of ale permeated the air.
+A few moments later, the group of six arrived in front of a shady tavern nestled in a hidden alley. Its rough-hewn door bore the scars of countless fights and the pervasive odor of ale permeated the air.
 
 Schulga inquired, "My lady, is this our destination?"
 
@@ -48,7 +48,7 @@ Josee then approached the bartender, who shot her a fierce glare.
 
 "... Provide everyone a drink," Josee said in a hushed tone, dropping five silver coins onto the table.
 
-Witnessing this, the bartender immediately pocketed the coins and grinned. The inn's patrons resumed their usual activities as though nothing had happened.
+Witnessing this, the bartender immediately pocketed the coins and smiled. The inn's patrons resumed their usual activities as though nothing had happened.
 
 Josee and her group departed from the tavern. Once they had taken the captive to a secluded corner of the town, Josee ordered them to drop him to a wall. She scrutinized the man, who had shoulder-length light gray hair, an unkempt beard, sunken eyes, a frail physique, and wore a worn-out green tunic.
 
@@ -88,11 +88,13 @@ Hearing those words, the man gnashed his teeth.
 
 But his outburst was interrupted by another of Josee's slaps. Feeling the pain in his face once more, he glared at her and groaned.
 
-"Did you just come here to mock me? Is that it?"
+"Did you just come here to mock me? Is that it?!"
 
 "... No, I came to hire you," Josee declared.
 
-Hearing her words, the man closed his eyes and slowly stood up, his body almost stumbling down.
+Hearing her words, the man closed his eyes.
+
+He breathed in and out for a few monents before slowly standing up, his body almost stumbling down.
 
 'Master?' Schulga thought to himself, 'What is this about?'
 
@@ -114,7 +116,7 @@ Fredriech demanded, a flicker of desperation igniting in his eyes.
 
 'The Cornolis family?!', Schulga's mouth gaped open. 
 
-'Who?', he thought, 'Who the hell is she?!'
+'Who?', he thought, 'Who the hell is he?!'
 
 "Normally it would not be possible to restore it," Josee continued, "But I know a way to bring it back."
 
@@ -126,11 +128,15 @@ Realizing his mistake, Fredriech deeply inhaled before apologizing.
 
 "... It's not a problem," Josee rolled her eyes.
 
+Schulga puckered his lips.
+
+'Impressive. The one that's been mistreated is the one apologizing'
+
 "Still. I can't believe you," Fredriech announced, "How can you restore something which can never be restored?"
 
-"A mana core is not a body part that heals. Once it's broken, you destroy your plate, and you can never grow again-"
+"A mana core is not a body part that heals", he continued, "Once it's broken, you destroy your plate, and you can never grow again-"
 
-"... Who says I'm restoring your plate?" Josee smirked.
+"... Who says I'm restoring your plate?" Josee coldly replied.
 
 And that one smirk suddenly sent shivers down Fredriech's spine.
 
@@ -150,9 +156,9 @@ He suddenly kneeled down, tears flowing down his eyes.
 
 The sudden change in his actions caused the guards, even Schulga, to flinch.
 
-"You...", Fredriech continued, "Who the hell are you?"
+"Y-You...", Fredriech continued, "Who the hell are you?"
 
-"W-Why... w-w-why do you have t-t-those flames. T-Those are p-primordial fla-"
+"W-Why... why do you have those flames. Those are primordial fla-"
 
 "... The Flames of Cinder", Josee interrupted.
 
@@ -270,7 +276,7 @@ Josee deeply frowned.
 
 '... All of them have giant fucking egos. Prideful and domineering, they may appear to respect a woman, but they'll never let one command them'
 
-Thinking up to his point, Josee felt it was too bothersome to even try.
+Thinking up to this point, Josee felt it was too bothersome to even try.
 
 "... Tsk, I'll just fucking kill them all"
 
@@ -390,9 +396,9 @@ He saw her furrowed eyebrows. Despite the heat from the flames, a cold sweat pou
 
 With a wave of his hand, the root veins brought the five bandits over. Standing in rows, their eyes were shivering in fear.
 
-"... Let this one talk", Standing before one of them, Josee commanded.
+"... Let this one talk", Josee commanded.
 
-Fredriech then untangled the mouth of that bandit. A middle-aged man with a mustache, a brown skin, and a frail yet muscular body.
+Fredriech then untangled the mouth of that bandit. A middle-aged man with a mustache, brown skin, and a frail yet muscular body.
 
 "... Why did you attack us?", Josee asked.
 
@@ -418,7 +424,7 @@ The bandit hurriedly explained with such speed that he ended up biting his tongu
 
 After obtaining all the information she needed, Josee burned all men to death, leaving nothing but ash behind. After her interrogation, the guard's captain, Anthony came to report.
 
-"Milady! We've confirmed all men are dead!", Anthony reported. His old brigandine armor was splattered with blood.
+"Milady! We've confirmed all men are dead!", Anthony reported. His old brigandine armor was splattered with blood. His breathing, rough and heavy.
 
 "... I see", Josee softly nodded. Her half-closed eyes then coldly stared at Fredriech.
 
@@ -428,7 +434,7 @@ After obtaining all the information she needed, Josee burned all men to death, l
 
 "... Good", Josee replied before walking back to where the dead bodies were.
 
-"... Prepare wind magic. We must clean the scene and leave no evidence", she ordered as a flame grew from her hands.
+"... Prepare wind magic. We must clean the scene and leave no evidence", she ordered as a flame grew from her hands, burning the remaining dead body.
 
 "Yes!", Fredriech obediently shouted.
 
