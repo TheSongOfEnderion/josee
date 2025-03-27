@@ -360,5 +360,27 @@ The thin man with a golden cup frowned deeply.
 
 'Not Good. This person isn't simple'
 
-After Josee struck down the sixth person, the encirclement of pi
+After Josee struck down the sixth person, the encirclement of pirates widened. None dared to approach her.
+
+Josee stood in silence as the blood dripped from her blade.
+
+But she did not stop. Josee slowly walked forward, her every step caused a trembling to the pirates.
+
+"Burn her!", the shrieveld voice of a cruel skinny man caught everyone's attention.
+
+A bright light flashed from outside the pirate's encirclement.
+
+Josee felt the changes in the wind's temperature as the surrounding men suddenly panicked and ran away.
+
+"Shit, he's using it!"
+
+"Run for your life"
+
+"Arghh!!"
+
+A Bright light instantly emitted from the golden cup of the skinny pirate. He pointed it at Josee and a tremendous Heat wave appeared, instantly burning his fellow pirates.
+
+Josee saw the wide scale area of effect and swiftly run away. Her feet were fast, as did the heat wave. Barely making it out by running away from the center, Josee saw that the heat ray instantly vaporized the bodies of every pirate unfortunate enough to face it.
+
+"Grr! Stay put!!!", the thin man madly shouted
 
