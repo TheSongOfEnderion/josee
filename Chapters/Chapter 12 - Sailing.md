@@ -384,3 +384,84 @@ Josee saw the wide scale area of effect and swiftly run away. Her feet were fast
 
 "Grr! Stay put!!!", the thin man madly shouted
 
+Running swiftly across the sands, Josee did not stopped and sliced the head of every pirate unfortunate enough to cross her path.
+
+Moments later, the thin man growled as the heat from his cup disappeared.
+
+"Fuck, surround her!", the frail man shouted, but the remaining pirates did not follow and simply stood in silence.
+
+
+Josee opened her left palm and a small fire appeared. She frowned and the flames condensed into a short arrow that fits her hand.
+
+With a sudden flip of her arm she threw the flame arrow, instantly penetrating the skull of the frail man and burning his body.
+
+"S-She killed him!"
+"A fire mage!"
+"Run!"
+
+Josee's eyes sharpened. 
+
+'... About 60 more pirates. Not counting for those on the other parts of the island.', Josee muttered.
+
+She held her blade tightly. Her robe waved by the wind as the flame of cinder strengthened her legs. Josee sprintrled so fast that the wind were sliced apart. She begun slashing away at every pirate she came across.
+
+Gutting their stomach, slithering their throat and slashing their chest. In a matter of a few seconds, more than ten pirates died in her path. Their struggle to attack her was met with twice the stab in their face as Josee's speed was swift and violent.
+
+"She's a monster!"
+"Fuck!! Where's the king!?"
+"Kargh!!"
+
+Josee created five flame blades and threw them at five pirates running away, buening them all alive.
+
+Josee slowly walked through the center of this pirate haven. The burning huts, the dead bodies, the crisp ground, and the blood soaked earth and screams turned the scenery into a grosteuqe massacre.
+
+'... I should make quick work of this. I'm starting to feel hungry...'
+
+But as she walked towards the wide pavement towards the largest house in this haven, Josee suddenly felt an intense source of mana.
+
+The spreading flames Illuminated the shadows of a man in light armor. A blazing brown hair waves through the wind. His muscular build stood in contrast with his handsome face.
+
+Josee stood for a moment and silently glared at the man.
+
+"And who exactly are you? Mage.", the man asked with a scoff in his face.
+
+Josee stood in silence. 
+
+'So that's the bastard who wanted to rape the heroine'
+
+But she did not.open her mouth and simply showed the sliver of her blade.
+
+
+"Well, no point in courtesy when you'll gonna die." The pan took out a blue saber from his hips and declared his name.
+
+"I am Bertolz, the Pirate King of this Sea!", with an angry glare, he pointed his saber at Josee.
+
+The moisture in the air were seem to be pulled to the saber. Josee, felt her lips crack from the lack of humidity.
+
+'... Strange. The book never mentioned this.effect'
+
+Suddenly, like a laser beam, a collum of water with intense pressure shot from the tip of his saber!
+
+Josee quickly dodged to the back, but the speed of the intense water pressure was too fast that it immediately severed her head.
+
+As Josee's head fell to the ground, the pirate king raised his lips in contempt.
+
+Bertolz turned and saw the flame that raged in his island. And as he saw the burned bodies of his men and the screaming,  he couldn't help but frown in anger.
+
+He also saw his right hand man dead over there, still holding unto the cup artefact he carried.
+
+'To think a single mage dealt this must damage. Useless!'
+
+"Cairus! Where the hell are you?!", the pirate king shouted. 
+
+Suddenly, a movement shook beneath the sands as a lid opened from the ground. A short statured man crawled out, holding a knife in his mouth and shaking in fear.
+
+"Your highness", the man Spoke slowly. "That woman was a... monster. She was swift, and deadly. Our blades could not touch her"
+
+"Bah, excuses", Bertolz angurly kicked the tiny man. Falling to the ground, he spit the dirt and blood from his mouth and bowed.
+
+"I apologize my king", he grovelled in the ground, shaking in pain.
+
+" "
+
+
