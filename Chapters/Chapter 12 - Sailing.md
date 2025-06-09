@@ -465,3 +465,23 @@ Suddenly, a movement shook beneath the sands as a lid opened from the ground. A 
 " "
 
 
+——-
+
+Bertolz turned around towards the invader's corpse when suddenly... he saw nothing.
+
+"What?", he deeply frowned. Striding heavily to where she was supposed to be, he saw nothing but blood and the burnign flames around him.
+
+"Where?!", he immediately begun searching everywhere, his eyes pacing around like a madman.
+
+'She disappeared?! Does she have an ability yo revive? Or is this an illusion?'
+
+"Cairus!!", bertolz shouted. But as his loud voice reached the fsr distance, only the crisps echoes of flame came to his ears.
+
+"Damnit, Cairus!! Show yourselves!", he grit his teeth.
+
+'Did she got him?!', as his thoughts reached this point, he felt a piercing pain penetrate his entire body. Blood bled from the right side of his body.
+
+Puking blood from his mouth, he quickly flipped his blade with his right arm, faced it yo his back and unleashed a torrent of water!
+
+But Josee knew his tricks already, she would not fall for it again. With a swift kneel, Jose curved her body to the left, barely dodging the torrent.
+
