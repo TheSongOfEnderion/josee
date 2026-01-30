@@ -110,6 +110,7 @@ Schulga chuckled sheepishly. "Unfortunately, yes. But milady," his voice grew se
 
 ◇ ◇ ◇ ◇ ◇
 
+
 The vast expanse of the world's blue ocean stretched before Josee. The salty wind whipped her brown hair back, revealing a determined glint in her eyes. Dressed in an unassuming beige dress, she stood at the ship's bow, a sharp sword hanging from her hip – a stark contrast to her commoner's attire.
 
 "We'll need to make a detour because of Cetarax," Boli explained, adjusting his worn jacket and leather pants. "Word has it the beast woke up and devoured a whole ship."
