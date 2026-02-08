@@ -2,7 +2,7 @@
 
 And so it was, that the unfated soon find themselves on the brink of eternal slumber.
 
-Snow fell. A droplet of ice landed on her face, as the warmth of her blood slowly dyed the snow a beautiful crimson hue. She began rethinking her life choices, and many regrets came to life.
+Snow fell. A droplet of ice landed on her face, as the warmth of her blood slowly dyed the snow a beautiful crimson hue. She began rethinking her life choices, and many regrets came to be.
 
 A will to be something, to be better, to be superior, to be greater. All crumbled at the fragility of one's fate and the folly of human nature. Her red trench coat, the one she always wore for its beautiful radiant red, now seemed fittingly ill-suited for what was to be her end. A crimson dot in a sea of snow, all forgotten and abandoned.
 
@@ -10,7 +10,7 @@ And so, she closed her tired eyes.
 
 And the light faded away.
 
-But the whim of fate is one that no soul could predict, throwing about all men and women as she pleases. Upon opening her eyes once more, the familiar warmth of yellow morning light brushed her face. A salty wind from an unfamiliar window caressed her nose, lifting a bit of her hair.
+... But the whims of fate is one that no soul could predict, throwing about all men and women as she pleases. Upon opening her eyes once more, the familiar warmth of yellow morning light brushed her face. A salty wind from an unfamiliar window caressed her nose, lifting a bit of her hair.
 
 She looked around the room and noticed an uncanny old architecture, one she would have seen in museums or ancient parts of Europe. Dark satin wood, white wooden walls, and windows with tiny squares filled with flattened shells.
 
