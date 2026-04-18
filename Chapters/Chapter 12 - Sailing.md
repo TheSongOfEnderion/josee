@@ -458,7 +458,7 @@ Suddenly, a movement shook beneath the sands as a lid opened from the ground. A 
 
 "Your highness", the man Spoke slowly. "That woman was a... monster. She was swift, and deadly. Our blades could not touch her"
 
-"Bah, excuses", Bertolz angurly kicked the tiny man. Falling to the ground, he spit the dirt and blood from his mouth and bowed.
+"Bah, excuses!", Bertolz angurly kicked the tiny man. Falling to the ground, he spit the dirt and blood from his mouth and bowed.
 
 "I apologize my king", he grovelled in the ground, shaking in pain.
 
