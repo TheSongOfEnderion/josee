@@ -263,3 +263,79 @@ Hearing her, the people at the back all murmured, finally understanding why they
 "My family is powerful!", she replied, "You would gain favor from us if you let me go home"
 
 "... Ho?", Josee's interest was pique.
+
+"And who is this family?", Josee scrutinized her eyes.
+
+Judging on her brown features, silky long dark hair, snd skin so smooth that it had no blemishes, she can only assume she must be a noble.
+
+"I came from the Borr Tribe, the Melborr Clan to be precise"
+
+"... Hooh...", Josee raised one eyebrow.
+
+"... Oh shit", she bit her thumb and she started tapping her right foot. Seeing her like this, Schulga raised his eyebrows.
+
+'Something annoying again?', Schulga wondered.
+
+'... Fuck. Of fucking course, why didn't I realize?', Josee bit her thumb again.
+
+'... One of the conflict of the story, if you can even call it a story, is that a princess of a South East Country was found dead in the Kingdom of Brytoria. This led to a war of infiltration culminating in the shattering of the row bridge that connected both continents'
+
+'... If that bridge shatters, the only direct access to that continent disappears and with that disappearance means lack of Oil'
+
+"... Fuck", Josee cussed causing the brown skinned woman to flinch, "Woman, you should have said so from the start. Alright Schulga, call your best men and protect her at all cost do you understand?"
+
+Josee glared at Schulga.
+
+"... I don't care if they die, not one scratch on this woman do you understand?"
+
+"I understand mi'lady", Schulga just lightly bowed without much questions. At this point, he figured it was much easier to obey and ask later than hounding her.
+
+"... Hey you, you're Uria right?", Josee sighed.
+
+''Hmm? Yes. I am Uris Melborr", take aback, she akwardly smiled, "how did you know who I was?"
+
+"... I doesn't matter", Josee rolled her eyes, "the only thing that matters is that I'am returning you wherever you came from. Safely. In exchange, I need exclusive rights tocbuy Oil from your country at a discounted rate"
+
+After hearing her words, Uria heaved a sigh of relief. The panick in her face disappeared only to be replaced by the cold and methodical look of a tested negotiator.
+
+"Done. Let us discuss the discount rate and terms"
+
+"... Later on my ship", Jose yawned before going back to the ship.
+
+As for the rest of the men, they all hurriedly took the gold the treasures and chest, loading them to the ship, with great tension.
+
+◇ ◇ ◇ ◇ ◇
+
+Vishka had lived a long hard life.
+
+From the moment she joined the thieves guild and to becoming an information broker and to losing her husband, life has been nothing but a series of suffering to her.
+
+But still she endures.
+
+For what it's worth, she had lost faith in her ability to control her own fate.
+
+A being tugged away by the whims of fate. Whatever was meant has always been what is ought.
+
+It is what it is.
+
+And so in the last few years of her life, she wanted to live in peace.
+
+She had envisioned her end, that she would find a village by the sea and die in that place. It was quiet and humble, just like how she begun. This was all she needed.
+
+And so she set out in a voyage one last time to find this village. And when the pirates attacked the vessel she traveled with, she stayed calm and offered her sevices. Her visions had showed her that she had to stay with the pirates for a while until a child of gold would one day arrive.
+
+But no child of gold arrive.
+
+In fact the pirates she had envisioned that would live long were cruelly massacred right in front of her.
+
+A being whose fate she could not see.
+
+Once more in her life, she felt dread. Fear. A being she could not see the future off. There could only.be two meaning behind this.
+
+Either they are a godlike being that their gradient of existence is way above mortals, or they don't belong to this world, hence she cannot see their fate.
+
+◇ ◇ ◇ ◇ ◇
+
+Po
+
+

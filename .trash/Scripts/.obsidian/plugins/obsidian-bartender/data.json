@@ -1,0 +1,75 @@
+{
+  "statusBarOrder": [],
+  "ribbonBarOrder": [],
+  "fileExplorerOrder": {
+    "Machine Design": [
+      "Machine Design/Machine Design.md",
+      "Machine Design/I. Simple Stress.md",
+      "Machine Design/II. Pressure Vessels.md",
+      "Machine Design/III. Shaft.md",
+      "Machine Design/Terms"
+    ],
+    "MACDES": [
+      "MACDES/Machine Design.md",
+      "MACDES/I. Simple Stress.md",
+      "MACDES/Images"
+    ],
+    "/": [
+      "Josee of the Faded Light.md",
+      "Lore",
+      "Races",
+      "Beings",
+      "Lords",
+      "Ages",
+      "Groups",
+      "Chamberlain of One God.md",
+      "Characters",
+      "Locations",
+      "Powers",
+      "Boss",
+      "Items",
+      "Misc",
+      "Images",
+      "Chapters"
+    ],
+    "Lore": [
+      "Lore/Map.canvas",
+      "Lore/Outer Gods",
+      "Lore/History.md",
+      "Lore/Light.md",
+      "Lore/Lore.md",
+      "Lore/Outer God.md",
+      "Lore/Worship of the Fragile.md",
+      "Lore/Fragments of Light.md",
+      "Lore/Philosophy.md",
+      "Lore/Promised Light.md",
+      "Lore/First Flame.md",
+      "Lore/Prophecy of the Faded One.md",
+      "Lore/Radiant Lineage.md",
+      "Lore/Withering.md",
+      "Lore/Light Shard.md"
+    ],
+    "Groups": [
+      "Groups/Deep Starcries.md",
+      "Groups/Deep Starcries",
+      "Groups/Order of Kings.md"
+    ],
+    "Beings": [
+      "Beings/Kingdom of Arendor",
+      "Beings/Empyrean.md",
+      "Beings/Faded Lord.md",
+      "Beings/Faded One.md",
+      "Beings/Oakenbearers.md",
+      "Beings/Shopbearers.md",
+      "Beings/Twilight Fireflies.md",
+      "Beings/Withered.md",
+      "Beings/Sentinel Trees.md",
+      "Beings/Acturian Knights.md",
+      "Beings/Gods.md"
+    ]
+  },
+  "actionBarOrder": {},
+  "autoHide": false,
+  "autoHideDelay": 2000,
+  "dragDelay": 200
+}
