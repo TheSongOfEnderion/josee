@@ -4,87 +4,68 @@
     "editor.tabSize": 4,
     "editor.wrappingIndent": "same",
     "editor.wordWrap": "wordWrapColumn",
-    "editor.wordWrapColumn": 120,
+    "editor.wordWrapColumn": 100,
     "editor.quickSuggestions": {
       "comments": "on",
       "strings": "on",
       "other": "on"
     },
-      "editor.lineHeight": 25,
+    "editor.lineHeight": 25,
     "editor.fontFamily": "Calibri Light",
-    "editor.fontSize": 16,
+    "editor.fontSize": 16
   },
-  // "editor.lineHeight": 25,
-  // "editor.fontFamily": "Calibri Light",
-  // "editor.fontSize": 16,
   "editor.rulers": [],
-  // "editor.wordWrap": "wordWrapColumn",
-  // "editor.wordWrapColumn": 40,
   "editor.renderLineHighlight": "line",
   "workbench.colorCustomizations": {},
   "highlight.regexes": {
-    "((\"|\"\")(.+?)(\"\"|\"))": {
+    "\"[^\"]*\"": {
       "filterLanguageRegex": "markdown",
       "regexFlags": "gm",
       "decorations": [
-        { "color": "#7ac1ff" }
+        {
+          "color": "#7ac1ff"
+        }
       ]
     },
-    // ((?<!.)('.+?')(?!(t|s)))
-    "(('(?!(s|t|ll|re|ve|m)))(.+?)('(?!(s|t|ll|re|ve|m))))": {
+    "'[^'\\n]*'": {
       "filterLanguageRegex": "markdown",
       "regexFlags": "gm",
       "decorations": [
-        { "color": "#ff4040", "fontStyle": "italic"},
-      ],
-
+        {
+          "color": "#ff4040",
+          "fontStyle": "italic"
+        }
+      ]
     },
     "(◇ ◇ ◇ ◇ ◇)": {
       "filterLanguageRegex": "markdown",
       "decorations": [
-        { "color": "#61ff6e" },
-      ],
-
-    },
-    // "(\\*\\*)(.+?)(\\*\\*)": {
-    //   "filterLanguageRegex": "markdown",
-    //   "regexFlags": "gm",
-    //   "decorations": [
-    //     { "opacity": "0" },
-    //     { "color": "#98b4ff"},
-    //     { "opacity": "0" },
-    //   ],
-    // },
-    "^(?!\\s*$).+$": {
-      "filterLanguageRegex": "markdown",
-      "regexFlags": "gm",
-      "decorations": [
-        { "backgroundColor": "#61ff6e" },
-      ],
-
+        {
+          "color": "#61ff6e"
+        }
+      ]
     }
   },
   "todohighlight.keywords": [
     "DEBUG:",
     "REVIEW:",
     {
-        "text": "NOTE:",
-        "color": "#ff0000",
-        "backgroundColor": "yellow",
-        "overviewRulerColor": "grey"
+      "text": "NOTE:",
+      "color": "#ff0000",
+      "backgroundColor": "yellow",
+      "overviewRulerColor": "grey"
     },
     {
-        "text": "HACK:",
-        "color": "#000",
-        "isWholeLine": false,
+      "text": "HACK:",
+      "color": "#000",
+      "isWholeLine": false
     },
     {
-        "text": "TODO:",
-        "color": "red",
-        "border": "1px solid red",
-        "borderRadius": "2px", //NOTE: using borderRadius along with `border` or you will see nothing change
-        "backgroundColor": "rgba(0,0,0,.2)",
-        //other styling properties goes here ... 
+      "text": "TODO:",
+      "color": "red",
+      "border": "1px solid red",
+      "borderRadius": "2px",
+      "backgroundColor": "rgba(0,0,0,.2)"
     }
   ],
   "materialkv.pythonFile": "main.py"

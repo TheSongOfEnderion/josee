@@ -236,7 +236,7 @@ Suddenly, a banging sound occured. The ground shook, and the earth shivered, as 
 
 "My Lady", he turned to her to ask. "Are we really not going to implore the center kingdoms? They have lived long and ignorant of the plight of our world. If not for us, they would all be run over by horrors"
 
-"Its useless", Cerine replied, "They are too far from the north, and the ridge separating us is too wide a gap for any sensible logistics to pass"
+"Its useless", Cerine replied, "They are too far from the north, and the bridge separating us is too wide a gap for any sensible logistics to pass"
 
 "Still", she continued, "our old ways of keeping this horror to ourselves are failing"
 
@@ -284,7 +284,7 @@ Suddenly, a man in a purple horse galloped next to Cerine.
 
 Griting his teeth, Hortario reported.
 
-"The Magus tower detected a great deal of Magiak Energy from the south"
+"The Magus tower detected a great deal of Magika from the south"
 
 "What?!", Cerine gnashed her teeth. Madness seem to glint from her eyes.
 

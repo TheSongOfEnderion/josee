@@ -152,7 +152,7 @@ Naturally, he understood why Josee wanted to keep things here a secret.
 
 "...No", Josee interrupted.
 
-"... Gather every servant in the mansion, and even any servant from outside nearby and have them swear an oath with the Oathmaker. To not speak in anyway of the even that happened here unless i permitted it"
+"... Gather every servant in the mansion, and even any servant from outside nearby and have them swear an oath with the Oathmaker. To not speak in anyway of the event that happened here unless i permitted it"
 
 Josee turned to face the mayor with firm eyes.
 

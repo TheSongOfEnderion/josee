@@ -390,7 +390,6 @@ Moments later, the thin man growled as the heat from his cup disappeared.
 
 "Fuck, surround her!", the frail man shouted, but the remaining pirates did not follow and simply stood in silence.
 
-
 Josee opened her left palm and a small fire appeared. She frowned and the flames condensed into a short arrow that fits her hand.
 
 With a sudden flip of her arm she threw the flame arrow, instantly penetrating the skull of the frail man and burning his body.
@@ -462,6 +461,52 @@ Suddenly, a movement shook beneath the sands as a lid opened from the ground. A 
 
 "I apologize my king", he grovelled in the ground, shaking in pain.
 
-" "
+"Gather the remaining men! And go bring the Fleece of Healing" Bertolz shouted at the frail short man.
 
+"Yes my King", he grovelled at the ground before crawling away quickly in all fours.
 
+Bertolz stared at the dozens of men that are dead and couldn't help but cuss.
+
+"Fuck!", he grit his teeth as he activated his sword and started extinguishing the flames.
+
+"This will take a while to fill up our crew again. Fucking asshole, I will find out whoever is behind this!", Bertolz angeily shouted as he slowly extinguished the flames.
+
+With great anger he stomped and his eyes looked down, quickly searching the ground.
+
+"Where did I kill that bitch! I need to chop her body or I'll blow up in, anger!"
+
+As he remembered where he killed her, he turned around towards the where invader's corpse lied when suddenly... he saw nothing.
+
+"What?", he deeply frowned. Striding heavily to where she was supposed to be, he saw nothing but blood and the burning flames around him.
+
+"Where?!", he immediately begun searching everywhere, his eyes pacing around like a madman.
+
+'She disappeared?! Does she have an ability to revive? Or is this an illusion?'
+
+"Cairus!!", bertolz shouted. But as his loud voice reached the far distance, only the crisps echoes of crisp flame came to his ears.
+
+"Damnit, Cairus!! Show yourself!", he grit his teeth.
+
+'Did she got him?!', as his thoughts reached this point, he felt a piercing pain penetrate his entire body. Blood bled from the right side of his waist.
+
+Puking blood from his mouth, he quickly flipped his blade with his right arm, faced it to his back, unleashing a torrent of water!
+
+But Josee knew his tricks already, she would not fall for it again. With a swift kneel, Jose curved her body to the left, barely dodging the torrent.
+
+She dug her blade deeper, causing him intense pain before pulling it to slice him up. Bertolz was quick and blocked her sword with his blade using both hands. As the pain grew sharper, his eyes dulled. His intestines penetrated and his vile slowly gushing out.
+
+"Fuck! Fuck! You think you can kill me with just this?!", Bertolz shouted as his hands trembled.
+
+Josee immediately heated up her blade, burning Bertolz from within. In an instant, his hands felt weak and his arms were paralyzed by the pain.
+
+Pulling with all her might, Josee slashed her sword up, severing Bertolz's right arm and part of his chest.
+
+As the blood rained on the burning ground, Bertolz fell to his knees.
+
+With a shaky consciousness, he stared at Josee.
+
+"You... What... are yo-?", but his words were cut off as Josee struck his head, melting his brains off.
+
+"There she is!!", a frail snd hoarse voice shouted from her behind. As the footsteps of dozens of men approached, Josee simply.wiped the blood off of her face before proceeding into the flames.
+
+And so the night looms with blood. The once prosperous island of pirate debauchery was reduced to nothing but ash.
