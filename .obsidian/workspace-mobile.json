@@ -99,7 +99,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "b644e361ae8f8be8",
@@ -177,6 +177,8 @@
   },
   "active": "e0190937c40c640a",
   "lastOpenFiles": [
+    "/Chapters/Chapter 12 - Sailing.md",
+    "/Chapters",
     "misc/schulga.md",
     "Scripts/README.md",
     "Memory.md",
@@ -195,7 +197,6 @@
     "Chapters/Chapter 6 - Solving Problems (1).md",
     "Chapters/Chapter 3 - Problem with a Teritory (1).md",
     "/Lore.md",
-    "/Chapters/Chapter 12 - Sailing.md",
     "Chapters/Chapter 2 – Rekindled Dreams (2).md"
   ]
 }
